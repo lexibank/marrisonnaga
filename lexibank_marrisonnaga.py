@@ -2,10 +2,16 @@
 from __future__ import unicode_literals, print_function
 
 from clldutils.path import Path
-from pylexibank.dataset import Dataset as BaseDataset
+from pylexibank.dataset import NonSplittingDataset
+from clldutils.misc import slug
+
+from tqdm import tqdm
+from collections import defaultdict
+
+import lingpy
 
 
-class Dataset(BaseDataset):
+class Dataset(NonSplittingDataset):
     dir = Path(__file__).parent
     id = "marrisonnaga"
 
@@ -20,14 +26,55 @@ class Dataset(BaseDataset):
     def cmd_install(self, **kw):
         """
         Convert the raw data to a CLDF dataset.
-
-        Use the methods of `pylexibank.cldf.Dataset` after instantiating one as context:
-
-        >>> with self.cldf as ds:
-        ...     ds.add_sources(...)
-        ...     ds.add_language(...)
-        ...     ds.add_concept(...)
-        ...     ds.add_lexemes(...)
         """
+
+        data = lingpy.Wordlist(self.dir.joinpath(
+            'raw',
+            'GEM-CNL.csv').as_posix())
+
+        languages, concepts = {}, {}
+        missing = defaultdict(int)
         with self.cldf as ds:
-            pass
+            for concept in self.concepts:
+                ds.add_concept(
+                        ID=concept['NUMBER'],
+                        Name=concept['ENGLISH'],
+                        Concepticon_ID=concept['CONCEPTICON_ID'],
+                        Concepticon_Gloss=concept['CONCEPTICON_GLOSS']
+                        )
+                concepts[concept['ENGLISH']] = concept['NUMBER']
+            for language in self.languages:
+                ds.add_language(
+                        ID=slug(language['Language_in_source']),
+                        Glottocode=language['Glottolog'],
+                        Name=['Language_in_source']
+                        )
+                languages[language['Language_in_STEDT']] = slug(language['Language_in_source'])
+
+            ds.add_sources(*self.raw.read_bib())
+            for idx, language, concept, value, pos in tqdm(data.iter_rows(
+                'doculect', 'concept', 'reflex', 'gfn'), desc='cldfify the data'):
+                segments = ''
+                if value.strip():
+                    if pos == 'v':
+                        concept = 'to '+concept
+
+                    if concept not in concepts:
+                        if 'to '+concept in concepts:
+                            concept = 'to '+concept
+                        else:
+                            missing[concept] += 1
+                    
+                    if concept not in missing:
+                        ds.add_lexemes(
+                                Language_ID=languages[language],
+                                Parameter_ID=concepts[concept],
+                                Form=value.split(',')[0],
+                                Value=value,
+                                Source=['Marrison1967']
+                                )
+            for i, m in enumerate(missing):
+                print(str(i+1)+'\t'+m)
+
+
+
