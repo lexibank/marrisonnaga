@@ -28,7 +28,7 @@
 "Marrison-1967-917-27",27,"to awake;  to awaken",825,"AWAKE"
 "Marrison-1967-917-28",28,"axe",677,"AXE"
 "Marrison-1967-917-29",29,"baby",1289,"BABY"
-"Marrison-1967-917-30",30,"Back (of the body)",1291,"BACK"
+"Marrison-1967-917-30",30,"back (of the body)",1291,"BACK"
 "Marrison-1967-917-31",31,"bad",1292,"BAD"
 "Marrison-1967-917-32",32,"bag",2468,"BAG"
 "Marrison-1967-917-33",33,"bamboo",1927,"BAMBOO"
@@ -381,8 +381,8 @@
 "Marrison-1967-917-380",380,"ivory",,
 "Marrison-1967-917-381",381,"jackal",,
 "Marrison-1967-917-382",382,"jaw",798,"JAW"
-"Marrison-1967-917-383",383,"Jaw's harp",,
-"Marrison-1967-917-384",384,"Job's tears(coix)",,
+"Marrison-1967-917-383",383,"Jew's harp",,
+"Marrison-1967-917-384",384,"Job's tears (coix)",,
 "Marrison-1967-917-385",385,"to join",1743,"JOIN"
 "Marrison-1967-917-386",386,"judgment",1067,"JUDGMENT"
 "Marrison-1967-917-387",387,"juice",1499,"JUICE"
@@ -472,7 +472,7 @@
 "Marrison-1967-917-471",471,"the mind",1562,"MIND"
 "Marrison-1967-917-472",472,"mist",249,"FOG"
 "Marrison-1967-917-473",473,"mistake",1293,"MISTAKE"
-"Marrison-1967-917-474",474,"mithan (gayal bos fontalis)",,
+"Marrison-1967-917-474",474,"mithan (gayal, bos fontalis)",,
 "Marrison-1967-917-475",475,"money",1559,"MONEY"
 "Marrison-1967-917-476",476,"monkey (generic)",1350,"MONKEY"
 "Marrison-1967-917-477",477,"monkey (huluk)",,
@@ -910,3 +910,5 @@
 "Marrison-1967-917-909",909,"young",1207,"YOUNG"
 "Marrison-1967-917-910",910,"young man",76,"YOUNG MAN"
 "Marrison-1967-917-911",911,"young woman",77,"YOUNG WOMAN"
+"Marrison-1967-917-912",912,"to",,
+"Marrison-1967-917-913",913,"birth, give",1195,"GIVE BIRTH"
