@@ -33,13 +33,13 @@
 "Marrison-1967-917-32",32,"bag",2468,"BAG"
 "Marrison-1967-917-33",33,"bamboo",1927,"BAMBOO"
 "Marrison-1967-917-34",34,"banana",868,"BANANA"
-"Marrison-1967-917-35",35,"Bank (edge)",113,"SHORE"
-"Marrison-1967-917-36",36,"Bark (of tree)",1204,"BARK"
-"Marrison-1967-917-37",37,"Basket (generic)",1539,"BASKET"
-"Marrison-1967-917-38",38,"Basket (back man's)",,
-"Marrison-1967-917-39",39,"Basket (back woman's)",,
-"Marrison-1967-917-40",40,"Basket (large storage)",,
-"Marrison-1967-917-41",41,"Bat (animal)",1793,"BAT"
+"Marrison-1967-917-35",35,"bank (edge)",113,"SHORE"
+"Marrison-1967-917-36",36,"bark (of tree)",1204,"BARK"
+"Marrison-1967-917-37",37,"basket (generic)",1539,"BASKET"
+"Marrison-1967-917-38",38,"basket (back, man's)",,
+"Marrison-1967-917-39",39,"basket (back, woman's)",,
+"Marrison-1967-917-40",40,"basket (large, storage)",,
+"Marrison-1967-917-41",41,"bat (animal)",1793,"BAT"
 "Marrison-1967-917-42",42,"to be",1579,"BE"
 "Marrison-1967-917-43",43,"bead",1860,"BEAD"
 "Marrison-1967-917-44",44,"beam",1132,"BEAM"
@@ -118,7 +118,7 @@
 "Marrison-1967-917-117",117,"calf (of cow)",1989,"CALF"
 "Marrison-1967-917-118",118,"calf (of leg)",498,"CALF OF LEG"
 "Marrison-1967-917-119",119,"to call",1084,"CALL"
-"Marrison-1967-917-120",120,"can  able",972,"BE ABLE"
+"Marrison-1967-917-120",120,"can, able",972,"BE ABLE"
 "Marrison-1967-917-121",121,"cane",146,"SUGAR CANE"
 "Marrison-1967-917-122",122,"to carry (generic)",700,"CARRY"
 "Marrison-1967-917-123",123,"to carry (in hand)",412,"CARRY IN HAND"
@@ -331,7 +331,7 @@
 "Marrison-1967-917-330",330,"half",816,"HALF"
 "Marrison-1967-917-331",331,"hand",1277,"HAND"
 "Marrison-1967-917-332",332,"hard",1884,"HARD"
-"Marrison-1967-917-333",333,"hat helmet",1680,"HELMET"
+"Marrison-1967-917-333",333,"hat, helmet",1680,"HELMET"
 "Marrison-1967-917-334",334,"to hate",1607,"HATE"
 "Marrison-1967-917-335",335,"hawk",307,"HAWK"
 "Marrison-1967-917-336",336,"he",1211,"HE"
@@ -419,7 +419,7 @@
 "Marrison-1967-917-418",418,"to learn",504,"LEARN"
 "Marrison-1967-917-419",419,"leather",629,"LEATHER"
 "Marrison-1967-917-420",420,"leech",2273,"LEECH"
-"Marrison-1967-917-421",421,"Left-hand",2182,"LEFT HAND"
+"Marrison-1967-917-421",421,"left-hand",2182,"LEFT HAND"
 "Marrison-1967-917-422",422,"leg",1297,"LEG"
 "Marrison-1967-917-423",423,"lemon",3091,"LEMON"
 "Marrison-1967-917-424",424,"leopard",1139,"LEOPARD"
@@ -464,7 +464,7 @@
 "Marrison-1967-917-463",463,"married",,
 "Marrison-1967-917-464",464,"mat",195,"MAT"
 "Marrison-1967-917-465",465,"meat",634,"MEAT"
-"Marrison-1967-917-466",466,"meet",1831,"MEET"
+"Marrison-1967-917-466",466,"to meet",1831,"MEET"
 "Marrison-1967-917-467",467,"to mend",2243,"REPAIR"
 "Marrison-1967-917-468",468,"middle",1093,"MIDDLE"
 "Marrison-1967-917-469",469,"milk",635,"MILK"
@@ -472,7 +472,7 @@
 "Marrison-1967-917-471",471,"the mind",1562,"MIND"
 "Marrison-1967-917-472",472,"mist",249,"FOG"
 "Marrison-1967-917-473",473,"mistake",1293,"MISTAKE"
-"Marrison-1967-917-474",474,"mithan (gayal bos fontalis)"," bos fontalis)",
+"Marrison-1967-917-474",474,"mithan (gayal bos fontalis)",,
 "Marrison-1967-917-475",475,"money",1559,"MONEY"
 "Marrison-1967-917-476",476,"monkey (generic)",1350,"MONKEY"
 "Marrison-1967-917-477",477,"monkey (huluk)",,
@@ -603,8 +603,8 @@
 "Marrison-1967-917-602",602,"rice (cooked)",1191,"COOKED RICE"
 "Marrison-1967-917-603",603,"rice-beer",,
 "Marrison-1967-917-604",604,"rich",712,"RICH"
-"Marrison-1967-917-605",605,"right",1725,"CORRECT (RIGHT)"
-"Marrison-1967-917-606",606,"Right-hand",2183,"RIGHT HAND"
+"Marrison-1967-917-605",605,"right (correct)",1725,"CORRECT (RIGHT)"
+"Marrison-1967-917-606",606,"right-hand",2183,"RIGHT HAND"
 "Marrison-1967-917-607",607,"a ring (finger ring)",1374,"RING"
 "Marrison-1967-917-608",608,"ripe",178,"RIPE"
 "Marrison-1967-917-609",609,"to rise",568,"RISE (MOVE UPWARDS)"
@@ -718,7 +718,7 @@
 "Marrison-1967-917-717",717,"spoon",1378,"SPOON"
 "Marrison-1967-917-718",718,"square",850,"SQUARE"
 "Marrison-1967-917-719",719,"to squeeze",1414,"SQUEEZE"
-"Marrison-1967-917-720",720,"to squirrel",1628,"SQUIRREL"
+"Marrison-1967-917-720",720,"squirrel",1628,"SQUIRREL"
 "Marrison-1967-917-721",721,"to stand",1442,"STAND"
 "Marrison-1967-917-722",722,"star",1430,"STAR"
 "Marrison-1967-917-723",723,"to steal",713,"STEAL"
