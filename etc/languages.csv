@@ -1,26 +1,26 @@
-Language,Glottolog,Concept_coverage,Latitude,Longitude,Country,Language_family,Subgroup,Notes
-Angami Khonoma,khon1248,,,,India,SinoTibetan,Angami,
-Angami Kohima,kohl1249,,,,India,SinoTibetan,Angami,
-Ao Chungli,chun1266,,25.67,94.12,India,SinoTibetan,Ao,
-Ao Mongsen,mong1332,,25.67,94.12,India,SinoTibetan,Ao,
-Chang,chan1313,,,,India,SinoTibetan,Konyak,
-Chokri,chok1243,,,,India,SinoTibetan,Angami,
-Khoirao,than1255,,25.35,93.84,India,SinoTibetan,Zemeic,Thangal Naga on Glottolog
-Konyak,kony1246,,26.68,95.06,India,SinoTibetan,Konyak,
-Liangmai,lian1251,,25.16,93.54,India,SinoTibetan,Zemeic,
-Lotha,loth1237,,26.01,94.04,India,SinoTibetan,Lotha,
-Mao,maon1238,,25.38,94,India,SinoTibetan,Angami,
-Maram,mara1379,,25.44,94.22,India,SinoTibetan,Zemeic,
-Maring,mari1416,,24.29,94.07,India,SinoTibetan,Maringic,
-Mzieme,meiz1235,,25.48,93.71,India,SinoTibetan,Zemeic,
-Nocte,noct1238,,27.15,95.39,India,SinoTibetan,Nocte,
-Nruanghmei,rong1266,,25.1,93.79,India,SinoTibetan,Zemeic,Rongmei Naga on Glottolog
-Ntenyi,nort2725,,26.45,94.57,India,SinoTibetan,Rengma,Northern Rengma on Glottolog
-Phom,phom1236,,26.47,94.75,India,SinoTibetan,Konyak,
-Rengma,sout2732,,26.12,94.69,India,SinoTibetan,Rengma,Tseminyu dialect
-Sangtam,sang1321,,25.86,94.63,India,SinoTibetan,Sangtam,
-Sema,sumi1235,,26,94.42,India,SinoTibetan,Angami,Sumi Naga on Glottolog
-Tangkhul,sino1246,,,,India,SinoTibetan,Tangkhulic,East- Central Tangkhul Naga on Glottolog
-Wancho,wanc1236,,26.26,94.89,India,SinoTibetan,Konyak,
-YachamTengsa,yach1234,,,,India,SinoTibetan,Ao,
-Yimchungrü,yimc1241,,26.243613,94.811648,India,SinoTibetan,Yimchingric,Yimchungru on Glottolog
+"Language","Glottolog","Concept_coverage","Latitude","Longitude","Country","Language_family","Subgroup","Notes"
+"Angami Khonoma","khon1248",917,,,"India","SinoTibetan","Angami",
+"Angami Kohima","kohl1249",917,,,"India","SinoTibetan","Angami",
+"Ao Chungli","chun1266",917,25.67,94.12,"India","SinoTibetan","Ao",
+"Ao Mongsen","mong1332",917,25.67,94.12,"India","SinoTibetan","Ao",
+"Chang","chan1313",917,,,"India","SinoTibetan","Konyak",
+"Chokri","chok1243",917,,,"India","SinoTibetan","Angami",
+"Khoirao","than1255",917,25.35,93.84,"India","SinoTibetan","Zemeic","Thangal Naga on Glottolog"
+"Konyak","kony1246",917,26.68,95.06,"India","SinoTibetan","Konyak",
+"Liangmai","lian1251",917,25.16,93.54,"India","SinoTibetan","Zemeic",
+"Lotha","loth1237",917,26.01,94.04,"India","SinoTibetan","Lotha",
+"Mao","maon1238",917,25.38,94,"India","SinoTibetan","Angami",
+"Maram","mara1379",917,25.44,94.22,"India","SinoTibetan","Zemeic",
+"Maring","mari1416",917,24.29,94.07,"India","SinoTibetan","Maringic",
+"Mzieme","meiz1235",917,25.48,93.71,"India","SinoTibetan","Zemeic",
+"Nocte","noct1238",917,27.15,95.39,"India","SinoTibetan","Nocte",
+"Nruanghmei","rong1266",917,25.1,93.79,"India","SinoTibetan","Zemeic","Rongmei Naga on Glottolog"
+"Ntenyi","nort2725",917,26.45,94.57,"India","SinoTibetan","Rengma","Northern Rengma on Glottolog"
+"Phom","phom1236",917,26.47,94.75,"India","SinoTibetan","Konyak",
+"Rengma","sout2732",917,26.12,94.69,"India","SinoTibetan","Rengma","Tseminyu dialect"
+"Sangtam","sang1321",917,25.86,94.63,"India","SinoTibetan","Sangtam",
+"Sema","sumi1235",917,26,94.42,"India","SinoTibetan","Angami","Sumi Naga on Glottolog"
+"Tangkhul","sino1246",917,,,"India","SinoTibetan","Tangkhulic","East- Central Tangkhul Naga on Glottolog"
+"Wancho","wanc1236",917,26.26,94.89,"India","SinoTibetan","Konyak",
+"YachamTengsa","yach1234",917,,,"India","SinoTibetan","Ao",
+"Yimchungrü","yimc1241",917,26.243613,94.811648,"India","SinoTibetan","Yimchingric","Yimchungru on Glottolog"
