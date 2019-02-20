@@ -1,5 +1,5 @@
 "Language_in_STEDT","Language_in_source","Glottolog","ISO_639_3","Concept_coverage","Latitude_in_source","Longitude_in_source","Latitude","Longitude","Country","Language_family","Subgroup","Notes"
-"Angami (Khonoma)","Angami Khonoma","khon1248","njm",842,25.45,93.58,,,"India","SinoTibetan","Angami",
+"Angami (Khonoma)","Angami Khonoma","khon1248","njm",842,25.45,93.58,"n/a","n/a","India","SinoTibetan","Angami",
 "Angami (Kohima)","Angami Kohima","kohl1249","njm",971,25.33,94.08,,,"India","SinoTibetan","Angami",
 "Ao (Chungli)","Ao Chungli","chun1266","njo",984,26.19,94.31,25.67,94.12,"India","SinoTibetan","Ao",
 "Ao (Mongsen: Longchang)","Ao Mongsen","mong1332","njo",917,26.25,94.24,25.67,94.12,"India","SinoTibetan","Ao",
@@ -20,7 +20,7 @@
 "Ntenyi","Ntenyi","nort2725","nnl",636,25.59,94.2,,94.57,"India","SinoTibetan","Rengma","Northern Rengma on Glottolog"
 "Phom","Phom","phom1236","nph",679,26.37,94.3,26.47,94.75,"India","SinoTibetan","Konyak",
 "Puiron","Puiron","rong1266","nbu",385,,,,,"India","SinoTibetan","Zemeic","Nruanghmei dialect"
-"Rengma","Rengma","sout2732","nre",803,25.4,94.38,26.12,94.69,"India","SinoTibetan","Rengma","Tseminyu dialect"
+"Rengma","Rengma","sout2732","nre",803,25.4,94.38,26.12,94.69,"India","SinoTibetan","Rengma","Tseminyu dialect. Look for “Anyo” in appendix in the original data for the geographic coordinate (p379)."
 "Sangtam","Sangtam","sang1321","nsa",853,25.4,94.52,25.86,94.63,"India","SinoTibetan","Sangtam",
 "Sema [Sumi]","Sema","sumi1235","nsm",920,25.51,94.16,26,94.42,"India","SinoTibetan","Angami","Sumi Naga on Glottolog"
 "Tangkhul","Tangkhul","sino1246","nmf",945,25.1,94.57,,,"India","SinoTibetan","Tangkhulic","East- Central Tangkhul Naga on Glottolog"
@@ -31,11 +31,11 @@
 "Yacham","Yacham","yach1235","njo",5,26.37,94.47,,,"India","SinoTibetan","Yacham-Tengsa",
 "Yacham-Tengsa","Yacham-Tengsa","yach1234","njo",270,,,,,"India","SinoTibetan","Yacham-Tengsa",
 "Yimchungrü","Yimchungrü","yimc1241","yim",536,25.43,94.55,26.243613,94.811648,"India","SinoTibetan","Yimchingric","Yimchungru on Glottolog"
-"Zeme","Zeme","zeme1240","nzm",834,25.11,93.12,,,"India","SinoTibetan","Zemeic",
-"Burmese (Written)","Burmese (Written)",,"n/a",985,,,,,"Myammar","SinoTibetan","Burmese",
-"Dimasa","Dimasa","dima1251","dis",917,,,,,,"SinoTibetan","Boro",
-"Jingpho","Jingpho","jing1260","kac",1029,,,,,,"SinoTibetan","Kachin",
-"Lushai [Mizo]","Lushai","lush1249","lus",1105,,,,,,"SinoTibetan","Kuki Chin-Central",
-"Meithei","Manipuri","mani1292","mni",970,,,,,,"SinoTibetan","Other Tibeto-Burman",
-"Mikir [Karbi]","Mikir","karb1241","mjw",1341,,,,,,"SinoTibetan","Other Tibeto-Burman",
-"Tibetan (Written)","Tibetan (Written)"," clas1254","xct",1134,,,,,"China","SinoTibetan","Tibetan",
+"Zeme","Zeme","zeme1240","nzm",834,25.11,93.12,,,"India","SinoTibetan","Zemeic","Look for “Arung” in appendix in the original data for the geographic coordinate (p380)."
+"Burmese (Written)","Burmese (Written)","oldb1235","n/a",985,"n/a","n/a",,,"Myammar","SinoTibetan","Burmese","Old Burmese on Glottolog"
+"Dimasa","Dimasa","dima1251","dis",917,"n/a","n/a",,,,"SinoTibetan","Boro",
+"Jingpho","Jingpho","jing1260","kac",1029,"n/a","n/a",,,,"SinoTibetan","Kachin",
+"Lushai [Mizo]","Lushai","lush1249","lus",1105,"n/a","n/a",,,,"SinoTibetan","Kuki Chin-Central",
+"Meithei","Manipuri","mani1292","mni",970,"n/a","n/a",,,,"SinoTibetan","Other Tibeto-Burman",
+"Mikir [Karbi]","Mikir","karb1241","mjw",1341,"n/a","n/a",,,,"SinoTibetan","Other Tibeto-Burman",
+"Tibetan (Written)","Tibetan (Written)","clas1254","xct",1134,"n/a","n/a",,,"China","SinoTibetan","Tibetan",
