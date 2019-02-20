@@ -23,6 +23,11 @@ class Dataset(NonSplittingDataset):
         """
         pass
 
+    def clean_form(self, item, form):
+        
+        if form not in ['*', '---', '']:
+            return form.split(',')[0]
+
     def cmd_install(self, **kw):
         """
         Convert the raw data to a CLDF dataset.
