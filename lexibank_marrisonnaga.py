@@ -31,6 +31,7 @@ class Dataset(NonSplittingDataset):
         data = lingpy.Wordlist(self.dir.joinpath(
             'raw',
             'GEM-CNL.csv').as_posix())
+
         languages, concepts = {}, {}
         missing = defaultdict(int)
         with self.cldf as ds:
@@ -51,17 +52,24 @@ class Dataset(NonSplittingDataset):
                 languages[language['Language_in_STEDT']] = slug(language['Language_in_source'])
 
             ds.add_sources(*self.raw.read_bib())
-            for idx, language, concept, value in tqdm(data.iter_rows(
-                'doculect', 'concept', 'reflex'), desc='cldfify the data'):
+            for idx, language, concept, value, pos in tqdm(data.iter_rows(
+                'doculect', 'concept', 'reflex', 'gfn'), desc='cldfify the data'):
                 segments = ''
                 if value.strip():
+                    if pos == 'v':
+                        concept = 'to '+concept
+
                     if concept not in concepts:
-                        missing[concept] += 1
-                    else:
+                        if 'to '+concept in concepts:
+                            concept = 'to '+concept
+                        else:
+                            missing[concept] += 1
+                    
+                    if concept not in missing:
                         ds.add_lexemes(
                                 Language_ID=languages[language],
                                 Parameter_ID=concepts[concept],
-                                Form=value.split(','),
+                                Form=value.split(',')[0],
                                 Value=value,
                                 Source=['Marrison1967']
                                 )
