@@ -54,7 +54,9 @@ class Dataset(NonSplittingDataset):
             ds.add_sources(*self.raw.read_bib())
             for idx, language, concept, value, pos in tqdm(data.iter_rows(
                 'doculect', 'concept', 'reflex', 'gfn'), desc='cldfify the data'):
-                segments = ''
+                
+                segments = self.tokenizer(None, value.split(',')[0], column='IPA')
+
                 if value.strip():
                     if pos == 'v':
                         concept = 'to '+concept
@@ -71,6 +73,7 @@ class Dataset(NonSplittingDataset):
                                 Parameter_ID=concepts[concept],
                                 Form=value.split(',')[0],
                                 Value=value,
+                                Segments=segments,
                                 Source=['Marrison1967']
                                 )
             for i, m in enumerate(missing):
