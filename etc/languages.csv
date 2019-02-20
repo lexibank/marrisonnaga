@@ -1,26 +1,41 @@
-"Language","Glottolog","Concept_coverage","Latitude","Longitude","Country","Language_family","Subgroup","Notes"
-"Angami Khonoma","khon1248",917,,,"India","SinoTibetan","Angami",
-"Angami Kohima","kohl1249",917,,,"India","SinoTibetan","Angami",
-"Ao Chungli","chun1266",917,25.67,94.12,"India","SinoTibetan","Ao",
-"Ao Mongsen","mong1332",917,25.67,94.12,"India","SinoTibetan","Ao",
-"Chang","chan1313",917,,,"India","SinoTibetan","Konyak",
-"Chokri","chok1243",917,,,"India","SinoTibetan","Angami",
-"Khoirao","than1255",917,25.35,93.84,"India","SinoTibetan","Zemeic","Thangal Naga on Glottolog"
-"Konyak","kony1246",917,26.68,95.06,"India","SinoTibetan","Konyak",
-"Liangmai","lian1251",917,25.16,93.54,"India","SinoTibetan","Zemeic",
-"Lotha","loth1237",917,26.01,94.04,"India","SinoTibetan","Lotha",
-"Mao","maon1238",917,25.38,94,"India","SinoTibetan","Angami",
-"Maram","mara1379",917,25.44,94.22,"India","SinoTibetan","Zemeic",
-"Maring","mari1416",917,24.29,94.07,"India","SinoTibetan","Maringic",
-"Mzieme","meiz1235",917,25.48,93.71,"India","SinoTibetan","Zemeic",
-"Nocte","noct1238",917,27.15,95.39,"India","SinoTibetan","Nocte",
-"Nruanghmei","rong1266",917,25.1,93.79,"India","SinoTibetan","Zemeic","Rongmei Naga on Glottolog"
-"Ntenyi","nort2725",917,26.45,94.57,"India","SinoTibetan","Rengma","Northern Rengma on Glottolog"
-"Phom","phom1236",917,26.47,94.75,"India","SinoTibetan","Konyak",
-"Rengma","sout2732",917,26.12,94.69,"India","SinoTibetan","Rengma","Tseminyu dialect"
-"Sangtam","sang1321",917,25.86,94.63,"India","SinoTibetan","Sangtam",
-"Sema","sumi1235",917,26,94.42,"India","SinoTibetan","Angami","Sumi Naga on Glottolog"
-"Tangkhul","sino1246",917,,,"India","SinoTibetan","Tangkhulic","East- Central Tangkhul Naga on Glottolog"
-"Wancho","wanc1236",917,26.26,94.89,"India","SinoTibetan","Konyak",
-"YachamTengsa","yach1234",917,,,"India","SinoTibetan","Ao",
-"Yimchungrü","yimc1241",917,26.243613,94.811648,"India","SinoTibetan","Yimchingric","Yimchungru on Glottolog"
+"Language_in_STEDT","Language_in_source","Glottolog","ISO_639_3","Concept_coverage","Latitude_in_source","Longitude_in_source","Latitude","Longitude","Country","Language_family","Subgroup","Notes"
+"Angami (Khonoma)","Angami Khonoma","khon1248","njm",842,25.45,93.58,,,"India","SinoTibetan","Angami",
+"Angami (Kohima)","Angami Kohima","kohl1249","njm",971,25.33,94.08,,,"India","SinoTibetan","Angami",
+"Ao (Chungli)","Ao Chungli","chun1266","njo",984,26.19,94.31,25.67,94.12,"India","SinoTibetan","Ao",
+"Ao (Mongsen: Longchang)","Ao Mongsen","mong1332","njo",917,26.25,94.24,25.67,94.12,"India","SinoTibetan","Ao",
+"Chang","Chang","chan1313","nbc",936,26.16,94.5,,,"India","SinoTibetan","Konyak",
+"Chokri","Chokri","chok1243","nri",519,25.41,94.16,,,"India","SinoTibetan","Angami",
+"Khezha","Kezhama","khez1235","nkh",149,25.31,94.12,,,"India","SinoTibetan",,
+"Khoirao","Khoirao","than1255","nki",406,25.13,94.02,25.35,93.84,"India","SinoTibetan","Zemeic","Thangal Naga on Glottolog"
+"Konyak","Konyak","kony1246","nbe",979,26.32,95.05,26.68,95.06,"India","SinoTibetan","Konyak",
+"Liangmei","Liangmai","lian1251","njn",724,25.22,93.38,25.16,93.54,"India","SinoTibetan","Zemeic",
+"Lotha Naga","Lotha","loth1237","njh",1068,26.06,94.16,26.01,94.04,"India","SinoTibetan","Lotha",
+"Mao","Mao","maon1238","nbi",712,25.28,94.7,25.38,94,"India","SinoTibetan","Angami",
+"Maram","Maram","mara1379","nma",352,25.26,94.09,25.44,94.22,"India","SinoTibetan","Zemeic",
+"Maring","Maring","mari1416","nng",418,24.3,94.02,24.29,94.07,"India","SinoTibetan","Maringic",
+"Meluri","Meluri","poch1243","npo",316,25.4,94.38,,,"India","SinoTibetan","Pochuri","Pochuri Naga"
+"Mzieme","Mzieme","meiz1235","nme",581,25.6586,94.1,25.48,93.71,"India","SinoTibetan","Zemeic","Source indicates that the samples came from Kohima district in Nagaland"
+"Nocte","Nocte","noct1238","njb",395,27.7,5.29,27.15,95.39,"India","SinoTibetan","Nocte",
+"Rongmei / Nruanghmei","Nruanghmei","rong1266","nbu",811,25,93.3,25.1,93.79,"India","SinoTibetan","Zemeic","Rongmei Naga on Glottolog"
+"Ntenyi","Ntenyi","nort2725","nnl",636,25.59,94.2,,94.57,"India","SinoTibetan","Rengma","Northern Rengma on Glottolog"
+"Phom","Phom","phom1236","nph",679,26.37,94.3,26.47,94.75,"India","SinoTibetan","Konyak",
+"Puiron","Puiron","rong1266","nbu",385,,,,,"India","SinoTibetan","Zemeic","Nruanghmei dialect"
+"Rengma","Rengma","sout2732","nre",803,25.4,94.38,26.12,94.69,"India","SinoTibetan","Rengma","Tseminyu dialect"
+"Sangtam","Sangtam","sang1321","nsa",853,25.4,94.52,25.86,94.63,"India","SinoTibetan","Sangtam",
+"Sema [Sumi]","Sema","sumi1235","nsm",920,25.51,94.16,26,94.42,"India","SinoTibetan","Angami","Sumi Naga on Glottolog"
+"Tangkhul","Tangkhul","sino1246","nmf",945,25.1,94.57,,,"India","SinoTibetan","Tangkhulic","East- Central Tangkhul Naga on Glottolog"
+"Tengsa","Tengsa","teng1273","njo",5,26.57,95.4,,,"India","SinoTibetan","Yacham-Tengsa",
+"Tangsa (Moshang)","Tangsa (Moshang)","mosa1240","nst",313,,,,,"India","SinoTibetan","Yacham-Tengsa",
+"Tangsa (Yogli)","Tangsa (Yogli)","yogl1238","nst",225,,,,,"India","SinoTibetan","Yacham-Tengsa",
+"Wancho","Wancho","wanc1236","nnp",464,26.58,95.49,26.26,94.89,"India","SinoTibetan","Konyak",
+"Yacham","Yacham","yach1235","njo",5,26.37,94.47,,,"India","SinoTibetan","Yacham-Tengsa",
+"Yacham-Tengsa","Yacham-Tengsa","yach1234","njo",270,,,,,"India","SinoTibetan","Yacham-Tengsa",
+"Yimchungrü","Yimchungrü","yimc1241","yim",536,25.43,94.55,26.243613,94.811648,"India","SinoTibetan","Yimchingric","Yimchungru on Glottolog"
+"Zeme","Zeme","zeme1240","nzm",834,25.11,93.12,,,"India","SinoTibetan","Zemeic",
+"Burmese (Written)","Burmese (Written)",,"n/a",985,,,,,"Myammar","SinoTibetan","Burmese",
+"Dimasa","Dimasa","dima1251","dis",917,,,,,,"SinoTibetan","Boro",
+"Jingpho","Jingpho","jing1260","kac",1029,,,,,,"SinoTibetan","Kachin",
+"Lushai [Mizo]","Lushai","lush1249","lus",1105,,,,,,"SinoTibetan","Kuki Chin-Central",
+"Meithei","Manipuri","mani1292","mni",970,,,,,,"SinoTibetan","Other Tibeto-Burman",
+"Mikir [Karbi]","Mikir","karb1241","mjw",1341,,,,,,"SinoTibetan","Other Tibeto-Burman",
+"Tibetan (Written)","Tibetan (Written)"," clas1254","xct",1134,,,,,"China","SinoTibetan","Tibetan",
