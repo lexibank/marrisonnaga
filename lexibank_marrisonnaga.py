@@ -6,6 +6,7 @@ from pylexibank.dataset import NonSplittingDataset
 from clldutils.misc import slug
 
 from tqdm import tqdm
+from collections import defaultdict
 
 import lingpy
 
@@ -31,7 +32,7 @@ class Dataset(NonSplittingDataset):
             'raw',
             'GEM-CNL.csv').as_posix())
         languages, concepts = {}, {}
-
+        missing = defaultdict(int)
         with self.cldf as ds:
             for concept in self.concepts:
                 ds.add_concept(
@@ -52,17 +53,20 @@ class Dataset(NonSplittingDataset):
             ds.add_sources(*self.raw.read_bib())
             for idx, language, concept, value in tqdm(data.iter_rows(
                 'doculect', 'concept', 'reflex'), desc='cldfify the data'):
-                print(language, concept, value)
                 segments = ''
-
-                ds.add_lexemes(
-                        Language_ID=languages[language],
-                        Parameter_ID=concept[concept],
-                        Form=value.split(','),
-                        Value=value,
-                        Segments='',
-                        Source=['Marrison1967']
-                        )
+                if value.strip():
+                    if concept not in concepts:
+                        missing[concept] += 1
+                    else:
+                        ds.add_lexemes(
+                                Language_ID=languages[language],
+                                Parameter_ID=concepts[concept],
+                                Form=value.split(','),
+                                Value=value,
+                                Source=['Marrison1967']
+                                )
+            for i, m in enumerate(missing):
+                print(str(i+1)+'\t'+m)
 
 
 
