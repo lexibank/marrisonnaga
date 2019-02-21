@@ -42,12 +42,12 @@ class Dataset(NonSplittingDataset):
         with self.cldf as ds:
             for concept in self.concepts:
                 ds.add_concept(
-                        ID=concept['NUMBER'],
+                        ID=concept['ID'],
                         Name=concept['ENGLISH'],
                         Concepticon_ID=concept['CONCEPTICON_ID'],
                         Concepticon_Gloss=concept['CONCEPTICON_GLOSS']
                         )
-                concepts[concept['ENGLISH']] = concept['NUMBER']
+                concepts[concept['ENGLISH']] = concept['ID']
             for language in self.languages:
                 ds.add_language(
                         ID=slug(language['Language_in_source']),
