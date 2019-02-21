@@ -52,7 +52,7 @@ class Dataset(NonSplittingDataset):
                 ds.add_language(
                         ID=slug(language['Language_in_source']),
                         Glottocode=language['Glottolog'],
-                        Name=['Language_in_source']
+                        Name=language['Language_in_STEDT']
                         )
                 languages[language['Language_in_STEDT']] = slug(language['Language_in_source'])
 
