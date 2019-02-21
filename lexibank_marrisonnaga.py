@@ -63,12 +63,17 @@ class Dataset(NonSplittingDataset):
                 segments = self.tokenizer(None, value.split(',')[0], column='IPA')
 
                 if value.strip():
-                    if pos == 'v':
-                        concept = 'to '+concept
-
                     if concept not in concepts:
-                        if 'to '+concept in concepts:
-                            concept = 'to '+concept
+                        if pos == 'n':
+                            if concept+' (noun)' in concepts:
+                                concept = concept+' (noun)'
+                            else:
+                                missing[concept] +=1
+                        elif pos == 'adj':
+                            if concept+' (adj.)' in concepts:
+                                concept = concept+' (adj.)'
+                            else:
+                                missing[concept] +=1
                         else:
                             missing[concept] += 1
                     

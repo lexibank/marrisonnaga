@@ -17,15 +17,15 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "pyglottolog-1.2.1-77-g24ddcfb",
-                "concepticon_version": "pyconcepticon-1.4.0-63-g85acb1f"
+                "glottolog_version": "v3.2-35-g0c8091d",
+                "concepticon_version": "v1.1.0-79-gaed0c35"
             }
         }
     ],
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 25883,
+            "dc:extent": 27441,
             "tableSchema": {
                 "columns": [
                     {
@@ -166,7 +166,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 836,
+            "dc:extent": 910,
             "tableSchema": {
                 "columns": [
                     {
