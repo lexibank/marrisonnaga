@@ -42,17 +42,17 @@ class Dataset(NonSplittingDataset):
         with self.cldf as ds:
             for concept in self.concepts:
                 ds.add_concept(
-                        ID=concept['NUMBER'],
+                        ID=concept['ID'],
                         Name=concept['ENGLISH'],
                         Concepticon_ID=concept['CONCEPTICON_ID'],
                         Concepticon_Gloss=concept['CONCEPTICON_GLOSS']
                         )
-                concepts[concept['ENGLISH']] = concept['NUMBER']
+                concepts[concept['ENGLISH']] = concept['ID']
             for language in self.languages:
                 ds.add_language(
                         ID=slug(language['Language_in_source']),
                         Glottocode=language['Glottolog'],
-                        Name=['Language_in_source']
+                        Name=language['Language_in_STEDT']
                         )
                 languages[language['Language_in_STEDT']] = slug(language['Language_in_source'])
 
@@ -63,12 +63,17 @@ class Dataset(NonSplittingDataset):
                 segments = self.tokenizer(None, value.split(',')[0], column='IPA')
 
                 if value.strip():
-                    if pos == 'v':
-                        concept = 'to '+concept
-
                     if concept not in concepts:
-                        if 'to '+concept in concepts:
-                            concept = 'to '+concept
+                        if pos == 'n':
+                            if concept+' (noun)' in concepts:
+                                concept = concept+' (noun)'
+                            else:
+                                missing[concept] +=1
+                        elif pos == 'adj':
+                            if concept+' (adj.)' in concepts:
+                                concept = concept+' (adj.)'
+                            else:
+                                missing[concept] +=1
                         else:
                             missing[concept] += 1
                     

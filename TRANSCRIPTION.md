@@ -5,118 +5,118 @@
 
 | Segment | Occurrence | BIPA | CLTS SoundClass |
 |:----------|-------------:|:-------|:------------------|
-| a | 19025 | ✓ | ✓ |
-| n | 10809 | ✓ | ✓ |
-| i | 10777 | ✓ | ✓ |
-| e | 7812 | ✓ | ✓ |
-| u | 7458 | ✓ | ✓ |
-| o | 6299 | ✓ | ✓ |
-| k | 6145 | ✓ | ✓ |
-| g | 5990 | ✓ | ✓ |
-| m | 5679 | ✓ | ✓ |
-| + | 5481 | ✓ | ✓ |
-| t | 4112 | ✓ | ✓ |
-| r | 3959 | ✓ | ✓ |
-| ü | 3803 | ✓ | ✓ |
-| p | 3580 | ✓ | ✓ |
-| l | 3446 | ✓ | ✓ |
-| s | 2471 | ✓ | ✓ |
-| y | 2205 | ✓ | ✓ |
-| ch | 2083 | ✓ | ✓ |
-| b | 2035 | ✓ | ✓ |
-| h | 1970 | ✓ | ✓ |
-| kʰ | 1803 | ✓ | ✓ |
-| d | 1544 | ✓ | ✓ |
-| <?> | 1453 | ? | ? |
-| tʰ | 1432 | ✓ | ✓ |
-| sh | 1079 | ? | ? |
-| z | 962 | ✓ | ✓ |
-| ts | 863 | ✓ | ✓ |
-| j | 861 | ✓ | ✓ |
-| pʰ | 852 | ✓ | ✓ |
-| w | 759 | ✓ | ✓ |
-| v | 640 | ✓ | ✓ |
-| gh | 360 | ✓ | ✓ |
-| f | 207 | ✓ | ✓ |
-| � | 197 | ? | ? |
-| _ | 182 | ✓ | ✓ |
-| c | 175 | ✓ | ✓ |
-| zh | 157 | ? | ? |
-| mh | 146 | ✓ | ✓ |
-| gs | 107 | ✓ | ✓ |
-| nh | 107 | ✓ | ✓ |
-| rh | 102 | ? | ? |
-| chh | 100 | ? | ? |
-| nn | 97 | ? | ? |
-| tʰs | 95 | ✓ | ✓ |
-| kʷ | 82 | ✓ | ✓ |
+| a | 20175 | ✓ | ✓ |
+| n | 11392 | ✓ | ✓ |
+| i | 11375 | ✓ | ✓ |
+| e | 8241 | ✓ | ✓ |
+| u | 7881 | ✓ | ✓ |
+| o | 6676 | ✓ | ✓ |
+| k | 6493 | ✓ | ✓ |
+| g | 6352 | ✓ | ✓ |
+| m | 6036 | ✓ | ✓ |
+| + | 5760 | ✓ | ✓ |
+| t | 4330 | ✓ | ✓ |
+| r | 4194 | ✓ | ✓ |
+| ü | 3985 | ✓ | ✓ |
+| p | 3787 | ✓ | ✓ |
+| l | 3609 | ✓ | ✓ |
+| s | 2636 | ✓ | ✓ |
+| y | 2288 | ✓ | ✓ |
+| ch | 2179 | ✓ | ✓ |
+| b | 2175 | ✓ | ✓ |
+| h | 2109 | ✓ | ✓ |
+| kʰ | 1940 | ✓ | ✓ |
+| d | 1637 | ✓ | ✓ |
+| <?> | 1559 | ? | ? |
+| tʰ | 1521 | ✓ | ✓ |
+| sh | 1128 | ? | ? |
+| z | 1011 | ✓ | ✓ |
+| ts | 899 | ✓ | ✓ |
+| j | 891 | ✓ | ✓ |
+| pʰ | 875 | ✓ | ✓ |
+| w | 802 | ✓ | ✓ |
+| v | 671 | ✓ | ✓ |
+| gh | 375 | ✓ | ✓ |
+| f | 213 | ✓ | ✓ |
+| c | 182 | ✓ | ✓ |
+| zh | 168 | ? | ? |
+| mh | 155 | ✓ | ✓ |
+| nh | 116 | ✓ | ✓ |
+| gs | 113 | ✓ | ✓ |
+| rh | 108 | ? | ? |
+| chh | 102 | ? | ? |
+| nn | 100 | ? | ? |
+| tʰs | 99 | ✓ | ✓ |
+| kʷ | 91 | ✓ | ✓ |
+| gw | 83 | ? | ? |
 | lh | 80 | ? | ? |
-| gw | 76 | ? | ? |
+| â | 79 | ✓ | ✓ |
 | āː | 76 | ✓ | ✓ |
-| â | 75 | ✓ | ✓ |
-| ns | 72 | ✓ | ✓ |
-| üs | 62 | ? | ? |
-| ññ | 61 | ? | ? |
-| ā | 58 | ✓ | ✓ |
-| iː | 57 | ✓ | ✓ |
-| eː | 51 | ✓ | ✓ |
-| âw | 50 | ? | ? |
-| gg | 47 | ✓ | ✓ |
-| khw | 47 | ? | ? |
-| ê | 46 | ✓ | ✓ |
-| ks | 45 | ✓ | ✓ |
-| gsh | 42 | ? | ? |
-| û | 41 | ✓ | ✓ |
-| üh | 41 | ? | ? |
-| kk | 38 | ✓ | ✓ |
-| mm | 37 | ? | ? |
-| ms | 36 | ✓ | ✓ |
+| ns | 74 | ✓ | ✓ |
+| üs | 65 | ? | ? |
+| ā | 63 | ✓ | ✓ |
+| ññ | 62 | ? | ? |
+| iː | 60 | ✓ | ✓ |
+| � | 58 | ? | ? |
+| eː | 53 | ✓ | ✓ |
+| âw | 53 | ? | ? |
+| gg | 49 | ✓ | ✓ |
+| khw | 49 | ? | ? |
+| ê | 49 | ✓ | ✓ |
+| ks | 46 | ✓ | ✓ |
+| üh | 46 | ? | ? |
+| gsh | 44 | ? | ? |
+| û | 42 | ✓ | ✓ |
+| kk | 41 | ✓ | ✓ |
+| _ | 40 | ✓ | ✓ |
+| mm | 39 | ? | ? |
+| ms | 38 | ✓ | ✓ |
 | ū | 36 | ✓ | ✓ |
-| rr | 33 | ? | ? |
-| īː | 32 | ✓ | ✓ |
-| ɣ | 31 | ✓ | ✓ |
-| üsh | 30 | ? | ? |
-| mː | 28 | ✓ | ✓ |
-| ɲ | 27 | ✓ | ✓ |
-| bh | 24 | ✓ | ✓ |
-| nsh | 24 | ? | ? |
+| rr | 34 | ? | ? |
+| īː | 33 | ✓ | ✓ |
+| mː | 32 | ✓ | ✓ |
+| ɣ | 32 | ✓ | ✓ |
+| üsh | 31 | ? | ? |
+| ɲ | 30 | ✓ | ✓ |
+| nsh | 26 | ? | ? |
+| bh | 25 | ✓ | ✓ |
+| î | 25 | ✓ | ✓ |
 | rw | 24 | ? | ? |
-| î | 24 | ✓ | ✓ |
-| ʃ | 24 | ✓ | ✓ |
-| nː | 20 | ✓ | ✓ |
-| ksh | 19 | ? | ? |
-| ll | 19 | ? | ? |
+| nː | 23 | ✓ | ✓ |
+| ʃ | 23 | ✓ | ✓ |
+| ll | 21 | ? | ? |
+| ksh | 20 | ? | ? |
+| lw | 20 | ? | ? |
 | sw | 19 | ? | ? |
-| mw | 17 | ? | ? |
-| hs | 16 | ? | ? |
-| lw | 16 | ? | ? |
+| mw | 18 | ? | ? |
+| wh | 18 | ? | ? |
+| hs | 17 | ? | ? |
+| msh | 17 | ? | ? |
+| pw | 17 | ? | ? |
+| tw | 17 | ? | ? |
 | nw | 16 | ? | ? |
-| pw | 16 | ? | ? |
 | tt | 16 | ✓ | ✓ |
-| wh | 16 | ? | ? |
+| ūː | 16 | ✓ | ✓ |
 | pp | 15 | ✓ | ✓ |
-| tw | 15 | ? | ? |
-| ūː | 15 | ✓ | ✓ |
-| msh | 14 | ? | ? |
-| ʔ | 14 | ✓ | ✓ |
+| ī | 15 | ✓ | ✓ |
+| ʔ | 15 | ✓ | ✓ |
 | ps | 13 | ✓ | ✓ |
-| ī | 13 | ✓ | ✓ |
 | bs | 12 | ✓ | ✓ |
+| üw | 12 | ? | ? |
 | aː | 11 | ✓ | ✓ |
 | m̥ | 11 | ✓ | ✓ |
-| üw | 11 | ? | ? |
+| t̥h | 11 | ✓ | ✓ |
 | a̠ | 10 | ✓ | ✓ |
 | dh | 9 | ✓ | ✓ |
-| t̥h | 9 | ✓ | ✓ |
+| shw | 9 | ? | ? |
 | chw | 8 | ? | ? |
-| shw | 8 | ? | ? |
 | tsh | 8 | ? | ? |
+| t̥ | 8 | ✓ | ✓ |
 | fh | 7 | ? | ? |
-| t̥ | 7 | ✓ | ✓ |
+| ô | 7 | ✓ | ✓ |
+| dw | 6 | ? | ? |
 | rs | 6 | ? | ? |
 | thw | 6 | ? | ? |
-| ô | 6 | ✓ | ✓ |
-| dw | 5 | ? | ? |
 | m̥ː | 5 | ✓ | ✓ |
 | oː | 5 | ✓ | ✓ |
 | bw | 4 | ? | ? |
@@ -130,26 +130,28 @@
 | cc | 3 | ✓ | ✓ |
 | cw | 3 | ? | ? |
 | ghː | 3 | ✓ | ✓ |
+| hsh | 3 | ? | ? |
 | jh | 3 | ? | ? |
 | jw | 3 | ? | ? |
+| lhw | 3 | ? | ? |
+| ṭh | 3 | ? | ? |
 | 'mw | 2 | ? | ? |
-| <???> | 2 | ? | ? |
 | dd | 2 | ✓ | ✓ |
 | ds | 2 | ✓ | ✓ |
 | gʒ | 2 | ✓ | ✓ |
-| lhw | 2 | ? | ? |
 | ls | 2 | ? | ? |
 | rsh | 2 | ? | ? |
 | r̥ | 2 | ✓ | ✓ |
 | swh | 2 | ? | ? |
 | uː | 2 | ✓ | ✓ |
+| &#124;g | 2 | ? | ? |
 | ï | 2 | ✓ | ✓ |
 | üshw | 2 | ? | ? |
 | ās | 2 | ? | ? |
 | īːh | 2 | ? | ? |
 | ũ | 2 | ✓ | ✓ |
-| ṭh | 2 | ? | ? |
 | 'nw | 1 | ? | ? |
+| <???> | 1 | ? | ? |
 | a˯ | 1 | ? | ? |
 | bhw | 1 | ? | ? |
 | b̥ | 1 | ✓ | ✓ |
@@ -158,7 +160,6 @@
 | ghw | 1 | ? | ? |
 | g&#124; | 1 | ? | ? |
 | gː | 1 | ✓ | ✓ |
-| hsh | 1 | ? | ? |
 | hw | 1 | ? | ? |
 | i̇ | 1 | ? | ? |
 | mhˊ | 1 | ? | ? |
@@ -171,10 +172,10 @@
 | vw | 1 | ? | ? |
 | ws | 1 | ? | ? |
 | xh | 1 | ? | ? |
-| &#124;g | 1 | ? | ? |
 | &#124;t | 1 | ? | ? |
 | à | 1 | ✓ | ✓ |
 | á | 1 | ✓ | ✓ |
+| ã | 1 | ✓ | ✓ |
 | åw | 1 | ? | ? |
 | é | 1 | ✓ | ✓ |
 | ù | 1 | ✓ | ✓ |
@@ -184,10 +185,11 @@
 | īːsw | 1 | ? | ? |
 | ĵ | 1 | ? | ? |
 | ɑ | 1 | ✓ | ✓ |
+| ɛ | 1 | ✓ | ✓ |
 | ɲː | 1 | ✓ | ✓ |
 | ʔsh | 1 | ? | ? |
 
-(181 rows)
+(183 rows)
 
 
 
@@ -203,107 +205,107 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:--------------------|:--------------|----------:|:---------------|:------------------------------------|
-| angamikhonoma-100-1 | angamikhonoma | 100 | mezha | m e <s> zh </s> a |
-| angamikhonoma-133-1 | angamikhonoma | 133 | mi◦zhü | m i + <s> zh </s> ü |
-| angamikhonoma-133-2 | angamikhonoma | 133 | thezhü | tʰ e <s> zh </s> ü |
-| angamikhonoma-140-1 | angamikhonoma | 140 | chüsi | ch <s> üs </s> i |
-| angamikhonoma-142-1 | angamikhonoma | 142 | kevi-kedale | k e v i <s> <?> </s> k e d a l e |
-| angamikhonoma-147-1 | angamikhonoma | 147 | terhobavü | t e <s> rh </s> o b a v ü |
-| angamikhonoma-167-1 | angamikhonoma | 167 | keregwi | k e r e <s> gw </s> i |
-| angamikhonoma-178-2 | angamikhonoma | 178 | rezhü | r e <s> zh </s> ü |
-| angamikhonoma-183-2 | angamikhonoma | 183 | zha | <s> zh </s> a |
-| angamikhonoma-198-1 | angamikhonoma | 198 | kerhu | k e <s> rh </s> u |
-| angamikhonoma-20-1 | angamikhonoma | 20 | tilüsi | t i l <s> üs </s> i |
-| angamikhonoma-221-1 | angamikhonoma | 221 | kilükishe | k i l ü k i <s> sh </s> e |
-| angamikhonoma-228-1 | angamikhonoma | 228 | lhe◦thetha | <s> lh </s> e + tʰ e tʰ a |
-| angamikhonoma-25-1 | angamikhonoma | 25 | -nu | <s> <?> </s> n u |
-| angamikhonoma-255-1 | angamikhonoma | 255 | terha | t e <s> rh </s> a |
-| angamikhonoma-260-1 | angamikhonoma | 260 | lhi◦pengu | <s> lh </s> i + p e n g u |
-| angamikhonoma-262-1 | angamikhonoma | 262 | therhechi | tʰ e <s> rh </s> e ch i |
-| angamikhonoma-271-1 | angamikhonoma | 271 | kemezhe | k e m e <s> zh </s> e |
-| angamikhonoma-285-1 | angamikhonoma | 285 | phi◦zhe | pʰ i + <s> zh </s> e |
-| angamikhonoma-292-1 | angamikhonoma | 292 | lhi◦da | <s> lh </s> i + d a |
-| angamikhonoma-297-1 | angamikhonoma | 297 | gwürno | <s> gw </s> ü r n o |
-| angamikhonoma-31-2 | angamikhonoma | 31 | kesho | k e <s> sh </s> o |
-| angamikhonoma-322-1 | angamikhonoma | 322 | kezha | k e <s> zh </s> a |
-| angamikhonoma-345-2 | angamikhonoma | 345 | yash | y a <s> sh </s> |
-| angamikhonoma-359-1 | angamikhonoma | 359 | pilhito | p i <s> lh </s> i t o |
-| angamikhonoma-36-1 | angamikhonoma | 36 | sizhü | s i <s> zh </s> ü |
-| angamikhonoma-370-1 | angamikhonoma | 370 | chüho | ch <s> üh </s> o |
-| angamikhonoma-376-1 | angamikhonoma | 376 | leshekethudzü | l e <s> sh </s> e k e tʰ u d z ü |
-| angamikhonoma-379-1 | angamikhonoma | 379 | the◦zhe | tʰ e + <s> zh </s> e |
-| angamikhonoma-385-1 | angamikhonoma | 385 | kemekrüshi | k e m e k r <s> üsh </s> i |
-| angamikhonoma-388-1 | angamikhonoma | 388 | pru◦shi | p r u + <s> sh </s> i |
-| angamikhonoma-388-2 | angamikhonoma | 388 | kevashi | k e v a <s> sh </s> i |
-| angamikhonoma-419-1 | angamikhonoma | 419 | chüzhü | ch ü <s> zh </s> ü |
-| angamikhonoma-426-1 | angamikhonoma | 426 | leshe | l e <s> sh </s> e |
-| angamikhonoma-428-1 | angamikhonoma | 428 | zhü | <s> zh </s> ü |
-| angamikhonoma-437-1 | angamikhonoma | 437 | sho | <s> sh </s> o |
-| angamikhonoma-440-1 | angamikhonoma | 440 | rhi | <s> rh </s> i |
-| angamikhonoma-446-1 | angamikhonoma | 446 | mohoshi | m o h o <s> sh </s> i |
-| angamikhonoma-45-1 | angamikhonoma | 45 | kerhü | k e <s> rh </s> ü |
-| angamikhonoma-451-1 | angamikhonoma | 451 | terhi | t e <s> rh </s> i |
-| angamikhonoma-462-1 | angamikhonoma | 462 | telhiba | t e <s> lh </s> i b a |
-| angamikhonoma-523-1 | angamikhonoma | 523 | kegwe | k e <s> gw </s> e |
-| angamikhonoma-531-1 | angamikhonoma | 531 | prüshi | p r <s> üsh </s> i |
-| angamikhonoma-533-1 | angamikhonoma | 533 | dakoshi | d a k o <s> sh </s> i |
-| angamikhonoma-536-1 | angamikhonoma | 536 | kurha | k u <s> rh </s> a |
-| angamikhonoma-54-1 | angamikhonoma | 54 | tezhü | t e <s> zh </s> ü |
-| angamikhonoma-545-1 | angamikhonoma | 545 | cha-awe | ch a <s> <?> </s> a w e |
-| angamikhonoma-548-1 | angamikhonoma | 548 | leshekerusi | l e <s> sh </s> e k e r u s i |
-| angamikhonoma-560-1 | angamikhonoma | 560 | rezhü | r e <s> zh </s> ü |
-| angamikhonoma-573-1 | angamikhonoma | 573 | neshi | n e <s> sh </s> i |
-| angamikhonoma-578-1 | angamikhonoma | 578 | te◦shi | t e + <s> sh </s> i |
-| angamikhonoma-580-1 | angamikhonoma | 580 | neshi | n e <s> sh </s> i |
-| angamikhonoma-581-1 | angamikhonoma | 581 | pezhü | p e <s> zh </s> ü |
-| angamikhonoma-590-1 | angamikhonoma | 590 | kerhi | k e <s> rh </s> i |
-| angamikhonoma-600-1 | angamikhonoma | 600 | telha | t e <s> lh </s> a |
-| angamikhonoma-619-1 | angamikhonoma | 619 | süwa | s <s> üw </s> a |
-| angamikhonoma-623-1 | angamikhonoma | 623 | rhesha | <s> rh </s> e <s> sh </s> a |
-| angamikhonoma-624-1 | angamikhonoma | 624 | kazha | k a <s> zh </s> a |
-| angamikhonoma-626-1 | angamikhonoma | 626 | theshü | tʰ e <s> sh </s> ü |
-| angamikhonoma-627-1 | angamikhonoma | 627 | larhi | l a <s> rh </s> i |
-| angamikhonoma-630-1 | angamikhonoma | 630 | reshüku | r e <s> sh </s> ü k u |
-| angamikhonoma-648-1 | angamikhonoma | 648 | lhi◦thena | <s> lh </s> i + tʰ e n a |
-| angamikhonoma-649-1 | angamikhonoma | 649 | therhe | tʰ e <s> rh </s> e |
-| angamikhonoma-65-1 | angamikhonoma | 65 | rhosi | <s> rh </s> o s i |
-| angamikhonoma-657-1 | angamikhonoma | 657 | pezhü | p e <s> zh </s> ü |
-| angamikhonoma-660-1 | angamikhonoma | 660 | kishi | k i <s> sh </s> i |
-| angamikhonoma-67-1 | angamikhonoma | 67 | kezha | k e <s> zh </s> a |
-| angamikhonoma-679-1 | angamikhonoma | 679 | zhü | <s> zh </s> ü |
-| angamikhonoma-684-1 | angamikhonoma | 684 | zhü | <s> zh </s> ü |
-| angamikhonoma-688-1 | angamikhonoma | 688 | te◦ngu, mena | t e + n g u <s> � </s> _ m e n a |
-| angamikhonoma-702-1 | angamikhonoma | 702 | thesha | tʰ e <s> sh </s> a |
-| angamikhonoma-711-1 | angamikhonoma | 711 | shiro | <s> sh </s> i r o |
-| angamikhonoma-714-1 | angamikhonoma | 714 | terhuo | t e <s> rh </s> u o |
-| angamikhonoma-720-1 | angamikhonoma | 720 | kelhi | k e <s> lh </s> i |
-| angamikhonoma-729-1 | angamikhonoma | 729 | kemezho | k e m e <s> zh </s> o |
-| angamikhonoma-741-1 | angamikhonoma | 741 | reswe | r e <s> sw </s> e |
-| angamikhonoma-759-2 | angamikhonoma | 759 | rha | <s> rh </s> a |
-| angamikhonoma-769-1 | angamikhonoma | 769 | keshü | k e <s> sh </s> ü |
-| angamikhonoma-77-1 | angamikhonoma | 77 | vü, mhe | v ü <s> � </s> _ mh e |
-| angamikhonoma-776-1 | angamikhonoma | 776 | therhe | tʰ e <s> rh </s> e |
-| angamikhonoma-78-1 | angamikhonoma | 78 | polüsho | p o l <s> üsh </s> o |
-| angamikhonoma-793-1 | angamikhonoma | 793 | kemezhie | k e m e <s> zh </s> i e |
-| angamikhonoma-793-2 | angamikhonoma | 793 | lhote | <s> lh </s> o t e |
-| angamikhonoma-83-1 | angamikhonoma | 83 | lesheda | l e <s> sh </s> e d a |
-| angamikhonoma-841-1 | angamikhonoma | 841 | the◦rhü | tʰ e + <s> rh </s> ü |
-| angamikhonoma-870-2 | angamikhonoma | 870 | zhesho | <s> zh </s> e <s> sh </s> o |
-| angamikhonoma-873-1 | angamikhonoma | 873 | thepfüsa◦mi | tʰ e p f <s> üs </s> a + m i |
-| angamikhonoma-877-1 | angamikhonoma | 877 | shü | <s> sh </s> ü |
-| angamikhonoma-897-1 | angamikhonoma | 897 | kere, biche | k e r e <s> � </s> _ b i ch e |
-| angamikhonoma-91-1 | angamikhonoma | 91 | kerezha | k e r e <s> zh </s> a |
-| angamikhonoma-912-1 | angamikhonoma | 912 | -ki | <s> <?> </s> k i |
-| angamikhonoma-912-2 | angamikhonoma | 912 | -nu | <s> <?> </s> n u |
-| angamikhonoma-93-1 | angamikhonoma | 93 | betswe | b e <s> tsw </s> e |
-| angamikhonoma-95-1 | angamikhonoma | 95 | ha◦shi | h a + <s> sh </s> i |
-| angamikohima-225-1 | angamikohima | 225 | dzü; thevü◦dzü | d z ü <s> � </s> _ tʰ e v ü + d z ü |
-| angamikohima-419-1 | angamikohima | 419 | chüzhü | ch ü <s> zh </s> ü |
-| angamikohima-437-1 | angamikohima | 437 | u◦sho | u + <s> sh </s> o |
-| angamikohima-679-1 | angamikohima | 679 | u◦zhü | u + <s> zh </s> ü |
-| angamikohima-785-1 | angamikohima | 785 | me◦zha | m e + <s> zh </s> a |
-| angamikohima-836-1 | angamikohima | 836 | u◦chhe | u + <s> chh </s> e |
+|:--------------------------------------|:--------------|:----------------------|:----------------|:-------------------------------------------------|
+| angamikhonoma-Marrison-1967-917-100-1 | angamikhonoma | Marrison-1967-917-100 | ha◦shi | h a + <s> sh </s> i |
+| angamikhonoma-Marrison-1967-917-104-1 | angamikhonoma | Marrison-1967-917-104 | garigwi | g a r i <s> gw </s> i |
+| angamikhonoma-Marrison-1967-917-105-1 | angamikhonoma | Marrison-1967-917-105 | mezha | m e <s> zh </s> a |
+| angamikhonoma-Marrison-1967-917-138-1 | angamikhonoma | Marrison-1967-917-138 | mi◦zhü | m i + <s> zh </s> ü |
+| angamikhonoma-Marrison-1967-917-138-2 | angamikhonoma | Marrison-1967-917-138 | thezhü | tʰ e <s> zh </s> ü |
+| angamikhonoma-Marrison-1967-917-145-1 | angamikhonoma | Marrison-1967-917-145 | chüsi | ch <s> üs </s> i |
+| angamikhonoma-Marrison-1967-917-147-1 | angamikhonoma | Marrison-1967-917-147 | kevi-kedale | k e v i <s> <?> </s> k e d a l e |
+| angamikhonoma-Marrison-1967-917-152-1 | angamikhonoma | Marrison-1967-917-152 | terhobavü | t e <s> rh </s> o b a v ü |
+| angamikhonoma-Marrison-1967-917-173-1 | angamikhonoma | Marrison-1967-917-173 | keregwi | k e r e <s> gw </s> i |
+| angamikhonoma-Marrison-1967-917-174-1 | angamikhonoma | Marrison-1967-917-174 | chezha | ch e <s> zh </s> a |
+| angamikhonoma-Marrison-1967-917-184-2 | angamikhonoma | Marrison-1967-917-184 | rezhü | r e <s> zh </s> ü |
+| angamikhonoma-Marrison-1967-917-189-2 | angamikhonoma | Marrison-1967-917-189 | zha | <s> zh </s> a |
+| angamikhonoma-Marrison-1967-917-20-1 | angamikhonoma | Marrison-1967-917-20 | tilüsi | t i l <s> üs </s> i |
+| angamikhonoma-Marrison-1967-917-204-1 | angamikhonoma | Marrison-1967-917-204 | kerhu | k e <s> rh </s> u |
+| angamikhonoma-Marrison-1967-917-206-1 | angamikhonoma | Marrison-1967-917-206 | dzürhedu | d z ü <s> rh </s> e d u |
+| angamikhonoma-Marrison-1967-917-227-1 | angamikhonoma | Marrison-1967-917-227 | kilükishe | k i l ü k i <s> sh </s> e |
+| angamikhonoma-Marrison-1967-917-235-1 | angamikhonoma | Marrison-1967-917-235 | lhe◦thetha | <s> lh </s> e + tʰ e tʰ a |
+| angamikhonoma-Marrison-1967-917-25-1 | angamikhonoma | Marrison-1967-917-25 | -nu | <s> <?> </s> n u |
+| angamikhonoma-Marrison-1967-917-256-1 | angamikhonoma | Marrison-1967-917-256 | sho | <s> sh </s> o |
+| angamikhonoma-Marrison-1967-917-263-1 | angamikhonoma | Marrison-1967-917-263 | terha | t e <s> rh </s> a |
+| angamikhonoma-Marrison-1967-917-268-1 | angamikhonoma | Marrison-1967-917-268 | lhi◦pengu | <s> lh </s> i + p e n g u |
+| angamikhonoma-Marrison-1967-917-270-1 | angamikhonoma | Marrison-1967-917-270 | therhechi | tʰ e <s> rh </s> e ch i |
+| angamikhonoma-Marrison-1967-917-279-1 | angamikhonoma | Marrison-1967-917-279 | kemezhe | k e m e <s> zh </s> e |
+| angamikhonoma-Marrison-1967-917-293-1 | angamikhonoma | Marrison-1967-917-293 | phi◦zhe | pʰ i + <s> zh </s> e |
+| angamikhonoma-Marrison-1967-917-300-1 | angamikhonoma | Marrison-1967-917-300 | lhi◦da | <s> lh </s> i + d a |
+| angamikhonoma-Marrison-1967-917-305-1 | angamikhonoma | Marrison-1967-917-305 | gwürno | <s> gw </s> ü r n o |
+| angamikhonoma-Marrison-1967-917-31-2 | angamikhonoma | Marrison-1967-917-31 | kesho | k e <s> sh </s> o |
+| angamikhonoma-Marrison-1967-917-330-1 | angamikhonoma | Marrison-1967-917-330 | kezha | k e <s> zh </s> a |
+| angamikhonoma-Marrison-1967-917-357-2 | angamikhonoma | Marrison-1967-917-357 | yash | y a <s> sh </s> |
+| angamikhonoma-Marrison-1967-917-36-1 | angamikhonoma | Marrison-1967-917-36 | sizhü | s i <s> zh </s> ü |
+| angamikhonoma-Marrison-1967-917-372-1 | angamikhonoma | Marrison-1967-917-372 | pilhito | p i <s> lh </s> i t o |
+| angamikhonoma-Marrison-1967-917-384-1 | angamikhonoma | Marrison-1967-917-384 | chüho | ch <s> üh </s> o |
+| angamikhonoma-Marrison-1967-917-390-1 | angamikhonoma | Marrison-1967-917-390 | leshekethudzü | l e <s> sh </s> e k e tʰ u d z ü |
+| angamikhonoma-Marrison-1967-917-393-1 | angamikhonoma | Marrison-1967-917-393 | the◦zhe | tʰ e + <s> zh </s> e |
+| angamikhonoma-Marrison-1967-917-400-1 | angamikhonoma | Marrison-1967-917-400 | kemekrüshi | k e m e k r <s> üsh </s> i |
+| angamikhonoma-Marrison-1967-917-403-1 | angamikhonoma | Marrison-1967-917-403 | pru◦shi | p r u + <s> sh </s> i |
+| angamikhonoma-Marrison-1967-917-403-2 | angamikhonoma | Marrison-1967-917-403 | kevashi | k e v a <s> sh </s> i |
+| angamikhonoma-Marrison-1967-917-435-1 | angamikhonoma | Marrison-1967-917-435 | chüzhü | ch ü <s> zh </s> ü |
+| angamikhonoma-Marrison-1967-917-439-1 | angamikhonoma | Marrison-1967-917-439 | shohosi | <s> sh </s> o h o s i |
+| angamikhonoma-Marrison-1967-917-442-1 | angamikhonoma | Marrison-1967-917-442 | leshe | l e <s> sh </s> e |
+| angamikhonoma-Marrison-1967-917-444-1 | angamikhonoma | Marrison-1967-917-444 | zhü | <s> zh </s> ü |
+| angamikhonoma-Marrison-1967-917-45-1 | angamikhonoma | Marrison-1967-917-45 | kerhü | k e <s> rh </s> ü |
+| angamikhonoma-Marrison-1967-917-453-1 | angamikhonoma | Marrison-1967-917-453 | sho | <s> sh </s> o |
+| angamikhonoma-Marrison-1967-917-457-1 | angamikhonoma | Marrison-1967-917-457 | rhi | <s> rh </s> i |
+| angamikhonoma-Marrison-1967-917-463-1 | angamikhonoma | Marrison-1967-917-463 | mohoshi | m o h o <s> sh </s> i |
+| angamikhonoma-Marrison-1967-917-468-1 | angamikhonoma | Marrison-1967-917-468 | terhi | t e <s> rh </s> i |
+| angamikhonoma-Marrison-1967-917-479-1 | angamikhonoma | Marrison-1967-917-479 | telhiba | t e <s> lh </s> i b a |
+| angamikhonoma-Marrison-1967-917-540-1 | angamikhonoma | Marrison-1967-917-540 | kegwe | k e <s> gw </s> e |
+| angamikhonoma-Marrison-1967-917-548-1 | angamikhonoma | Marrison-1967-917-548 | prüshi | p r <s> üsh </s> i |
+| angamikhonoma-Marrison-1967-917-549-1 | angamikhonoma | Marrison-1967-917-549 | shohosi-kemupfü | <s> sh </s> o h o s i <s> <?> </s> k e m u p f ü |
+| angamikhonoma-Marrison-1967-917-55-1 | angamikhonoma | Marrison-1967-917-55 | tezhü | t e <s> zh </s> ü |
+| angamikhonoma-Marrison-1967-917-550-1 | angamikhonoma | Marrison-1967-917-550 | dakoshi | d a k o <s> sh </s> i |
+| angamikhonoma-Marrison-1967-917-553-1 | angamikhonoma | Marrison-1967-917-553 | kurha | k u <s> rh </s> a |
+| angamikhonoma-Marrison-1967-917-563-1 | angamikhonoma | Marrison-1967-917-563 | cha-awe | ch a <s> <?> </s> a w e |
+| angamikhonoma-Marrison-1967-917-566-1 | angamikhonoma | Marrison-1967-917-566 | leshekerusi | l e <s> sh </s> e k e r u s i |
+| angamikhonoma-Marrison-1967-917-577-1 | angamikhonoma | Marrison-1967-917-577 | thezha | tʰ e <s> zh </s> a |
+| angamikhonoma-Marrison-1967-917-579-1 | angamikhonoma | Marrison-1967-917-579 | rezhü | r e <s> zh </s> ü |
+| angamikhonoma-Marrison-1967-917-592-1 | angamikhonoma | Marrison-1967-917-592 | neshi | n e <s> sh </s> i |
+| angamikhonoma-Marrison-1967-917-597-1 | angamikhonoma | Marrison-1967-917-597 | te◦shi | t e + <s> sh </s> i |
+| angamikhonoma-Marrison-1967-917-599-1 | angamikhonoma | Marrison-1967-917-599 | neshi | n e <s> sh </s> i |
+| angamikhonoma-Marrison-1967-917-600-1 | angamikhonoma | Marrison-1967-917-600 | pezhü | p e <s> zh </s> ü |
+| angamikhonoma-Marrison-1967-917-609-1 | angamikhonoma | Marrison-1967-917-609 | kerhi | k e <s> rh </s> i |
+| angamikhonoma-Marrison-1967-917-619-1 | angamikhonoma | Marrison-1967-917-619 | telha | t e <s> lh </s> a |
+| angamikhonoma-Marrison-1967-917-639-1 | angamikhonoma | Marrison-1967-917-639 | mVr?ri | m <s> <?> </s> r <s> <?> </s> r i |
+| angamikhonoma-Marrison-1967-917-640-1 | angamikhonoma | Marrison-1967-917-640 | süwa | s <s> üw </s> a |
+| angamikhonoma-Marrison-1967-917-644-1 | angamikhonoma | Marrison-1967-917-644 | rhesha | <s> rh </s> e <s> sh </s> a |
+| angamikhonoma-Marrison-1967-917-645-1 | angamikhonoma | Marrison-1967-917-645 | kazha | k a <s> zh </s> a |
+| angamikhonoma-Marrison-1967-917-647-1 | angamikhonoma | Marrison-1967-917-647 | theshü | tʰ e <s> sh </s> ü |
+| angamikhonoma-Marrison-1967-917-648-1 | angamikhonoma | Marrison-1967-917-648 | larhi | l a <s> rh </s> i |
+| angamikhonoma-Marrison-1967-917-651-1 | angamikhonoma | Marrison-1967-917-651 | reshüku | r e <s> sh </s> ü k u |
+| angamikhonoma-Marrison-1967-917-670-1 | angamikhonoma | Marrison-1967-917-670 | lhi◦thena | <s> lh </s> i + tʰ e n a |
+| angamikhonoma-Marrison-1967-917-671-1 | angamikhonoma | Marrison-1967-917-671 | therhe | tʰ e <s> rh </s> e |
+| angamikhonoma-Marrison-1967-917-679-1 | angamikhonoma | Marrison-1967-917-679 | pezhü | p e <s> zh </s> ü |
+| angamikhonoma-Marrison-1967-917-68-1 | angamikhonoma | Marrison-1967-917-68 | rhosi | <s> rh </s> o s i |
+| angamikhonoma-Marrison-1967-917-683-1 | angamikhonoma | Marrison-1967-917-683 | kishi | k i <s> sh </s> i |
+| angamikhonoma-Marrison-1967-917-70-1 | angamikhonoma | Marrison-1967-917-70 | kezha | k e <s> zh </s> a |
+| angamikhonoma-Marrison-1967-917-702-1 | angamikhonoma | Marrison-1967-917-702 | zhü | <s> zh </s> ü |
+| angamikhonoma-Marrison-1967-917-707-1 | angamikhonoma | Marrison-1967-917-707 | zhü | <s> zh </s> ü |
+| angamikhonoma-Marrison-1967-917-726-1 | angamikhonoma | Marrison-1967-917-726 | thesha | tʰ e <s> sh </s> a |
+| angamikhonoma-Marrison-1967-917-735-1 | angamikhonoma | Marrison-1967-917-735 | shiro | <s> sh </s> i r o |
+| angamikhonoma-Marrison-1967-917-738-1 | angamikhonoma | Marrison-1967-917-738 | terhuo | t e <s> rh </s> u o |
+| angamikhonoma-Marrison-1967-917-744-1 | angamikhonoma | Marrison-1967-917-744 | kelhi | k e <s> lh </s> i |
+| angamikhonoma-Marrison-1967-917-753-1 | angamikhonoma | Marrison-1967-917-753 | kemezho | k e m e <s> zh </s> o |
+| angamikhonoma-Marrison-1967-917-765-1 | angamikhonoma | Marrison-1967-917-765 | reswe | r e <s> sw </s> e |
+| angamikhonoma-Marrison-1967-917-783-2 | angamikhonoma | Marrison-1967-917-783 | rha | <s> rh </s> a |
+| angamikhonoma-Marrison-1967-917-793-1 | angamikhonoma | Marrison-1967-917-793 | keshü | k e <s> sh </s> ü |
+| angamikhonoma-Marrison-1967-917-800-1 | angamikhonoma | Marrison-1967-917-800 | therhe | tʰ e <s> rh </s> e |
+| angamikhonoma-Marrison-1967-917-817-1 | angamikhonoma | Marrison-1967-917-817 | kemezhie | k e m e <s> zh </s> i e |
+| angamikhonoma-Marrison-1967-917-817-2 | angamikhonoma | Marrison-1967-917-817 | lhote | <s> lh </s> o t e |
+| angamikhonoma-Marrison-1967-917-818-1 | angamikhonoma | Marrison-1967-917-818 | -ki | <s> <?> </s> k i |
+| angamikhonoma-Marrison-1967-917-818-2 | angamikhonoma | Marrison-1967-917-818 | -nu | <s> <?> </s> n u |
+| angamikhonoma-Marrison-1967-917-82-1 | angamikhonoma | Marrison-1967-917-82 | polüsho | p o l <s> üsh </s> o |
+| angamikhonoma-Marrison-1967-917-867-1 | angamikhonoma | Marrison-1967-917-867 | the◦rhü | tʰ e + <s> rh </s> ü |
+| angamikhonoma-Marrison-1967-917-87-1 | angamikhonoma | Marrison-1967-917-87 | lesheda | l e <s> sh </s> e d a |
+| angamikhonoma-Marrison-1967-917-896-2 | angamikhonoma | Marrison-1967-917-896 | zhesho | <s> zh </s> e <s> sh </s> o |
+| angamikhonoma-Marrison-1967-917-899-1 | angamikhonoma | Marrison-1967-917-899 | thepfüsa◦mi | tʰ e p f <s> üs </s> a + m i |
+| angamikhonoma-Marrison-1967-917-903-1 | angamikhonoma | Marrison-1967-917-903 | shü | <s> sh </s> ü |
+| angamikhonoma-Marrison-1967-917-96-1 | angamikhonoma | Marrison-1967-917-96 | kerezha | k e r e <s> zh </s> a |
+| angamikhonoma-Marrison-1967-917-98-1 | angamikhonoma | Marrison-1967-917-98 | betswe | b e <s> tsw </s> e |
+| angamikohima-Marrison-1967-917-453-1 | angamikohima | Marrison-1967-917-453 | u◦sho | u + <s> sh </s> o |
 
 (100 rows)
 
