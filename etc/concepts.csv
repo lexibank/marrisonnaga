@@ -1,935 +1,935 @@
-"ID","NUMBER","ENGLISH","CONCEPTICON_ID","CONCEPTICON_GLOSS","ENGLISH_in_STEDT","ENGLISH_in_source"
-"Marrison-1967-917-1",1,"above",1741,"ABOVE",,"above"
-"Marrison-1967-917-2",2,"after",1685,"AFTER",,"after"
-"Marrison-1967-917-3",3,"again",204,"AGAIN",,"again"
-"Marrison-1967-917-4",4,"all",98,"ALL",,"all"
-"Marrison-1967-917-5",5,"alone",1964,"ALONE",,"alone"
-"Marrison-1967-917-6",6,"also",,,,"also"
-"Marrison-1967-917-7",7,"among",,,"among","among"
-"Marrison-1967-917-8",8,"and",1577,"AND","and","and"
-"Marrison-1967-917-9",9,"angry",1826,"ANGRY","angry","angry"
-"Marrison-1967-917-10",10,"animal",619,"ANIMAL","animal","animal"
-"Marrison-1967-917-11",11,"ankle",803,"ANKLE","ankle","ankle"
-"Marrison-1967-917-12",12,"answer",1275,"ANSWER","answer","to answer"
-"Marrison-1967-917-13",13,"ant (generic)",587,"ANT","ant (generic)","ant (generic)"
-"Marrison-1967-917-14",14,"ant (black)",,,"ant (black)","ant (black)"
-"Marrison-1967-917-15",15,"ant (red)",,,"ant (red)","ant (red)"
-"Marrison-1967-917-16",16,"ant (white), termite",883,"TERMITE","ant (white), termite","ant (white-termite)"
-"Marrison-1967-917-17",17,"arm",1673,"ARM","arm","arm"
-"Marrison-1967-917-18",18,"armlet",,,"armlet","armlet"
-"Marrison-1967-917-19",19,"arrive",1387,"ARRIVE","arrive","to arrive"
-"Marrison-1967-917-20",20,"arrow",977,"ARROW","arrow","arrow"
-"Marrison-1967-917-21",21,"ascend",705,"GO UP (ASCEND)","ascend","to ascend"
-"Marrison-1967-917-22",22,"ashes",646,"ASH","ashes","ashes"
-"Marrison-1967-917-23",23,"ask (a question)",1309,"ASK (INQUIRE)","ask (a question)","to ask (a question)"
-"Marrison-1967-917-24",24,"ask for",1828,"ASK (REQUEST)","ask for","to ask for"
-"Marrison-1967-917-25",25,"at",1461,"AT","at","at"
-"Marrison-1967-917-26",26,"aunt",1272,"AUNT","aunt","aunt"
-"Marrison-1967-917-27",27,"awake / awaken",825,"AWAKE","awake / awaken","to awake;  to awaken"
-"Marrison-1967-917-28",28,"axe",677,"AXE","axe","axe"
-"Marrison-1967-917-29",29,"baby",1289,"BABY","baby","baby"
-"Marrison-1967-917-30",30,"back (body)",1291,"BACK","back (body)","back (of the body)"
-"Marrison-1967-917-31",31,"bad",1292,"BAD","bad","bad"
-"Marrison-1967-917-32",32,"bag",2468,"BAG","bag","bag"
-"Marrison-1967-917-33",33,"bamboo",1927,"BAMBOO","bamboo","bamboo"
-"Marrison-1967-917-34",34,"banana",868,"BANANA","banana","banana"
-"Marrison-1967-917-35",35,"bank (edge)",113,"SHORE","bank (edge)","bank (edge)"
-"Marrison-1967-917-36",36,"bark (of tree)",1204,"BARK","bark (of tree)","bark (of tree)"
-"Marrison-1967-917-37",37,"basket (generic)",1539,"BASKET","basket (generic)","basket (generic)"
-"Marrison-1967-917-38",38,"basket (back, man's)",,,"basket (back, man's)","basket (back, man's)"
-"Marrison-1967-917-39",39,"basket (back, woman's)",,,"basket (back, woman's)","basket (back, woman's)"
-"Marrison-1967-917-40",40,"basket (large, storage)",,,"basket (large, storage)","basket (large, storage)"
-"Marrison-1967-917-41",41,"bat (animal)",1793,"BAT","bat (animal)","bat (animal)"
-"Marrison-1967-917-42",42,"be",1579,"BE","be","to be"
-"Marrison-1967-917-43",43,"bead",1860,"BEAD","bead","bead"
-"Marrison-1967-917-44",44,"beam",1132,"BEAM","beam","beam"
-"Marrison-1967-917-45",45,"bean",832,"BEAN","bean","bean"
-"Marrison-1967-917-46",46,"bear (animal)",1820,"BEAR","bear (animal)","a bear"
-"Marrison-1967-917-47",47,"to bear (a child)",1123,"PREGNANT",,"to bear (a child)"
-"Marrison-1967-917-48",48,"bear (fruit)",3054,"BEAR FRUIT","bear (fruit)","to bear (fruit)"
-"Marrison-1967-917-49",49,"beard",678,"BEARD","beard","beard"
-"Marrison-1967-917-50",50,"beat",1665,"BEAT","beat","to beat"
-"Marrison-1967-917-51",51,"beautiful",1427,"BEAUTIFUL","beautiful","beautiful"
-"Marrison-1967-917-52",52,"because",1157,"BECAUSE","because","because"
-"Marrison-1967-917-53",53,"become",1990,"BECOME","become","to become"
-"Marrison-1967-917-54",54,"bed",1663,"BED","bed","bed"
-"Marrison-1967-917-55",55,"bee",665,"BEE","bee","bee"
-"Marrison-1967-917-56",56,"beetle",2242,"BEETLE","beetle","beetle"
-"Marrison-1967-917-57",57,"before",1882,"BEFORE","before","before"
-"Marrison-1967-917-58",58,"before; at; to",,,"before; at; to",
-"Marrison-1967-917-59",59,"begin",1806,"BEGIN","begin","to begin"
-"Marrison-1967-917-60",60,"believe",1890,"BELIEVE","believe","to believe"
-"Marrison-1967-917-61",61,"bellows",,,"bellows","bellows"
-"Marrison-1967-917-62",62,"belly",1251,"BELLY","belly","belly"
-"Marrison-1967-917-63",63,"belows",,,"belows",
-"Marrison-1967-917-64",64,"belt (girdle)",772,"BELT","belt (girdle)","belt (girdle)"
-"Marrison-1967-917-65",65,"belt (for weaving)",,,"belt (for weaving)","belt (for weaving)"
-"Marrison-1967-917-66",66,"betel (leaf)",,,"betel (leaf)","betel (leaf)"
-"Marrison-1967-917-67",67,"betel (nut)",,,"betel (nut)","betel (nut)"
-"Marrison-1967-917-68",68,"between",689,"BETWEEN","between","between"
-"Marrison-1967-917-69",69,"big",1202,"BIG","big","big"
-"Marrison-1967-917-70",70,"bind",1917,"TIE","bind","to bind"
-"Marrison-1967-917-71",71,"bird",937,"BIRD","bird","bird"
-"Marrison-1967-917-72",72,"birth, give",,,"birth, give",
-"Marrison-1967-917-73",73,"bite",1403,"BITE","bite","to bite"
-"Marrison-1967-917-74",74,"bitter",887,"BITTER","bitter","bitter"
-"Marrison-1967-917-75",75,"black",163,"BLACK","black","black"
-"Marrison-1967-917-76",76,"bladder",1746,"BLADDER","bladder","bladder"
-"Marrison-1967-917-77",77,"bless",391,"BLESS","bless","to bless"
-"Marrison-1967-917-78",78,"blind",1653,"BLIND","blind","blind"
-"Marrison-1967-917-79",79,"blood",946,"BLOOD","blood","blood"
-"Marrison-1967-917-80",80,"blow",176,"BLOW (WITH MOUTH)","blow","to blow"
-"Marrison-1967-917-81",81,"blunt",379,"BLUNT","blunt","blunt"
-"Marrison-1967-917-82",82,"boat",1844,"BOAT","boat","boat"
-"Marrison-1967-917-83",83,"body",1480,"BODY","body","body"
-"Marrison-1967-917-84",84,"boil",2493,"BOIL","boil","to boil"
-"Marrison-1967-917-85",85,"bone",1394,"BONE","bone","bone"
-"Marrison-1967-917-86",86,"book",963,"BOOK","book","book"
-"Marrison-1967-917-87",87,"bow (for shooting)",994,"BOW","bow (for shooting)","bow (for shooting)"
-"Marrison-1967-917-88",88,"box",1465,"BOX","box","box"
-"Marrison-1967-917-89",89,"box / chest",,,"box / chest",
-"Marrison-1967-917-90",90,"boy",1366,"BOY","boy","boy"
-"Marrison-1967-917-91",91,"bracelet",1754,"BRACELET","bracelet","bracelet"
-"Marrison-1967-917-92",92,"brain",1583,"BRAIN","brain","brain"
-"Marrison-1967-917-93",93,"branch",1531,"BRANCH","branch","branch"
-"Marrison-1967-917-94",94,"brass",,,"brass","brass"
-"Marrison-1967-917-95",95,"brave",3,"BRAVE","brave","brave"
-"Marrison-1967-917-96",96,"bread",1368,"BREAD","bread","bread"
-"Marrison-1967-917-97",97,"break",680,"BREAK (DESTROY OR GET DESTROYED)","break","to break"
-"Marrison-1967-917-98",98,"breast",1402,"BREAST","breast","breast"
-"Marrison-1967-917-99",99,"breathe",1407,"BREATHE","breathe","to breathe"
-"Marrison-1967-917-100",100,"bride",1266,"BRIDE","bride","bride"
-"Marrison-1967-917-101",101,"bridge",1011,"BRIDGE","bridge","bridge"
-"Marrison-1967-917-102",102,"bring",692,"BRING","bring","to bring"
-"Marrison-1967-917-103",103,"brinjal (bengan, eggplant)",1146,"AUBERGINE","brinjal (bengan, eggplant)","brinjal (bengan  egg plant)"
-"Marrison-1967-917-104",104,"broad",2531,"BROAD","broad","broad"
-"Marrison-1967-917-105",105,"broom",245,"BROOM","broom","broom"
-"Marrison-1967-917-106",106,"brother (elder)",1759,"OLDER BROTHER","brother (elder)","brother (elder)"
-"Marrison-1967-917-107",107,"brother (younger)",1760,"YOUNGER BROTHER","brother (younger)","brother (younger)"
-"Marrison-1967-917-108",108,"bud",1684,"BUD","bud","bud"
-"Marrison-1967-917-109",109,"buffalo",934,"BUFFALO","buffalo","buffalo"
-"Marrison-1967-917-110",110,"bug",1027,"BUG","bug","bug"
-"Marrison-1967-917-111",111,"build",1840,"BUILD","build","to build"
-"Marrison-1967-917-112",112,"bull",1008,"BULL","bull","bull"
-"Marrison-1967-917-113",113,"bullet",1114,"BULLET","bullet","bullet"
-"Marrison-1967-917-114",114,"burn",2102,"BURN","burn","to burn"
-"Marrison-1967-917-115",115,"bury",1719,"BURY","bury","to bury"
-"Marrison-1967-917-116",116,"bush",1683,"BUSH","bush","bush"
-"Marrison-1967-917-117",117,"but",1869,"BUY","but","but"
-"Marrison-1967-917-118",118,"butterfly",1791,"BUTTERFLY","butterfly","butterfly"
-"Marrison-1967-917-119",119,"buy",1869,"BUY","buy","to buy"
-"Marrison-1967-917-120",120,"by means of",,,"by means of","by means of"
-"Marrison-1967-917-121",121,"calf (of cow)",1989,"CALF","calf (of cow)","calf (of cow)"
-"Marrison-1967-917-122",122,"calf (of leg)",498,"CALF OF LEG","calf (of leg)","calf (of leg)"
-"Marrison-1967-917-123",123,"to call",1084,"CALL",,"to call"
-"Marrison-1967-917-124",124,"can, able",972,"BE ABLE",,"can, able"
-"Marrison-1967-917-125",125,"cane",146,"SUGAR CANE","cane","cane"
-"Marrison-1967-917-126",126,"to carry (generic)",700,"CARRY","to carry (generic)","to carry (generic)"
-"Marrison-1967-917-127",127,"to carry (in hand)",412,"CARRY IN HAND","to carry (in hand)","to carry (in hand)"
-"Marrison-1967-917-128",128,"to carry (on back)",465,"CARRY ON BACK","to carry (on back)","to carry (on back)"
-"Marrison-1967-917-129",129,"cat",1208,"CAT","cat","cat"
-"Marrison-1967-917-130",130,"catch",702,"CATCH","catch","to catch"
-"Marrison-1967-917-131",131,"caterpillar",2247,"CATERPILLAR","caterpillar","caterpillar"
-"Marrison-1967-917-132",132,"cattle",1153,"CATTLE","cattle","cattle"
-"Marrison-1967-917-133",133,"cave",1155,"CAVE","cave","cave"
-"Marrison-1967-917-134",134,"centipede",1974,"CENTIPEDE","centipede","centipede"
-"Marrison-1967-917-135",135,"chaff",2363,"CHAFF (HUSK)","chaff","chaff"
-"Marrison-1967-917-136",136,"chair",1476,"CHAIR","chair","chair"
-"Marrison-1967-917-137",137,"charcoal",1188,"CHARCOAL","charcoal","charcoal"
-"Marrison-1967-917-138",138,"cheap",1887,"CHEAP","cheap","cheap"
-"Marrison-1967-917-139",139,"cheek",1730,"CHEEK","cheek","cheek"
-"Marrison-1967-917-140",140,"chest",1592,"CHEST","chest","chest (of body)"
-"Marrison-1967-917-141",141,"chicken",1318,"CHICKEN","chicken","chicken"
-"Marrison-1967-917-142",142,"chief",301,"CHIEFTAIN","chief","a chief"
-"Marrison-1967-917-143",143,"child",2099,"CHILD","child","child"
-"Marrison-1967-917-144",144,"chillie",919,"CHILI PEPPER","chillie","chillie"
-"Marrison-1967-917-145",145,"chin",1510,"CHIN","chin","the chin"
-"Marrison-1967-917-146",146,"choose",1750,"CHOOSE","choose","to choose"
-"Marrison-1967-917-147",147,"claw",72,"CLAW","claw","claw"
-"Marrison-1967-917-148",148,"clay",1399,"CLAY","clay","clay"
-"Marrison-1967-917-149",149,"clean",704,"CLEAN","clean","clean"
-"Marrison-1967-917-150",150,"climb",1102,"CLIMB","climb","to climb"
-"Marrison-1967-917-151",151,"clock",1323,"CLOCK","clock","clock"
-"Marrison-1967-917-152",152,"cloth",1616,"CLOTH","cloth","cloth"
-"Marrison-1967-917-153",153,"clothes",1895,"CLOTHES","clothes","clothes"
-"Marrison-1967-917-154",154,"cloud",1489,"CLOUD","cloud","cloud"
-"Marrison-1967-917-155",155,"coat",603,"COAT","coat","coat"
-"Marrison-1967-917-156",156,"cock",1511,"ROOSTER","cock","cock"
-"Marrison-1967-917-157",157,"cold",1287,"COLD","cold","cold"
-"Marrison-1967-917-158",158,"comb",1475,"COMB","comb","comb"
-"Marrison-1967-917-159",159,"come",1446,"COME","come","to come"
-"Marrison-1967-917-160",160,"cook",1100,"COOK (SOMETHING)","cook","to cook"
-"Marrison-1967-917-161",161,"cook3",,,"cook3",
-"Marrison-1967-917-162",162,"copper",1825,"COPPER","copper","copper"
-"Marrison-1967-917-163",163,"cotton",1850,"COTTON","cotton","cotton"
-"Marrison-1967-917-164",164,"cough",879,"COUGH","cough","to cough"
-"Marrison-1967-917-165",165,"count",1420,"COUNT","count","to count"
-"Marrison-1967-917-166",166,"country",1300,"COUNTRY","country","country"
-"Marrison-1967-917-167",167,"cover",761,"COVER","cover","to cover"
-"Marrison-1967-917-168",168,"cow",1007,"COW","cow","cow"
-"Marrison-1967-917-169",169,"cowrie",,,"cowrie","cowrie"
-"Marrison-1967-917-170",170,"crab",2348,"CRAB","crab","crab"
-"Marrison-1967-917-171",171,"creeper",,,"creeper","creeper"
-"Marrison-1967-917-172",172,"crooked",297,"CROOKED","crooked","crooked"
-"Marrison-1967-917-173",173,"crow (bird)",913,"CROW","crow (bird)","a crow"
-"Marrison-1967-917-174",174,"cruel",500,"CRUEL","cruel","cruel"
-"Marrison-1967-917-175",175,"cry (weep)",1839,"CRY","cry (weep)","to cry (to weep)"
-"Marrison-1967-917-176",176,"cucumber",496,"CUCUMBER","cucumber","cucumber"
-"Marrison-1967-917-177",177,"cup",476,"CUP","cup","cup"
-"Marrison-1967-917-178",178,"curry",,,"curry","curry"
-"Marrison-1967-917-179",179,"curse",8,"CURSE","curse","to curse"
-"Marrison-1967-917-180",180,"to cut (generic)",1432,"CUT","to cut (generic)","to cut (generic)"
-"Marrison-1967-917-181",181,"to cut (with knife)",2156,"CUT (WITH KNIFE)","to cut (with knife)","to cut (with knife)"
-"Marrison-1967-917-182",182,"to cut (with axe)",155,"CHOP","to cut (with axe)","to cut (with axe)"
-"Marrison-1967-917-183",183,"dance",1879,"DANCE","dance","to dance"
-"Marrison-1967-917-184",184,"dao",,,"dao","dao"
-"Marrison-1967-917-185",185,"dark",706,"DARK","dark","dark"
-"Marrison-1967-917-186",186,"daughter",1357,"DAUGHTER","daughter","daughter"
-"Marrison-1967-917-187",187,"dawn",729,"DAWN","dawn","dawn"
-"Marrison-1967-917-188",188,"day",1225,"DAY (NOT NIGHT)","day","day"
-"Marrison-1967-917-189",189,"deaf",996,"DEAF","deaf","deaf"
-"Marrison-1967-917-190",190,"dear (expensive)",1426,"EXPENSIVE","dear (expensive)","dear (expensive)"
-"Marrison-1967-917-191",191,"deceive",1902,"BETRAY","deceive","to deceive"
-"Marrison-1967-917-192",192,"deep",1593,"DEEP","deep","deep"
-"Marrison-1967-917-193",193,"deer (generic)",1936,"DEER","deer (generic)","deer (generic)"
-"Marrison-1967-917-194",194,"deer (barking)",3152,"MUNTJACS","deer (barking)","deer (barking)"
-"Marrison-1967-917-195",195,"deer (sambhur)",,,"deer (sambhur)","deer (sambhur)"
-"Marrison-1967-917-196",196,"descend",2014,"GO DOWN (DESCEND)","descend","to descend"
-"Marrison-1967-917-197",197,"desire",2117,"DESIRE","desire","to desire"
-"Marrison-1967-917-198",198,"dew",1977,"DEW","dew","dew"
-"Marrison-1967-917-199",199,"diarrhea",1177,"DIARREA","diarrhea","diarrhoea"
-"Marrison-1967-917-200",200,"die",1494,"DIE","die","to die"
-"Marrison-1967-917-201",201,"difficult",584,"DIFFICULT","difficult","difficult"
-"Marrison-1967-917-202",202,"dig",1418,"DIG","dig","to dig"
-"Marrison-1967-917-203",203,"dirty",1230,"DIRTY","dirty","dirty"
-"Marrison-1967-917-204",204,"dish",481,"DISH","dish","dish"
-"Marrison-1967-917-205",205,"ditch",2002,"DITCH","ditch","ditch "
-"Marrison-1967-917-206",206,"divide",1119,"DIVIDE","divide","to divide"
-"Marrison-1967-917-207",207,"do",813,"DO","do","to do"
-"Marrison-1967-917-208",208,"dog",2009,"DOG","dog","dog"
-"Marrison-1967-917-209",209,"door",1567,"DOOR","door","door"
-"Marrison-1967-917-210",210,"dove",1853,"DOVE","dove","dove"
-"Marrison-1967-917-211",211,"down",1326,"DOWN","down","down"
-"Marrison-1967-917-212",212,"dream",2374,"DREAM","dream","a dream"
-"Marrison-1967-917-213",213,"drink",1401,"DRINK","drink","to drink"
-"Marrison-1967-917-214",214,"drum",908,"DRUM","drum","drum"
-"Marrison-1967-917-215",215,"dry",1398,"DRY","dry","dry"
-"Marrison-1967-917-216",216,"duck",1360,"DUCK","duck","duck"
-"Marrison-1967-917-217",217,"dumb",1492,"DUMB","dumb","dumb"
-"Marrison-1967-917-218",218,"dung",2057,"DUNG (ANIMAL FAECES)","dung","dung"
-"Marrison-1967-917-219",219,"dust",2,"DUST","dust","dust"
-"Marrison-1967-917-220",220,"each",,,"each","each"
-"Marrison-1967-917-221",221,"eagle",1905,"EAGLE","eagle","eagle"
-"Marrison-1967-917-222",222,"ear",1247,"EAR","ear","ear"
-"Marrison-1967-917-223",223,"early",672,"EARLY","early","early"
-"Marrison-1967-917-224",224,"earring",770,"EARRING","earring","earring"
-"Marrison-1967-917-225",225,"earth",965,"WORLD","earth","earth"
-"Marrison-1967-917-226",226,"earthquake",6,"EARTHQUAKE","earthquake","earthquake"
-"Marrison-1967-917-227",227,"east",1877,"EAST","east","east"
-"Marrison-1967-917-228",228,"easy",686,"EASY","easy","easy"
-"Marrison-1967-917-229",229,"eat",1336,"EAT","eat","to eat"
-"Marrison-1967-917-230",230,"egg",744,"EGG","egg","egg"
-"Marrison-1967-917-231",231,"egg (""bird-egg"")",,,"egg (""bird-egg"")",
-"Marrison-1967-917-232",232,"eight",1705,"EIGHT","eight","eight"
-"Marrison-1967-917-233",233,"eighteen",1713,"EIGHTEEN","eighteen","eighteen"
-"Marrison-1967-917-234",234,"eighty",1722,"EIGHTY","eighty","eighty"
-"Marrison-1967-917-235",235,"elbow",981,"ELBOW","elbow","elbow"
-"Marrison-1967-917-236",236,"elephant",1290,"ELEPHANT","elephant","elephant"
-"Marrison-1967-917-237",237,"eleven",1706,"ELEVEN","eleven","eleven"
-"Marrison-1967-917-238",238,"elevent",,,"elevent",
-"Marrison-1967-917-239",239,"empty",1624,"EMPTY","empty","empty"
-"Marrison-1967-917-240",240,"end",742,"END (OF SPACE)","end","end"
-"Marrison-1967-917-241",241,"enemy",1358,"ENEMY","enemy","enemy"
-"Marrison-1967-917-242",242,"enough",1881,"ENOUGH","enough","enough"
-"Marrison-1967-917-243",243,"enter",749,"ENTER","enter","to enter"
-"Marrison-1967-917-244",244,"evening",1629,"EVENING","evening","evening"
-"Marrison-1967-917-245",245,"every",98,"ALL","every","every"
-"Marrison-1967-917-246",246,"extinguish",127,"EXTINGUISH","extinguish","to extinguish"
-"Marrison-1967-917-247",247,"eye",1248,"EYE","eye","eye"
-"Marrison-1967-917-248",248,"face",1560,"FACE","face","face"
-"Marrison-1967-917-249",249,"faith",1890,"BELIEVE","faith","faith"
-"Marrison-1967-917-250",250,"fall",1280,"FALL","fall","to fall"
-"Marrison-1967-917-251",251,"false",3069,"FALSE","false","false"
-"Marrison-1967-917-252",252,"far",1406,"FAR","far","far"
-"Marrison-1967-917-253",253,"fast (quick)",1631,"FAST","fast (quick)","fast (quick)"
-"Marrison-1967-917-254",254,"fast",303,"ABSTAIN FROM FOOD","fast","to fast"
-"Marrison-1967-917-255",255,"fat",2095,"FAT (FOR NOURISHMENT)","fat","fat (noun)"
-"Marrison-1967-917-256",256,"fat",1279,"FAT (OBESE)","fat","fat (adj.)"
-"Marrison-1967-917-257",257,"father",1217,"FATHER","father","father"
-"Marrison-1967-917-258",258,"fear",1419,"FEAR (BE AFRAID)","fear","to fear"
-"Marrison-1967-917-259",259,"feather",1201,"FEATHER","feather","feather"
-"Marrison-1967-917-260",260,"fell",463,"FELL (A TREE)","fell","to fell"
-"Marrison-1967-917-261",261,"fence",1690,"FENCE","fence","fence"
-"Marrison-1967-917-262",262,"fern",,,"fern","fern"
-"Marrison-1967-917-263",263,"fever",1534,"FEVER","fever","fever"
-"Marrison-1967-917-264",264,"few",1242,"FEW","few","few"
-"Marrison-1967-917-265",265,"field",212,"FIELD","field","field"
-"Marrison-1967-917-266",266,"fifteen",1709,"FIFTEEN","fifteen","fifteen"
-"Marrison-1967-917-267",267,"fifty",1717,"FIFTY","fifty","fifty"
-"Marrison-1967-917-268",268,"fig",322,"FIG","fig","fig"
-"Marrison-1967-917-269",269,"fight",1423,"FIGHT","fight","to fight"
-"Marrison-1967-917-270",270,"fill",2006,"FILL","fill","to fill"
-"Marrison-1967-917-271",271,"find",719,"FIND","find","to find"
-"Marrison-1967-917-272",272,"finger",1303,"FINGER","finger","finger"
-"Marrison-1967-917-273",273,"finish",1766,"FINISH","finish","to finish"
-"Marrison-1967-917-274",274,"fire",221,"FIRE","fire","fire"
-"Marrison-1967-917-275",275,"first",728,"FIRST","first","first"
-"Marrison-1967-917-276",276,"fish",227,"FISH","fish","fish"
-"Marrison-1967-917-277",277,"five",493,"FIVE","five","five"
-"Marrison-1967-917-278",278,"flat",1633,"FLAT","flat","flat"
-"Marrison-1967-917-279",279,"flea",232,"FLEA","flea","flea"
-"Marrison-1967-917-280",280,"flesh",2259,"FLESH","flesh","flesh"
-"Marrison-1967-917-281",281,"flood",613,"HIGH TIDE","flood","flood"
-"Marrison-1967-917-282",282,"floor",1632,"FLOOR","floor","floor"
-"Marrison-1967-917-283",283,"flour",1594,"FLOUR","flour","flour"
-"Marrison-1967-917-284",284,"flow",2003,"FLOW","flow","to flow"
-"Marrison-1967-917-285",285,"flower",239,"FLOWER","flower","flower"
-"Marrison-1967-917-286",286,"flute",777,"FLUTE","flute","flute"
-"Marrison-1967-917-287",287,"fly",1504,"FLY (INSECT)","fly","a fly"
-"Marrison-1967-917-288",288,"fly",1441,"FLY (MOVE THROUGH AIR)","fly","to fly"
-"Marrison-1967-917-289",289,"follow",1085,"FOLLOW","follow","to follow"
-"Marrison-1967-917-290",290,"food",256,"FOOD","food","food"
-"Marrison-1967-917-291",291,"fool",1438,"FOOL","fool","fool"
-"Marrison-1967-917-292",292,"foot",1301,"FOOT","foot","foot"
-"Marrison-1967-917-293",293,"ford",2818,"FORD (CROSSING)","ford","ford"
-"Marrison-1967-917-294",294,"forehead",123,"FOREHEAD","forehead","forehead"
-"Marrison-1967-917-295",295,"foreigner",,,"foreigner","foreigner"
-"Marrison-1967-917-296",296,"forest",420,"FOREST","forest","forest"
-"Marrison-1967-917-297",297,"forget",1523,"FORGET","forget","to forget"
-"Marrison-1967-917-298",298,"forgive",1528,"FORGIVE","forgive","to forgive"
-"Marrison-1967-917-299",299,"forty",1716,"FORTY","forty","forty"
-"Marrison-1967-917-300",300,"four",1500,"FOUR","four","four"
-"Marrison-1967-917-301",301,"fourteen",2451,"FOURTEEN","fourteen","fourteen"
-"Marrison-1967-917-302",302,"free (at liberty)",2316,"FREE","free (at liberty)","free (at liberty)"
-"Marrison-1967-917-303",303,"friend",1325,"FRIEND","friend","friend"
-"Marrison-1967-917-304",304,"frog",503,"FROG","frog","frog"
-"Marrison-1967-917-305",305,"from",693,"FROM","from","from"
-"Marrison-1967-917-306",306,"fruit",1507,"FRUIT","fruit","fruit"
-"Marrison-1967-917-307",307,"full",1429,"FULL","full","full"
-"Marrison-1967-917-308",308,"garden",586,"GARDEN","garden","garden"
-"Marrison-1967-917-309",309,"garlic",2368,"GARLIC","garlic","garlic"
-"Marrison-1967-917-310",310,"gather",7,"GATHER","gather","to gather"
-"Marrison-1967-917-311",311,"get",694,"GET","get","to get"
-"Marrison-1967-917-312",312,"ginger",2500,"GINGER","ginger","ginger"
-"Marrison-1967-917-313",313,"girl",1646,"GIRL","girl","girl"
-"Marrison-1967-917-314",314,"give",1447,"GIVE","give","to give"
-"Marrison-1967-917-315",315,"glad",1495,"HAPPY","glad","glad (to be)"
-"Marrison-1967-917-316",316,"go",695,"GO","go","to go"
-"Marrison-1967-917-317",317,"go out",1107,"GO OUT","go out","to go out"
-"Marrison-1967-917-318",318,"goat",1502,"GOAT","goat","goat"
-"Marrison-1967-917-319",319,"God",1944,"GOD","God","God"
-"Marrison-1967-917-320",320,"gold",1369,"GOLD","gold","gold"
-"Marrison-1967-917-321",321,"good",1035,"GOOD","good","good"
-"Marrison-1967-917-322",322,"gourd",411,"GOURD","gourd","gourd"
-"Marrison-1967-917-323",323,"grandchild",1617,"GRANDCHILD","grandchild","grandchild"
-"Marrison-1967-917-324",324,"grandfather",1383,"GRANDFATHER","grandfather","grandfather"
-"Marrison-1967-917-325",325,"grandmother",1496,"GRANDMOTHER","grandmother","grandmother"
-"Marrison-1967-917-326",326,"grass",606,"GRASS","grass","grass"
-"Marrison-1967-917-327",327,"grasshopper",607,"GRASSHOPPER","grasshopper","grasshopper"
-"Marrison-1967-917-328",328,"grave",1773,"GRAVE","grave","a grave"
-"Marrison-1967-917-329",329,"great",1202,"BIG","great","great"
-"Marrison-1967-917-330",330,"green",1425,"GREEN","green","green (colour)"
-"Marrison-1967-917-331",331,"grind",1033,"GRIND","grind","to grind"
-"Marrison-1967-917-332",332,"grow",479,"GROW","grow","to grow"
-"Marrison-1967-917-333",333,"gum (of tree)",,,"gum (of tree)","gum (of tree)"
-"Marrison-1967-917-334",334,"gun",1566,"GUN","gun","gun"
-"Marrison-1967-917-335",335,"hair",,,"hair",
-"Marrison-1967-917-336",336,"hair (of head)",2648,"HAIR (HEAD)","hair (of head)","hair (of head)"
-"Marrison-1967-917-337",337,"hair (of body)",189,"HAIR (BODY)","hair (of body)","hair (of body)"
-"Marrison-1967-917-338",338,"half",816,"HALF","half","half"
-"Marrison-1967-917-339",339,"hand",1277,"HAND","hand","hand"
-"Marrison-1967-917-340",340,"hard",1884,"HARD","hard","hard"
-"Marrison-1967-917-341",341,"hat / helmet",1680,"HELMET","hat / helmet",
-"Marrison-1967-917-342",342,"hat, helmet",1680,"HELMET","hat, helmet","hat, helmet"
-"Marrison-1967-917-343",343,"hate",1607,"HATE","hate","to hate"
-"Marrison-1967-917-344",344,"hawk",307,"HAWK","hawk","hawk"
-"Marrison-1967-917-345",345,"he",1211,"HE","he","he"
-"Marrison-1967-917-346",346,"head",1256,"HEAD","head","head"
-"Marrison-1967-917-347",347,"heal",499,"CURE","heal","to heal"
-"Marrison-1967-917-348",348,"hear",1408,"HEAR","hear","to hear"
-"Marrison-1967-917-349",349,"heart",1223,"HEART","heart","heart"
-"Marrison-1967-917-350",350,"hearth",185,"FIREPLACE","hearth","hearth"
-"Marrison-1967-917-351",351,"heavy",1210,"HEAVY","heavy","heavy"
-"Marrison-1967-917-352",352,"heddle",,,"heddle","heddle"
-"Marrison-1967-917-353",353,"heel (""foot-chicken-egg"")",,,"heel (""foot-chicken-egg"")",
-"Marrison-1967-917-354",354,"heel",980,"HEEL","heel","heel"
-"Marrison-1967-917-355",355,"help",1897,"HELP","help","to help"
-"Marrison-1967-917-356",356,"hen",1514,"HEN","hen","hen"
-"Marrison-1967-917-357",357,"hen's egg",,,"hen's egg",
-"Marrison-1967-917-358",358,"here",136,"HERE","here","here"
-"Marrison-1967-917-359",359,"hide",2486,"HIDE","hide","to hide"
-"Marrison-1967-917-360",360,"high",1265,"HIGH","high","high"
-"Marrison-1967-917-361",361,"hill",614,"HILL","hill","hill"
-"Marrison-1967-917-362",362,"hip",1745,"HIP","hip","hip"
-"Marrison-1967-917-363",363,"hit",1433,"HIT","hit","to hit"
-"Marrison-1967-917-364",364,"hoe",284,"HOE","hoe","hoe"
-"Marrison-1967-917-365",365,"hold",1448,"HOLD","hold","to hold"
-"Marrison-1967-917-366",366,"hole",1667,"HOLE","hole","hole"
-"Marrison-1967-917-367",367,"honey",942,"HONEY","honey","honey"
-"Marrison-1967-917-368",368,"hoof",152,"HOOF","hoof","hoof"
-"Marrison-1967-917-369",369,"hook",1071,"HOOK","hook","hook"
-"Marrison-1967-917-370",370,"hop",,,"hop","to hop"
-"Marrison-1967-917-371",371,"hope",1092,"HOPE","hope","to hope"
-"Marrison-1967-917-372",372,"horn",1393,"HORN (ANATOMY)","horn","horn"
-"Marrison-1967-917-373",373,"hornbill",,,"hornbill","hornbill"
-"Marrison-1967-917-374",374,"hornet",,,"hornet","hornet"
-"Marrison-1967-917-375",375,"horse",615,"HORSE","horse","horse"
-"Marrison-1967-917-376",376,"hot",1286,"HOT","hot","hot"
-"Marrison-1967-917-377",377,"house",1252,"HOUSE","house","house"
-"Marrison-1967-917-378",378,"how",1239,"HOW","how","how"
-"Marrison-1967-917-379",379,"hudnred",1634,"HUNDRED","hudnred",
-"Marrison-1967-917-380",380,"hundred",1634,"HUNDRED","hundred","hundred"
-"Marrison-1967-917-381",381,"hungry",1533,"BE HUNGRY","hungry","hungry"
-"Marrison-1967-917-382",382,"hunt",1435,"HUNT","hunt","to hunt"
-"Marrison-1967-917-383",383,"husband",1200,"HUSBAND","husband","husband"
-"Marrison-1967-917-384",384,"husk",2501,"RICE HUSK","husk","husk"
-"Marrison-1967-917-385",385,"I",1209,"I","I","I"
-"Marrison-1967-917-386",386,"if",1459,"IF","if","if"
-"Marrison-1967-917-387",387,"in",1460,"IN","in","in"
-"Marrison-1967-917-388",388,"ink",2643,"INK","ink","ink"
-"Marrison-1967-917-389",389,"insect",620,"INSECT","insect","insect"
-"Marrison-1967-917-390",390,"intestines",1991,"INTESTINES","intestines","intestines"
-"Marrison-1967-917-391",391,"iron",621,"IRON","iron","iron"
-"Marrison-1967-917-392",392,"ivory",,,"ivory","ivory"
-"Marrison-1967-917-393",393,"jackal",,,"jackal","jackal"
-"Marrison-1967-917-394",394,"jaw",798,"JAW","jaw","jaw"
-"Marrison-1967-917-395",395,"jewsharp",,,"jewsharp","Jew's harp"
-"Marrison-1967-917-396",396,"Job's tears (coix)",,,"Job's tears (coix)","Job's tears (coix)"
-"Marrison-1967-917-397",397,"jobs tears (coix)",,,"jobs tears (coix)","Job's tears (coix)"
-"Marrison-1967-917-398",398,"join",1743,"JOIN","join","to join"
-"Marrison-1967-917-399",399,"judgment",1067,"JUDGMENT","judgment","judgment"
-"Marrison-1967-917-400",400,"juice",1499,"JUICE","juice","juice"
-"Marrison-1967-917-401",401,"jump",1829,"JUMP","jump","to jump"
-"Marrison-1967-917-402",402,"jungle",420,"FOREST","jungle","jungle"
-"Marrison-1967-917-403",403,"keep",1477,"KEEP","keep","to keep"
-"Marrison-1967-917-404",404,"key",1472,"KEY","key","key"
-"Marrison-1967-917-405",405,"kick",1135,"KICK","kick","to kick"
-"Marrison-1967-917-406",406,"kidney",489,"KIDNEY","kidney","kidney"
-"Marrison-1967-917-407",407,"kill",1417,"KILL","kill","to kill"
-"Marrison-1967-917-408",408,"kind (sort)",844,"KIND (THING)","kind (sort)","kind (sort)"
-"Marrison-1967-917-409",409,"king",1508,"KING","king","king"
-"Marrison-1967-917-410",410,"kiss",578,"KISS","kiss","to kiss"
-"Marrison-1967-917-411",411,"kiss; sniff",,,"kiss; sniff",
-"Marrison-1967-917-412",412,"kitchen",1365,"KITCHEN","kitchen","kitchen"
-"Marrison-1967-917-413",413,"knee",1371,"KNEE","knee","knee"
-"Marrison-1967-917-414",414,"knife",1352,"KNIFE","knife","knife"
-"Marrison-1967-917-415",415,"knock",2396,"KNOCK","knock","to knock"
-"Marrison-1967-917-416",416,"knot (in string)",760,"KNOT","knot (in string)","knot (in string)"
-"Marrison-1967-917-417",417,"know",1410,"KNOW (SOMETHING)","know","to know"
-"Marrison-1967-917-418",418,"ladder",1464,"LADDER","ladder","ladder"
-"Marrison-1967-917-419",419,"ladle",2657,"LADLE","ladle","ladle"
-"Marrison-1967-917-420",420,"lake",624,"LAKE","lake","lake"
-"Marrison-1967-917-421",421,"lame",320,"LAME","lame","lame"
-"Marrison-1967-917-422",422,"lamp",625,"LAMP","lamp","lamp"
-"Marrison-1967-917-423",423,"land",626,"LAND","land","land"
-"Marrison-1967-917-424",424,"language",1307,"LANGUAGE","language","language"
-"Marrison-1967-917-425",425,"last (adj.)",1529,"LAST (FINAL)",,"last (adj.)"
-"Marrison-1967-917-426",426,"late",477,"LATE","late","late"
-"Marrison-1967-917-427",427,"laugh",1355,"LAUGH","laugh","to laugh"
-"Marrison-1967-917-428",428,"law",1062,"LAW","law","law"
-"Marrison-1967-917-429",429,"lazy",1564,"LAZY","lazy","lazy"
-"Marrison-1967-917-430",430,"lead",43,"LEAD (GUIDE)","lead","to lead"
-"Marrison-1967-917-431",431,"leaf",628,"LEAF","leaf","leaf"
-"Marrison-1967-917-432",432,"learn",504,"LEARN","learn","to learn"
-"Marrison-1967-917-433",433,"leather",629,"LEATHER","leather","leather"
-"Marrison-1967-917-434",434,"leech",2273,"LEECH","leech","leech"
-"Marrison-1967-917-435",435,"left-hand",2182,"LEFT HAND","left-hand","left-hand"
-"Marrison-1967-917-436",436,"leg",1297,"LEG","leg","leg"
-"Marrison-1967-917-437",437,"lemon",3091,"LEMON","lemon","lemon"
-"Marrison-1967-917-438",438,"leopard",1139,"LEOPARD","leopard","leopard"
-"Marrison-1967-917-439",439,"leper",,,"leper","leper"
-"Marrison-1967-917-440",440,"letter",1612,"LETTER","letter","letter"
-"Marrison-1967-917-441",441,"lick",319,"LICK","lick","to lick"
-"Marrison-1967-917-442",442,"lie down",215,"LIE DOWN","lie down","to lie down"
-"Marrison-1967-917-443",443,"lie (deceive)",601,"LIE (MISLEAD)","lie (deceive)","to lie (to deceive)"
-"Marrison-1967-917-444",444,"life",210,"LIFE","life","life"
-"Marrison-1967-917-445",445,"lift",501,"LIFT","lift","to lift"
-"Marrison-1967-917-446",446,"light (bright)",679,"BRIGHT","light (bright)","light (bright)"
-"Marrison-1967-917-447",447,"light (of weight)",1052,"LIGHT (WEIGHT)","light (of weight)","light (of weight)"
-"Marrison-1967-917-448",448,"to light (ignite)",737,"LIGHT (IGNITE)","to light (ignite)","to light (ignite)"
-"Marrison-1967-917-449",449,"lightning",1654,"LIGHTNING","lightning","lightning"
-"Marrison-1967-917-450",450,"like (as)",1558,"SIMILAR","like (as)","like (as)"
-"Marrison-1967-917-451",451,"lip",478,"LIP","lip","lip"
-"Marrison-1967-917-452",452,"lip (lower)",,,"lip (lower)",
-"Marrison-1967-917-453",453,"listen",1608,"LISTEN","listen","to listen"
-"Marrison-1967-917-454",454,"little",2924,"A LITTLE","little","a little"
-"Marrison-1967-917-455",455,"live (to be alive)",1422,"BE ALIVE","live (to be alive)","to live (to be alive)"
-"Marrison-1967-917-456",456,"liver",1224,"LIVER","liver","liver"
-"Marrison-1967-917-457",457,"lizard",632,"LIZARD","lizard","lizard"
-"Marrison-1967-917-458",458,"locust",810,"LOCUST","locust","locust"
-"Marrison-1967-917-459",459,"loincloth",1965,"LOINCLOTH","loincloth","loincloth"
-"Marrison-1967-917-460",460,"long",1203,"LONG","long","long"
-"Marrison-1967-917-461",461,"look at",1819,"LOOK","look at","to look at"
-"Marrison-1967-917-462",462,"look for",1468,"LOOK FOR","look for","to look for"
-"Marrison-1967-917-463",463,"loom",1787,"LOOM","loom","loom"
-"Marrison-1967-917-464",464,"lord",1660,"LOSE","lord","lord"
-"Marrison-1967-917-465",465,"lose",1660,"LOSE","lose","to lose"
-"Marrison-1967-917-466",466,"louse",1392,"LOUSE","louse","louse"
-"Marrison-1967-917-467",467,"love",923,"LOVE","love","to love"
-"Marrison-1967-917-468",468,"low",721,"LOW","low","low"
-"Marrison-1967-917-469",469,"lungs",688,"LUNG","lungs","lungs"
-"Marrison-1967-917-470",470,"mad (insane)",1899,"MAD","mad (insane)","mad"
-"Marrison-1967-917-471",471,"maize",506,"MAIZE","maize","maize"
-"Marrison-1967-917-472",472,"make",734,"MAKE","make","to make"
-"Marrison-1967-917-473",473,"man (male)",2106,"MALE PERSON","man (male)","man (male)"
-"Marrison-1967-917-474",474,"man (mankind)",683,"PERSON","man (mankind)","man (mankind)"
-"Marrison-1967-917-475",475,"mango",2398,"MANGO","mango","mango"
-"Marrison-1967-917-476",476,"many",1198,"MANY","many","many"
-"Marrison-1967-917-477",477,"market",633,"MARKET","market","market"
-"Marrison-1967-917-478",478,"married",,,"married","married"
-"Marrison-1967-917-479",479,"mat",195,"MAT","mat","mat"
-"Marrison-1967-917-480",480,"meat",634,"MEAT","meat","meat"
-"Marrison-1967-917-481",481,"meet",1831,"MEET","meet","to meet"
-"Marrison-1967-917-482",482,"mend",2243,"REPAIR","mend","to mend"
-"Marrison-1967-917-483",483,"middle",1093,"MIDDLE","middle","middle"
-"Marrison-1967-917-484",484,"milk",635,"MILK","milk","milk"
-"Marrison-1967-917-485",485,"millet",931,"MILLET","millet","millet"
-"Marrison-1967-917-486",486,"mind",1562,"MIND","mind","the mind"
-"Marrison-1967-917-487",487,"mist",249,"FOG","mist","mist"
-"Marrison-1967-917-488",488,"mistake",1293,"MISTAKE","mistake","mistake"
-"Marrison-1967-917-489",489,"mithan (gayal, bos fontalis)",,,"mithan (gayal, bos fontalis)","mithan (gayal, bos fontalis)"
-"Marrison-1967-917-490",490,"money",1559,"MONEY","money","money"
-"Marrison-1967-917-491",491,"monkey (generic)",1350,"MONKEY","monkey (generic)","monkey (generic)"
-"Marrison-1967-917-492",492,"monkey (huluk)",,,"monkey (huluk)","monkey (huluk)"
-"Marrison-1967-917-493",493,"monkey (langur)",,,"monkey (langur)","monkey (langur)"
-"Marrison-1967-917-494",494,"monkey (macaque)",,,"monkey (macaque)","monkey (macaque)"
-"Marrison-1967-917-495",495,"moon",1313,"MOON","moon","moon"
-"Marrison-1967-917-496",496,"morning",1339,"MORNING","morning","morning"
-"Marrison-1967-917-497",497,"morung (men's dormitory)",,,"morung (men's dormitory)","morung (men's dormitory)"
-"Marrison-1967-917-498",498,"mosquito",1509,"MOSQUITO","mosquito","mosquito"
-"Marrison-1967-917-499",499,"moth",2828,"MOTH","moth","moth"
-"Marrison-1967-917-500",500,"mother",1216,"MOTHER","mother","mother"
-"Marrison-1967-917-501",501,"mountain",639,"MOUNTAIN","mountain","mountain"
-"Marrison-1967-917-502",502,"mouse",1491,"MOUSE","mouse","mouse"
-"Marrison-1967-917-503",503,"mouth",674,"MOUTH","mouth","mouth"
-"Marrison-1967-917-504",504,"move",765,"MOVE","move","to move"
-"Marrison-1967-917-505",505,"much",531,"HOW MUCH","much","much"
-"Marrison-1967-917-506",506,"mud",640,"MUD","mud","mud"
-"Marrison-1967-917-507",507,"must",971,"MUST","must","must"
-"Marrison-1967-917-508",508,"mustard",,,"mustard","mustard"
-"Marrison-1967-917-509",509,"naked",590,"NAKED","naked","naked"
-"Marrison-1967-917-510",510,"name",1405,"NAME","name","name"
-"Marrison-1967-917-511",511,"narrow",1267,"NARROW","narrow","narrow"
-"Marrison-1967-917-512",512,"navel",1838,"NAVEL","navel","navel"
-"Marrison-1967-917-513",513,"near",1942,"NEAR","near","near"
-"Marrison-1967-917-514",514,"necessary",1030,"NECESSARY","necessary","necessary"
-"Marrison-1967-917-515",515,"neck",1333,"NECK","neck","neck"
-"Marrison-1967-917-516",516,"necklace",1961,"NECKLACE","necklace","necklace"
-"Marrison-1967-917-517",517,"needle",1382,"NEEDLE (FOR SEWING)","needle","needle"
-"Marrison-1967-917-518",518,"neighbor",1332,"NEIGHBOUR","neighbor","neighbour"
-"Marrison-1967-917-519",519,"nest",539,"NEST","nest","nest"
-"Marrison-1967-917-520",520,"net",2963,"NET","net","net"
-"Marrison-1967-917-521",521,"never",1656,"NEVER","never","never"
-"Marrison-1967-917-522",522,"new",1231,"NEW","new","new"
-"Marrison-1967-917-523",523,"news",2964,"NEWS","news","news"
-"Marrison-1967-917-524",524,"night",1233,"NIGHT","night","night"
-"Marrison-1967-917-525",525,"nine",1483,"NINE",,"nine"
-"Marrison-1967-917-526",526,"nineteen",1714,"NINETEEN",,"nineteen"
-"Marrison-1967-917-527",527,"ninety",1724,"NINETY",,"ninety"
-"Marrison-1967-917-528",528,"no",1269,"NO","no","no"
-"Marrison-1967-917-529",529,"noise",1182,"NOISE","noise","noise"
-"Marrison-1967-917-530",530,"noon",12,"MIDDAY","noon","noon"
-"Marrison-1967-917-531",531,"north",1598,"NORTH","north","north"
-"Marrison-1967-917-532",532,"nose",1221,"NOSE","nose","nose"
-"Marrison-1967-917-533",533,"not",1240,"NOT","not","not"
-"Marrison-1967-917-534",534,"now",1376,"NOW","now","now"
-"Marrison-1967-917-535",535,"oath",1712,"OATH","oath","oath"
-"Marrison-1967-917-536",536,"obey",1635,"OBEY","obey","to obey"
-"Marrison-1967-917-537",537,"oil",2556,"OIL (HYDROPHOBIC LIQUID)","oil","oil"
-"Marrison-1967-917-538",538,"old (of things)",2113,"OLD (USED)","old (of things)","old (of things)"
-"Marrison-1967-917-539",539,"old (of persons)",2112,"OLD (AGED)","old (of persons)","old (of persons)"
-"Marrison-1967-917-540",540,"old man",406,"OLD MAN","old man","old man"
-"Marrison-1967-917-541",541,"old woman",907,"OLD WOMAN","old woman","old woman"
-"Marrison-1967-917-542",542,"on",,,"on","on"
-"Marrison-1967-917-543",543,"one",1493,"ONE",,"one"
-"Marrison-1967-917-544",544,"onion",2366,"ONION","onion","onion"
-"Marrison-1967-917-545",545,"only",1580,"ONLY","only","only"
-"Marrison-1967-917-546",546,"open",1156,"OPEN","open","to open"
-"Marrison-1967-917-547",547,"orange",2627,"ORANGE (FRUIT)","orange","an orange"
-"Marrison-1967-917-548",548,"order",1128,"ORDER","order","to order"
-"Marrison-1967-917-549",549,"orphan",1149,"ORPHAN","orphan","orphan"
-"Marrison-1967-917-550",550,"other",197,"OTHER","other","other"
-"Marrison-1967-917-551",551,"otter",15,"OTTER","otter","otter"
-"Marrison-1967-917-552",552,"outside",762,"OUTSIDE","outside","outside"
-"Marrison-1967-917-553",553,"owl",735,"OWL","owl","owl"
-"Marrison-1967-917-554",554,"owner",1036,"OWNER","owner","owner"
-"Marrison-1967-917-555",555,"pain",1783,"PAIN","pain","pain"
-"Marrison-1967-917-556",556,"palm (hand)",1183,"PALM OF HAND","palm (hand)",
-"Marrison-1967-917-557",557,"palm (of hand)",1183,"PALM OF HAND","palm (of hand)","palm (of hand)"
-"Marrison-1967-917-558",558,"panji (bamboo stake)",,,"panji (bamboo stake)","panji (bamboo stake)"
-"Marrison-1967-917-559",559,"pass by",558,"PASS BY","pass by","to pass by"
-"Marrison-1967-917-560",560,"pay",718,"PAY","pay","to pay"
-"Marrison-1967-917-561",561,"peace",1338,"PEACE","peace","peace"
-"Marrison-1967-917-562",562,"peacock",,,"peacock","peacock"
-"Marrison-1967-917-563",563,"pearl",,,"pearl","pearl"
-"Marrison-1967-917-564",564,"pen",794,"PEN","pen","pen"
-"Marrison-1967-917-565",565,"people",789,"PEOPLE","people","people"
-"Marrison-1967-917-566",566,"person",683,"PERSON","person","person"
-"Marrison-1967-917-567",567,"pierce",398,"PIERCE","pierce","to pierce"
-"Marrison-1967-917-568",568,"pig (domestic)",1337,"PIG","pig (domestic)","pig (domestic)"
-"Marrison-1967-917-569",569,"pig(wild)",3154,"WILD BOAR","pig(wild)",
-"Marrison-1967-917-570",570,"pig (wild)",3154,"WILD BOAR","pig (wild)","pig (wild)"
-"Marrison-1967-917-571",571,"pigeon",1853,"DOVE","pigeon","pigeon"
-"Marrison-1967-917-572",572,"pillow",1044,"PILLOW","pillow","pillow"
-"Marrison-1967-917-573",573,"pipe (tobacco)",1124,"PIPE","pipe (tobacco)","pipe (tobacco)"
-"Marrison-1967-917-574",574,"place",723,"PLACE (POSITION)","place","a place"
-"Marrison-1967-917-575",575,"plains",652,"PLAIN","plains","the plains"
-"Marrison-1967-917-576",576,"plate",480,"PLATE","plate","plate"
-"Marrison-1967-917-577",577,"play (a game)",3125,"PLAY (GAME)","play (a game)","to play (a game)"
-"Marrison-1967-917-578",578,"play (music)",3124,"PLAY (INSTRUMENT)","play (music)","to play (music)"
-"Marrison-1967-917-579",579,"poison",655,"POISON","poison","poison"
-"Marrison-1967-917-580",580,"pool",,,"pool","pool"
-"Marrison-1967-917-581",581,"poor",1674,"POOR","poor","poor"
-"Marrison-1967-917-582",582,"porcupine",2510,"PORCUPINE","porcupine","porcupine"
-"Marrison-1967-917-583",583,"post (of house)",281,"POST","post (of house)","post (of house)"
-"Marrison-1967-917-584",584,"pot",1462,"POT","pot","pot"
-"Marrison-1967-917-585",585,"power",2526,"POWER","power","power"
-"Marrison-1967-917-586",586,"praise",1687,"PRAISE","praise","to praise"
-"Marrison-1967-917-587",587,"pray",24,"PRAY","pray","to pray"
-"Marrison-1967-917-588",588,"pregnant",1123,"PREGNANT","pregnant","pregnant"
-"Marrison-1967-917-589",589,"prepare",2909,"PREPARE","prepare","to prepare"
-"Marrison-1967-917-590",590,"press",1913,"PRESS","press","to press"
-"Marrison-1967-917-591",591,"price",657,"PRICE","price","price"
-"Marrison-1967-917-592",592,"priest",852,"PRIEST","priest","priest"
-"Marrison-1967-917-593",593,"prison",1281,"PRISON","prison","prison"
-"Marrison-1967-917-594",594,"proud",174,"PROUD","proud","proud"
-"Marrison-1967-917-595",595,"pull",1455,"PULL","pull","to pull"
-"Marrison-1967-917-596",596,"pumpkin",864,"PUMPKIN","pumpkin","pumpkin"
-"Marrison-1967-917-597",597,"push",1452,"PUSH","push","to push"
-"Marrison-1967-917-598",598,"put",998,"PUT","put","to put"
-"Marrison-1967-917-599",599,"quarrel",1848,"QUARREL","quarrel","to quarrel"
-"Marrison-1967-917-600",600,"question",,,"question","a question"
-"Marrison-1967-917-601",601,"quiet",1314,"QUIET","quiet","quiet"
-"Marrison-1967-917-602",602,"rain",658,"RAIN (PRECIPITATION)","rain","the rain"
-"Marrison-1967-917-603",603,"rainbow",1733,"RAINBOW","rainbow","rainbow"
-"Marrison-1967-917-604",604,"raise",501,"LIFT","raise","to raise"
-"Marrison-1967-917-605",605,"rake",338,"RAKE","rake","rake"
-"Marrison-1967-917-606",606,"rat",1490,"RAT","rat","rat"
-"Marrison-1967-917-607",607,"raw (unripe)",1959,"RAW","raw (unripe)","raw (unripe)"
-"Marrison-1967-917-608",608,"read",724,"READ","read","to read"
-"Marrison-1967-917-609",609,"reap",190,"MOW","reap","to reap"
-"Marrison-1967-917-610",610,"receive",694,"GET","receive","to receive"
-"Marrison-1967-917-611",611,"red",156,"RED","red","red"
-"Marrison-1967-917-612",612,"reed",659,"REED","reed","reed"
-"Marrison-1967-917-613",613,"remain",987,"REMAIN","remain","to remain"
-"Marrison-1967-917-614",614,"return (come back)",581,"COME BACK","return (come back)","to return (come back)"
-"Marrison-1967-917-615",615,"rhinoceros",2591,"RHINOCEROS","rhinoceros","rhinoceros"
-"Marrison-1967-917-616",616,"rib",801,"RIB","rib","rib"
-"Marrison-1967-917-617",617,"rice (paddy)",2026,"RICE PLANT","rice (paddy)","rice (paddy)"
-"Marrison-1967-917-618",618,"rice (uncooked)",926,"RICE","rice (uncooked)","rice (uncooked)"
-"Marrison-1967-917-619",619,"rice (cooked)",1191,"COOKED RICE","rice (cooked)","rice (cooked)"
-"Marrison-1967-917-620",620,"rice-beer",,,"rice-beer","rice-beer"
-"Marrison-1967-917-621",621,"rich",712,"RICH","rich","rich"
-"Marrison-1967-917-622",622,"right (correct)",1725,"CORRECT (RIGHT)","right (correct)","right (correct)"
-"Marrison-1967-917-623",623,"right-hand",2183,"RIGHT HAND","right-hand","right-hand"
-"Marrison-1967-917-624",624,"a ring (finger ring)",1374,"RING","a ring (finger ring)","a ring (finger ring)"
-"Marrison-1967-917-625",625,"ripe",178,"RIPE","ripe","ripe"
-"Marrison-1967-917-626",626,"rise",568,"RISE (MOVE UPWARDS)","rise","to rise"
-"Marrison-1967-917-627",627,"river",666,"RIVER","river","river"
-"Marrison-1967-917-628",628,"road",2457,"PATH OR ROAD","road","road"
-"Marrison-1967-917-629",629,"roof",769,"ROOF","roof","roof"
-"Marrison-1967-917-630",630,"room",1450,"ROOM","room","room"
-"Marrison-1967-917-631",631,"root",670,"ROOT","root","root"
-"Marrison-1967-917-632",632,"rope",1218,"ROPE","rope","rope"
-"Marrison-1967-917-633",633,"rope, cord",,,"rope, cord",
-"Marrison-1967-917-634",634,"rotten",1728,"ROTTEN","rotten","rotten"
-"Marrison-1967-917-635",635,"rough",1923,"ROUGH","rough","rough"
-"Marrison-1967-917-636",636,"round",1395,"ROUND","round","round (adj)"
-"Marrison-1967-917-637",637,"rub",1449,"RUB","rub","to rub"
-"Marrison-1967-917-638",638,"run",1519,"RUN","run","to run"
-"Marrison-1967-917-639",639,"rust",3064,"RUST","rust","rust"
-"Marrison-1967-917-640",640,"sacrifice",1103,"SACRIFICE","sacrifice","sacrifice"
-"Marrison-1967-917-641",641,"sad",699,"SAD","sad","sad"
-"Marrison-1967-917-642",642,"salary",718,"PAY","salary","salary"
-"Marrison-1967-917-643",643,"salt",1274,"SALT","salt","salt"
-"Marrison-1967-917-644",644,"sand",671,"SAND","sand","sand"
-"Marrison-1967-917-645",645,"save",1997,"PRESERVE","save","to save"
-"Marrison-1967-917-646",646,"saw",1948,"SAW","saw","a saw"
-"Marrison-1967-917-647",647,"say",1458,"SAY","say","to say"
-"Marrison-1967-917-648",648,"scales (balance)",2783,"SCALES (MEASURE INSTRUMENT)","scales (balance)","scales (balance)"
-"Marrison-1967-917-649",649,"scissors",356,"SHEARS","scissors","scissors"
-"Marrison-1967-917-650",650,"scorpion",1538,"SCORPION","scorpion","scorpion"
-"Marrison-1967-917-651",651,"scratch",1436,"SCRATCH","scratch","to scratch"
-"Marrison-1967-917-652",652,"scratch the soil for grain (birds)",1436,"SCRATCH","scratch the soil for grain (birds)","to scratch"
-"Marrison-1967-917-653",653,"sea",1474,"SEA","sea","sea"
-"Marrison-1967-917-654",654,"second",1384,"SECOND","second","second (adj)"
-"Marrison-1967-917-655",655,"see",1409,"SEE","see","to see"
-"Marrison-1967-917-656",656,"seed",714,"SEED","seed","seed"
-"Marrison-1967-917-657",657,"seek",1468,"LOOK FOR","seek","to seek"
-"Marrison-1967-917-658",658,"seize",855,"SEIZE","seize","to seize"
-"Marrison-1967-917-659",659,"self",1993,"SELF","self","self"
-"Marrison-1967-917-660",660,"sell",1571,"SELL","sell","to sell"
-"Marrison-1967-917-661",661,"send",1127,"SEND","send","to send"
-"Marrison-1967-917-662",662,"serow",,,"serow","serow"
-"Marrison-1967-917-663",663,"servant",255,"SERVANT","servant","servant"
-"Marrison-1967-917-664",664,"serve",,,"serve","to serve"
-"Marrison-1967-917-665",665,"seven",1704,"SEVEN","seven","seven"
-"Marrison-1967-917-666",666,"seventeen",2453,"SEVENTEEN","seventeen","seventeen"
-"Marrison-1967-917-667",667,"seventy",1721,"SEVENTY","seventy","seventy"
-"Marrison-1967-917-668",668,"sew",1457,"SEW","sew","to sew"
-"Marrison-1967-917-669",669,"shadow",1388,"SHADE","shadow","shadow"
-"Marrison-1967-917-670",670,"shake",1909,"SHAKE","shake","to shake"
-"Marrison-1967-917-671",671,"shallow",193,"SHALLOW","shallow","shallow"
-"Marrison-1967-917-672",672,"shame",1776,"SHAME","shame","shame"
-"Marrison-1967-917-673",673,"sharp",1396,"SHARP","sharp","sharp"
-"Marrison-1967-917-674",674,"sheep",1331,"SHEEP","sheep","sheep"
-"Marrison-1967-917-675",675,"shell",598,"SHELL","shell","shell"
-"Marrison-1967-917-676",676,"shield",1064,"SHIELD","shield","shield"
-"Marrison-1967-917-677",677,"shine",708,"SHINE","shine","to shine"
-"Marrison-1967-917-678",678,"shite",,,"shite",
-"Marrison-1967-917-679",679,"shoe",1381,"SHOE","shoe","shoe"
-"Marrison-1967-917-680",680,"shoot",1172,"SHOOT","shoot","to shoot"
-"Marrison-1967-917-681",681,"short",1645,"SHORT","short","short"
-"Marrison-1967-917-682",682,"shoulder",1482,"SHOULDER","shoulder","shoulder"
-"Marrison-1967-917-683",683,"shout",715,"SHOUT","shout","to shout"
-"Marrison-1967-917-684",684,"shut",1046,"SHUT","shut","shut"
-"Marrison-1967-917-685",685,"shuttle",543,"SHUTTLE","shuttle","shuttle"
-"Marrison-1967-917-686",686,"sick",1847,"SICK","sick","sick"
-"Marrison-1967-917-687",687,"sickle",341,"SICKLE","sickle","sickle"
-"Marrison-1967-917-688",688,"side (of body)",682,"SIDE","side (of body)","side (of body)"
-"Marrison-1967-917-689",689,"silver",759,"SILVER","silver","silver"
-"Marrison-1967-917-690",690,"sin",2971,"SIN","sin","sin"
-"Marrison-1967-917-691",691,"sing",1261,"SING","sing","to sing"
-"Marrison-1967-917-692",692,"sink",1088,"SINK (DESCEND)","sink","to sink"
-"Marrison-1967-917-693",693,"sister (elder)",1758,"OLDER SISTER","sister (elder)","sister (elder)"
-"Marrison-1967-917-694",694,"sister (younger)",1761,"YOUNGER SISTER","sister (younger)","sister (younger)"
-"Marrison-1967-917-695",695,"sit",1416,"SIT","sit","to sit"
-"Marrison-1967-917-696",696,"six",1703,"SIX",,"six"
-"Marrison-1967-917-697",697,"sixteen",2454,"SIXTEEN",,"sixteen"
-"Marrison-1967-917-698",698,"sixty",1718,"SIXTY",,"sixty"
-"Marrison-1967-917-699",699,"skin",763,"SKIN","skin","skin"
-"Marrison-1967-917-700",700,"skirt",1600,"SKIRT","skirt","skirt"
-"Marrison-1967-917-701",701,"skull",1605,"SKULL","skull","skull"
-"Marrison-1967-917-702",702,"sky",1732,"SKY","sky","sky"
-"Marrison-1967-917-703",703,"slave",812,"SLAVE","slave","slave"
-"Marrison-1967-917-704",704,"sleep",1585,"SLEEP","sleep","to sleep"
-"Marrison-1967-917-705",705,"slip",1324,"SLIP","slip","to slip"
-"Marrison-1967-917-706",706,"slow",701,"SLOW","slow","slow"
-"Marrison-1967-917-707",707,"small",1246,"SMALL","small","small"
-"Marrison-1967-917-708",708,"smell",2124,"SMELL","smell","to smell"
-"Marrison-1967-917-709",709,"smile",1451,"SMILE","smile","to smile"
-"Marrison-1967-917-710",710,"smoke",1689,"SMOKE (INHALE)","smoke","smoke"
-"Marrison-1967-917-711",711,"smooth",1234,"SMOOTH","smooth","smooth"
-"Marrison-1967-917-712",712,"snail",1543,"SNAIL","snail","snail"
-"Marrison-1967-917-713",713,"snake",730,"SNAKE","snake","snake"
-"Marrison-1967-917-714",714,"sneeze",1621,"SNEEZE","sneeze","to sneeze"
-"Marrison-1967-917-715",715,"sneaze",1621,"SNEEZE","sneaze","to sneeze"
-"Marrison-1967-917-716",716,"snow",784,"SNOW","snow","snow"
-"Marrison-1967-917-717",717,"snore",1983,"SNORE","snore","to snore"
-"Marrison-1967-917-718",718,"so (like that)",2336,"OF THIS KIND (SUCH)","so (like that)","so (like that)"
-"Marrison-1967-917-719",719,"soft",1856,"SOFT","soft","soft"
-"Marrison-1967-917-720",720,"some",1241,"SOME","some","some"
-"Marrison-1967-917-721",721,"son",1620,"SON","son","son"
-"Marrison-1967-917-722",722,"song",1096,"SONG","song","song"
-"Marrison-1967-917-723",723,"sorry",1875,"REGRET","sorry","sorry"
-"Marrison-1967-917-724",724,"soul",811,"SOUL","soul","soul"
-"Marrison-1967-917-725",725,"sour",1906,"SOUR","sour","sour"
-"Marrison-1967-917-726",726,"south",1595,"SOUTH","south","south"
-"Marrison-1967-917-727",727,"sow",748,"SOW SEEDS","sow","to sow"
-"Marrison-1967-917-728",728,"sparrow",1854,"SPARROW","sparrow","sparrow"
-"Marrison-1967-917-729",729,"speak",1623,"SPEAK","speak","to speak"
-"Marrison-1967-917-730",730,"spear",945,"SPEAR","spear","spear"
-"Marrison-1967-917-731",731,"speech",1115,"SPEECH","speech","speech"
-"Marrison-1967-917-732",732,"spider",843,"SPIDER","spider","spider"
-"Marrison-1967-917-733",733,"spin (cotton)",121,"SPIN","spin (cotton)","to spin (cotton)"
-"Marrison-1967-917-734",734,"spindle (cotton)",277,"SPINDLE","spindle (cotton)","spindle (cotton)"
-"Marrison-1967-917-735",735,"spirit",53,"SPIRIT","spirit","spirit"
-"Marrison-1967-917-736",736,"spit",1440,"SPIT","spit","to spit"
-"Marrison-1967-917-737",737,"split",1437,"SPLIT","split","to split"
-"Marrison-1967-917-738",738,"spoon",1378,"SPOON","spoon","spoon"
-"Marrison-1967-917-739",739,"square",850,"SQUARE","square","square"
-"Marrison-1967-917-740",740,"squeeze",1414,"SQUEEZE","squeeze","to squeeze"
-"Marrison-1967-917-741",741,"squirrel",1628,"SQUIRREL","squirrel","squirrel"
-"Marrison-1967-917-742",742,"stand",1442,"STAND","stand","to stand"
-"Marrison-1967-917-743",743,"star",1430,"STAR","star","star"
-"Marrison-1967-917-744",744,"steal",713,"STEAL","steal","to steal"
-"Marrison-1967-917-745",745,"stick",1295,"STICK","stick","a stick"
-"Marrison-1967-917-746",746,"sting",571,"STING","sting","to sting"
-"Marrison-1967-917-747",747,"stink",1587,"SMELL (STINK)","stink","to stink"
-"Marrison-1967-917-748",748,"stone",857,"STONE","stone","stone"
-"Marrison-1967-917-749",749,"storm",858,"STORM","storm","storm"
-"Marrison-1967-917-750",750,"straight",1404,"STRAIGHT","straight","straight"
-"Marrison-1967-917-751",751,"straw",2230,"UNTAMED OR WILD","straw","straw"
-"Marrison-1967-917-752",752,"strong",785,"STRONG","strong","strong"
-"Marrison-1967-917-753",753,"suck",1421,"SUCK","suck","to suck"
-"Marrison-1967-917-754",754,"suddenly",2920,"SUDDENLY","suddenly","suddenly"
-"Marrison-1967-917-755",755,"suffer",1101,"SUFFER","suffer","to suffer"
-"Marrison-1967-917-756",756,"sugar",862,"SUGAR","sugar","sugar"
-"Marrison-1967-917-757",757,"sugar-cane",146,"SUGAR CANE","sugar-cane","sugar-cane"
-"Marrison-1967-917-758",758,"sulphur (brimstone)",,,"sulphur (brimstone)","sulphur (brimstone)"
-"Marrison-1967-917-759",759,"summer",1342,"SUMMER","summer","summer"
-"Marrison-1967-917-760",760,"sun",1343,"SUN","sun","sun"
-"Marrison-1967-917-761",761,"swallow",897,"SWALLOW","swallow","to swallow"
-"Marrison-1967-917-762",762,"swear",1939,"SWEAR","swear","to swear"
-"Marrison-1967-917-763",763,"sweat",125,"SWEAT (SUBSTANCE)","sweat","sweat"
-"Marrison-1967-917-764",764,"sweep",230,"SWEEP","sweep","to sweep"
-"Marrison-1967-917-765",765,"sweet",717,"SWEET","sweet","sweet"
-"Marrison-1967-917-766",766,"swim",1439,"SWIM","swim","to swim"
-"Marrison-1967-917-767",767,"sword",1535,"SWORD","sword","sword"
-"Marrison-1967-917-768",768,"sword (weaving)",1535,"SWORD","sword (weaving)","sword (weaving)"
-"Marrison-1967-917-769",769,"table",1775,"TABLE","table","table"
-"Marrison-1967-917-770",770,"tail",1220,"TAIL","tail","tail"
-"Marrison-1967-917-771",771,"take",1749,"TAKE","take","to take"
-"Marrison-1967-917-772",772,"talk",2708,"TALK","talk","to talk"
-"Marrison-1967-917-773",773,"tall",711,"TALL","tall","tall"
-"Marrison-1967-917-774",774,"taro",351,"TARO","taro","taro"
-"Marrison-1967-917-775",775,"taste",21,"TASTE (SOMETHING)","taste","to taste"
-"Marrison-1967-917-776",776,"tax",873,"TAX","tax","tax"
-"Marrison-1967-917-777",777,"tea",1373,"TEA","tea","tea"
-"Marrison-1967-917-778",778,"teach",709,"TEACH","teach","to teach"
-"Marrison-1967-917-779",779,"teacher",1038,"TEACHER","teacher","teacher"
-"Marrison-1967-917-780",780,"tear",1735,"TEAR (SHRED)","tear","to tear"
-"Marrison-1967-917-781",781,"tears (weeping)",1651,"TEAR (OF EYE)","tears (weeping)","tears (weeping)"
-"Marrison-1967-917-782",782,"ten",1515,"TEN",,"ten"
-"Marrison-1967-917-783",783,"thank",2412,"THANK (SOMBEODY)","thank","to thank"
-"Marrison-1967-917-784",784,"that",78,"THAT","that","that (adj.)"
-"Marrison-1967-917-785",785,"thatch",,,"thatch","to thatch"
-"Marrison-1967-917-786",786,"then",2921,"THEN","then","then"
-"Marrison-1967-917-787",787,"there",1937,"THERE","there","there"
-"Marrison-1967-917-788",788,"they",817,"THEY","they","they"
-"Marrison-1967-917-789",789,"they two",2635,"THEY TWO","they two","they two"
-"Marrison-1967-917-790",790,"thick",1244,"THICK","thick","thick"
-"Marrison-1967-917-791",791,"thief",1160,"THIEF","thief","thief"
-"Marrison-1967-917-792",792,"thigh",800,"THIGH","thigh","thigh"
-"Marrison-1967-917-793",793,"thin",2308,"THIN","thin","thin"
-"Marrison-1967-917-794",794,"thing",738,"THING","thing","thing"
-"Marrison-1967-917-795",795,"think",2271,"THINK","think","to think"
-"Marrison-1967-917-796",796,"third",1859,"THIRD",,"third"
-"Marrison-1967-917-797",797,"thirsty",847,"THIRSTY","thirsty","thirsty"
-"Marrison-1967-917-798",798,"thirteen",1708,"THIRTEEN",,"thirteen"
-"Marrison-1967-917-799",799,"thirty",1715,"THIRTY",,"thirty"
-"Marrison-1967-917-800",800,"this",1214,"THIS","this","this (adj.)"
-"Marrison-1967-917-801",801,"thorn",124,"THORN","thorn","thorn"
-"Marrison-1967-917-802",802,"thou",1215,"THOU","thou","thou"
-"Marrison-1967-917-803",803,"thousand",1843,"THOUSAND",,"thousand"
-"Marrison-1967-917-804",804,"thread",1161,"THREAD","thread","thread"
-"Marrison-1967-917-805",805,"three",492,"THREE",,"three"
-"Marrison-1967-917-806",806,"throat",1346,"THROAT","throat","throat"
-"Marrison-1967-917-807",807,"throw",1456,"THROW","throw","to throw"
-"Marrison-1967-917-808",808,"thumb",1781,"THUMB","thumb","thumb"
-"Marrison-1967-917-809",809,"thunder",1150,"THUNDER","thunder","thunder"
-"Marrison-1967-917-810",810,"tie",1917,"TIE","tie","to tie"
-"Marrison-1967-917-811",811,"tiger",846,"TIGER","tiger","tiger"
-"Marrison-1967-917-812",812,"tight",3053,"TIGHT","tight","tight"
-"Marrison-1967-917-813",813,"time",892,"TIME","time","time"
-"Marrison-1967-917-814",814,"tired",1757,"TIRED","tired","tired"
-"Marrison-1967-917-815",815,"to",,,"to","to"
-"Marrison-1967-917-816",816,"tobacco",974,"TOBACCO","tobacco","tobacco"
-"Marrison-1967-917-817",817,"today",1283,"TODAY","today","today"
-"Marrison-1967-917-818",818,"toe",1389,"TOE","toe","toe"
-"Marrison-1967-917-819",819,"together",2482,"TOGETHER","together","together"
-"Marrison-1967-917-820",820,"tomorrow",1329,"TOMORROW","tomorrow","tomorrow"
-"Marrison-1967-917-821",821,"tongue",1205,"TONGUE","tongue","tongue"
-"Marrison-1967-917-822",822,"tonight",,,"tonight","tonight"
-"Marrison-1967-917-823",823,"tooth",1380,"TOOTH","tooth","tooth"
-"Marrison-1967-917-824",824,"top (i.e. highest point",1753,"TOP","top (i.e. highest point","top (highest point)"
-"Marrison-1967-917-825",825,"top (i.e. highest point)",1753,"TOP","top (i.e. highest point)","top (highest point)"
-"Marrison-1967-917-826",826,"torch",1919,"TORCH","torch","torch"
-"Marrison-1967-917-827",827,"touch",1892,"TOUCH","touch","to touch"
-"Marrison-1967-917-828",828,"towards",2754,"TOWARDS","towards","towards"
-"Marrison-1967-917-829",829,"tower",1671,"TOWER","tower","tower"
-"Marrison-1967-917-830",830,"town",1391,"TOWN","town","town"
-"Marrison-1967-917-831",831,"trap",1075,"TRAP (PITFALL)","trap","a trap"
-"Marrison-1967-917-832",832,"tree",906,"TREE","tree","tree"
-"Marrison-1967-917-833",833,"tremble",52,"SHIVER","tremble","to tremble"
-"Marrison-1967-917-834",834,"tribe",1549,"TRIBE","tribe","tribe"
-"Marrison-1967-917-835",835,"true",1657,"TRUE","true","true"
-"Marrison-1967-917-836",836,"trumpet",775,"TRUMPET","trumpet","trumpet"
-"Marrison-1967-917-837",837,"turmeric",2842,"TURMERIC","turmeric","turmeric"
-"Marrison-1967-917-838",838,"turn",1588,"TURN","turn","to turn (int.)"
-"Marrison-1967-917-839",839,"twelve",1707,"TWELVE",,"twelve"
-"Marrison-1967-917-840",840,"twenty",1710,"TWENTY",,"twenty"
-"Marrison-1967-917-841",841,"two",1498,"TWO","two","two"
-"Marrison-1967-917-842",842,"ugly",1548,"UGLY","ugly","ugly"
-"Marrison-1967-917-843",843,"umbrella",3105,"UMBRELLA",,"umbrella"
-"Marrison-1967-917-844",844,"uncle",1327,"UNCLE","uncle","uncle"
-"Marrison-1967-917-845",845,"under",1485,"BELOW OR UNDER","under","under"
-"Marrison-1967-917-846",846,"understand",1536,"UNDERSTAND","understand","to understand"
-"Marrison-1967-917-847",847,"untie",352,"UNTIE","untie","to untie"
-"Marrison-1967-917-848",848,"until",2753,"UNTIL","until","until"
-"Marrison-1967-917-849",849,"up",1591,"UP","up","up"
-"Marrison-1967-917-850",850,"urine",1142,"URINE","urine","urine"
-"Marrison-1967-917-851",851,"use",2072,"USE (VERB)","use","to use"
-"Marrison-1967-917-852",852,"valey",921,"VALLEY","valey","valley"
-"Marrison-1967-917-853",853,"valley",921,"VALLEY","valley","valley"
-"Marrison-1967-917-854",854,"vegetable",924,"VEGETABLES","vegetable","vegetable"
-"Marrison-1967-917-855",855,"very",1311,"VERY","very","very"
-"Marrison-1967-917-856",856,"village",930,"VILLAGE","village","village"
-"Marrison-1967-917-857",857,"voice",1363,"VOICE","voice","voice"
-"Marrison-1967-917-858",858,"vomit",1278,"VOMIT","vomit","to vomit"
-"Marrison-1967-917-859",859,"waist",1681,"WAIST","waist","waist"
-"Marrison-1967-917-860",860,"wait",1590,"WAIT (FOR)","wait","to wait"
-"Marrison-1967-917-861",861,"walk",1443,"WALK","walk","to walk"
-"Marrison-1967-917-862",862,"wall",933,"WALL (OF HOUSE)","wall","wall"
-"Marrison-1967-917-863",863,"want",1784,"WANT","want","to want"
-"Marrison-1967-917-864",864,"war",935,"WAR","war","war"
-"Marrison-1967-917-865",865,"warn",,,"warn","to warn"
-"Marrison-1967-917-866",866,"warp (loom)",,,"warp (loom)","warp (loom)"
-"Marrison-1967-917-867",867,"wash (generic)",1453,"WASH","wash (generic)","to wash (generic)"
-"Marrison-1967-917-868",868,"wash (self)",,,"wash (self)","to wash (self)"
-"Marrison-1967-917-869",869,"wash (face)",,,"wash (face)","to wash (face)"
-"Marrison-1967-917-870",870,"wash (clothes)",,,"wash (clothes)","to wash (clothes)"
-"Marrison-1967-917-871",871,"wash (pots)",,,"wash (pots)","to wash (pots)"
-"Marrison-1967-917-872",872,"water",948,"WATER","water","water"
-"Marrison-1967-917-873",873,"wax",1931,"BEESWAX","wax","wax"
-"Marrison-1967-917-874",874,"we (incl.)",1131,"WE (INCLUSIVE)","we (incl.)","we (inclusive)"
-"Marrison-1967-917-875",875,"we (excl.)",1130,"WE (EXCLUSIVE)","we (excl.)","we (exclusive)"
-"Marrison-1967-917-876",876,"we two",2634,"WE TWO","we two","we two"
-"Marrison-1967-917-877",877,"weak",1601,"WEAK","weak","weak"
-"Marrison-1967-917-878",878,"wear",976,"WEAR","wear","to wear"
-"Marrison-1967-917-879",879,"weave",133,"WEAVE","weave","to weave"
-"Marrison-1967-917-880",880,"weft",,,"weft","weft"
-"Marrison-1967-917-881",881,"well",954,"WELL","well","a well"
-"Marrison-1967-917-882",882,"well (adv.)",1035,"GOOD","well (adv.)","well(adv.)"
-"Marrison-1967-917-883",883,"west",1817,"WEST","west","west"
-"Marrison-1967-917-884",884,"wet",1726,"WET","wet","wet"
-"Marrison-1967-917-885",885,"what?",1236,"WHAT","what?","what?"
-"Marrison-1967-917-886",886,"when?",1238,"WHEN","when?","when?"
-"Marrison-1967-917-887",887,"where?",1237,"WHERE","where?","where?"
-"Marrison-1967-917-888",888,"whisper",55,"WHISPER","whisper","to whisper"
-"Marrison-1967-917-889",889,"white",1335,"WHITE","white","white"
-"Marrison-1967-917-890",890,"who?",1235,"WHO","who?","who?"
-"Marrison-1967-917-891",891,"whole",2277,"WHOLE","whole","whole"
-"Marrison-1967-917-892",892,"why?",1270,"WHY","why?","why?"
-"Marrison-1967-917-893",893,"wicked",45,"EVIL","wicked","wicked"
-"Marrison-1967-917-894",894,"wide",1243,"WIDE","wide","wide"
-"Marrison-1967-917-895",895,"widow",1756,"WIDOW","widow","widow"
-"Marrison-1967-917-896",896,"widower",1981,"WIDOWER","widower","widower"
-"Marrison-1967-917-897",897,"wife",1199,"WIFE","wife","wife"
-"Marrison-1967-917-898",898,"wind",960,"WIND","wind","the wind"
-"Marrison-1967-917-899",899,"window",1375,"WINDOW","window","window"
-"Marrison-1967-917-900",900,"wing",1257,"WING","wing","wing"
-"Marrison-1967-917-901",901,"winter",1471,"WINTER","winter","winter"
-"Marrison-1967-917-902",902,"wipe",1454,"WIPE","wipe","to wipe"
-"Marrison-1967-917-903",903,"wise",698,"WISE","wise","wise"
-"Marrison-1967-917-904",904,"wish",1784,"WANT","wish","to wish"
-"Marrison-1967-917-905",905,"with (accompaniment)",1340,"WITH","with (accompaniment)","with (cum)"
-"Marrison-1967-917-906",906,"within",1606,"INSIDE","within","within"
-"Marrison-1967-917-907",907,"without",1478,"WITHOUT","without","without (sine)"
-"Marrison-1967-917-908",908,"witness",1144,"WITNESS","witness","witness"
-"Marrison-1967-917-909",909,"wolf",522,"WOLF","wolf","wolf"
-"Marrison-1967-917-910",910,"woman",962,"WOMAN","woman","woman"
-"Marrison-1967-917-911",911,"wonderful",,,"wonderful","wonderful"
-"Marrison-1967-917-912",912,"wood (timber)",1803,"WOOD","wood (timber)","wood (timber)"
-"Marrison-1967-917-913",913,"word",1599,"WORD","word","word"
-"Marrison-1967-917-914",914,"work",984,"WORK (LABOUR)","work","work (n)"
-"Marrison-1967-917-915",915,"world",965,"WORLD","world","world"
-"Marrison-1967-917-916",916,"worm",1219,"WORM","worm","worm"
-"Marrison-1967-917-917",917,"worship",257,"WORSHIP","worship","to worship"
-"Marrison-1967-917-918",918,"wound",1109,"WOUND","wound","a wound"
-"Marrison-1967-917-919",919,"wrap",1113,"WRAP","wrap","to wrap"
-"Marrison-1967-917-920",920,"wrist",799,"WRIST","wrist","wrist"
-"Marrison-1967-917-921",921,"write",1672,"WRITE","write","to write"
-"Marrison-1967-917-922",922,"wrong",1390,"WRONG","wrong","wrong"
-"Marrison-1967-917-923",923,"yam",410,"YAM","yam","yam"
-"Marrison-1967-917-924",924,"year",1226,"YEAR","year","year"
-"Marrison-1967-917-925",925,"yeast",967,"YEAST","yeast","yeast"
-"Marrison-1967-917-926",926,"yellow",1424,"YELLOW","yellow","yellow"
-"Marrison-1967-917-927",927,"yes",1268,"YES","yes","yes"
-"Marrison-1967-917-928",928,"yesterday",1174,"YESTERDAY","yesterday","yesterday"
-"Marrison-1967-917-929",929,"yoke",14,"YOKE","yoke","yoke"
-"Marrison-1967-917-930",930,"you",1213,"YOU","you","you"
-"Marrison-1967-917-931",931,"you two",2111,"YOU TWO","you two","you two"
-"Marrison-1967-917-932",932,"young",1207,"YOUNG","young","young"
-"Marrison-1967-917-933",933,"young man",76,"YOUNG MAN","young man","young man"
-"Marrison-1967-917-934",934,"young woman",77,"YOUNG WOMAN","young woman","young woman"
+"ID","NUMBER","ENGLISH","CONCEPTICON_ID","CONCEPTICON_GLOSS","ENGLISH_in_STEDT","ENGLISH_in_source","NOTES"
+"Marrison-1967-917-1",1,"above",1741,"ABOVE",,"above",
+"Marrison-1967-917-2",2,"after",1685,"AFTER",,"after",
+"Marrison-1967-917-3",3,"again",204,"AGAIN",,"again",
+"Marrison-1967-917-4",4,"all",98,"ALL",,"all",
+"Marrison-1967-917-5",5,"alone",1964,"ALONE",,"alone",
+"Marrison-1967-917-6",6,"also",,,,"also",
+"Marrison-1967-917-7",7,"among",,,"among","among",
+"Marrison-1967-917-8",8,"and",1577,"AND","and","and",
+"Marrison-1967-917-9",9,"angry",1826,"ANGRY","angry","angry",
+"Marrison-1967-917-10",10,"animal",619,"ANIMAL","animal","animal",
+"Marrison-1967-917-11",11,"ankle",803,"ANKLE","ankle","ankle",
+"Marrison-1967-917-12",12,"answer",1275,"ANSWER","answer","to answer",
+"Marrison-1967-917-13",13,"ant (generic)",587,"ANT","ant (generic)","ant (generic)",
+"Marrison-1967-917-14",14,"ant (black)",,,"ant (black)","ant (black)",
+"Marrison-1967-917-15",15,"ant (red)",,,"ant (red)","ant (red)",
+"Marrison-1967-917-16",16,"ant (white), termite",883,"TERMITE","ant (white), termite","ant (white-termite)",
+"Marrison-1967-917-17",17,"arm",1673,"ARM","arm","arm",
+"Marrison-1967-917-18",18,"armlet",,,"armlet","armlet",
+"Marrison-1967-917-19",19,"arrive",1387,"ARRIVE","arrive","to arrive",
+"Marrison-1967-917-20",20,"arrow",977,"ARROW","arrow","arrow",
+"Marrison-1967-917-21",21,"ascend",705,"GO UP (ASCEND)","ascend","to ascend",
+"Marrison-1967-917-22",22,"ashes",646,"ASH","ashes","ashes",
+"Marrison-1967-917-23",23,"ask (a question)",1309,"ASK (INQUIRE)","ask (a question)","to ask (a question)",
+"Marrison-1967-917-24",24,"ask for",1828,"ASK (REQUEST)","ask for","to ask for",
+"Marrison-1967-917-25",25,"at",1461,"AT","at","at",
+"Marrison-1967-917-26",26,"aunt",1272,"AUNT","aunt","aunt",
+"Marrison-1967-917-27",27,"awake / awaken",825,"AWAKE","awake / awaken","to awake;  to awaken",
+"Marrison-1967-917-28",28,"axe",677,"AXE","axe","axe",
+"Marrison-1967-917-29",29,"baby",1289,"BABY","baby","baby",
+"Marrison-1967-917-30",30,"back (body)",1291,"BACK","back (body)","back (of the body)",
+"Marrison-1967-917-31",31,"bad",1292,"BAD","bad","bad",
+"Marrison-1967-917-32",32,"bag",2468,"BAG","bag","bag",
+"Marrison-1967-917-33",33,"bamboo",1927,"BAMBOO","bamboo","bamboo",
+"Marrison-1967-917-34",34,"banana",868,"BANANA","banana","banana",
+"Marrison-1967-917-35",35,"bank (edge)",113,"SHORE","bank (edge)","bank (edge)",
+"Marrison-1967-917-36",36,"bark (of tree)",1204,"BARK","bark (of tree)","bark (of tree)",
+"Marrison-1967-917-37",37,"basket (generic)",1539,"BASKET","basket (generic)","basket (generic)",
+"Marrison-1967-917-38",38,"basket (back, man's)",,,"basket (back, man's)","basket (back, man's)",
+"Marrison-1967-917-39",39,"basket (back, woman's)",,,"basket (back, woman's)","basket (back, woman's)",
+"Marrison-1967-917-40",40,"basket (large, storage)",,,"basket (large, storage)","basket (large, storage)",
+"Marrison-1967-917-41",41,"bat (animal)",1793,"BAT","bat (animal)","bat (animal)",
+"Marrison-1967-917-42",42,"be",1579,"BE","be","to be",
+"Marrison-1967-917-43",43,"bead",1860,"BEAD","bead","bead",
+"Marrison-1967-917-44",44,"beam",1132,"BEAM","beam","beam",
+"Marrison-1967-917-45",45,"bean",832,"BEAN","bean","bean",
+"Marrison-1967-917-46",46,"bear (animal)",1820,"BEAR","bear (animal)","a bear",
+"Marrison-1967-917-47",47,"to bear (a child)",1123,"PREGNANT",,"to bear (a child)",
+"Marrison-1967-917-48",48,"bear (fruit)",3054,"BEAR FRUIT","bear (fruit)","to bear (fruit)",
+"Marrison-1967-917-49",49,"beard",678,"BEARD","beard","beard",
+"Marrison-1967-917-50",50,"beat",1665,"BEAT","beat","to beat",
+"Marrison-1967-917-51",51,"beautiful",1427,"BEAUTIFUL","beautiful","beautiful",
+"Marrison-1967-917-52",52,"because",1157,"BECAUSE","because","because",
+"Marrison-1967-917-53",53,"become",1990,"BECOME","become","to become",
+"Marrison-1967-917-54",54,"bed",1663,"BED","bed","bed",
+"Marrison-1967-917-55",55,"bee",665,"BEE","bee","bee",
+"Marrison-1967-917-56",56,"beetle",2242,"BEETLE","beetle","beetle",
+"Marrison-1967-917-57",57,"before",1882,"BEFORE","before","before",
+"Marrison-1967-917-58",58,"before; at; to",,,"before; at; to",,
+"Marrison-1967-917-59",59,"begin",1806,"BEGIN","begin","to begin",
+"Marrison-1967-917-60",60,"believe",1890,"BELIEVE","believe","to believe",
+"Marrison-1967-917-61",61,"bellows",,,"bellows","bellows",
+"Marrison-1967-917-62",62,"belly",1251,"BELLY","belly","belly",
+"Marrison-1967-917-63",63,"belows",1485,"BELOW OR UNDER","belows",,
+"Marrison-1967-917-64",64,"belt (girdle)",772,"BELT","belt (girdle)","belt (girdle)",
+"Marrison-1967-917-65",65,"belt (for weaving)",,,"belt (for weaving)","belt (for weaving)",
+"Marrison-1967-917-66",66,"betel (leaf)",,,"betel (leaf)","betel (leaf)",
+"Marrison-1967-917-67",67,"betel (nut)",,,"betel (nut)","betel (nut)",
+"Marrison-1967-917-68",68,"between",689,"BETWEEN","between","between",
+"Marrison-1967-917-69",69,"big",1202,"BIG","big","big",
+"Marrison-1967-917-70",70,"bind",1917,"TIE","bind","to bind",
+"Marrison-1967-917-71",71,"bird",937,"BIRD","bird","bird",
+"Marrison-1967-917-72",72,"birth, give",,,"birth, give",,
+"Marrison-1967-917-73",73,"bite",1403,"BITE","bite","to bite",
+"Marrison-1967-917-74",74,"bitter",887,"BITTER","bitter","bitter",
+"Marrison-1967-917-75",75,"black",163,"BLACK","black","black",
+"Marrison-1967-917-76",76,"bladder",1746,"BLADDER","bladder","bladder",
+"Marrison-1967-917-77",77,"bless",391,"BLESS","bless","to bless",
+"Marrison-1967-917-78",78,"blind",1653,"BLIND","blind","blind",
+"Marrison-1967-917-79",79,"blood",946,"BLOOD","blood","blood",
+"Marrison-1967-917-80",80,"blow",176,"BLOW (WITH MOUTH)","blow","to blow",
+"Marrison-1967-917-81",81,"blunt",379,"BLUNT","blunt","blunt",
+"Marrison-1967-917-82",82,"boat",1844,"BOAT","boat","boat",
+"Marrison-1967-917-83",83,"body",1480,"BODY","body","body",
+"Marrison-1967-917-84",84,"boil",2493,"BOIL","boil","to boil",
+"Marrison-1967-917-85",85,"bone",1394,"BONE","bone","bone",
+"Marrison-1967-917-86",86,"book",963,"BOOK","book","book",
+"Marrison-1967-917-87",87,"bow (for shooting)",994,"BOW","bow (for shooting)","bow (for shooting)",
+"Marrison-1967-917-88",88,"box",1465,"BOX","box","box",
+"Marrison-1967-917-89",89,"box / chest",1592,"CHEST","box / chest",,
+"Marrison-1967-917-90",90,"boy",1366,"BOY","boy","boy",
+"Marrison-1967-917-91",91,"bracelet",1754,"BRACELET","bracelet","bracelet",
+"Marrison-1967-917-92",92,"brain",1583,"BRAIN","brain","brain",
+"Marrison-1967-917-93",93,"branch",1531,"BRANCH","branch","branch",
+"Marrison-1967-917-94",94,"brass",,,"brass","brass",
+"Marrison-1967-917-95",95,"brave",3,"BRAVE","brave","brave",
+"Marrison-1967-917-96",96,"bread",1368,"BREAD","bread","bread",
+"Marrison-1967-917-97",97,"break",680,"BREAK (DESTROY OR GET DESTROYED)","break","to break",
+"Marrison-1967-917-98",98,"breast",1402,"BREAST","breast","breast",
+"Marrison-1967-917-99",99,"breathe",1407,"BREATHE","breathe","to breathe",
+"Marrison-1967-917-100",100,"bride",1266,"BRIDE","bride","bride",
+"Marrison-1967-917-101",101,"bridge",1011,"BRIDGE","bridge","bridge",
+"Marrison-1967-917-102",102,"bring",692,"BRING","bring","to bring",
+"Marrison-1967-917-103",103,"brinjal (bengan, eggplant)",1146,"AUBERGINE","brinjal (bengan, eggplant)","brinjal (bengan  egg plant)",
+"Marrison-1967-917-104",104,"broad",2531,"BROAD","broad","broad",
+"Marrison-1967-917-105",105,"broom",245,"BROOM","broom","broom",
+"Marrison-1967-917-106",106,"brother (elder)",1759,"OLDER BROTHER","brother (elder)","brother (elder)",
+"Marrison-1967-917-107",107,"brother (younger)",1760,"YOUNGER BROTHER","brother (younger)","brother (younger)",
+"Marrison-1967-917-108",108,"bud",1684,"BUD","bud","bud",
+"Marrison-1967-917-109",109,"buffalo",934,"BUFFALO","buffalo","buffalo",
+"Marrison-1967-917-110",110,"bug",1027,"BUG","bug","bug",
+"Marrison-1967-917-111",111,"build",1840,"BUILD","build","to build",
+"Marrison-1967-917-112",112,"bull",1008,"BULL","bull","bull",
+"Marrison-1967-917-113",113,"bullet",1114,"BULLET","bullet","bullet",
+"Marrison-1967-917-114",114,"burn",2102,"BURN","burn","to burn",
+"Marrison-1967-917-115",115,"bury",1719,"BURY","bury","to bury",
+"Marrison-1967-917-116",116,"bush",1683,"BUSH","bush","bush",
+"Marrison-1967-917-117",117,"but",1869,"BUY","but","but",
+"Marrison-1967-917-118",118,"butterfly",1791,"BUTTERFLY","butterfly","butterfly",
+"Marrison-1967-917-119",119,"buy",1869,"BUY","buy","to buy",
+"Marrison-1967-917-120",120,"by means of",,,"by means of","by means of",
+"Marrison-1967-917-121",121,"calf (of cow)",1989,"CALF","calf (of cow)","calf (of cow)",
+"Marrison-1967-917-122",122,"calf (of leg)",498,"CALF OF LEG","calf (of leg)","calf (of leg)",
+"Marrison-1967-917-123",123,"to call",1084,"CALL",,"to call",
+"Marrison-1967-917-124",124,"can, able",972,"BE ABLE",,"can, able",
+"Marrison-1967-917-125",125,"cane",146,"SUGAR CANE","cane","cane",
+"Marrison-1967-917-126",126,"to carry (generic)",700,"CARRY","to carry (generic)","to carry (generic)",
+"Marrison-1967-917-127",127,"to carry (in hand)",412,"CARRY IN HAND","to carry (in hand)","to carry (in hand)",
+"Marrison-1967-917-128",128,"to carry (on back)",465,"CARRY ON BACK","to carry (on back)","to carry (on back)",
+"Marrison-1967-917-129",129,"cat",1208,"CAT","cat","cat",
+"Marrison-1967-917-130",130,"catch",702,"CATCH","catch","to catch",
+"Marrison-1967-917-131",131,"caterpillar",2247,"CATERPILLAR","caterpillar","caterpillar",
+"Marrison-1967-917-132",132,"cattle",1153,"CATTLE","cattle","cattle",
+"Marrison-1967-917-133",133,"cave",1155,"CAVE","cave","cave",
+"Marrison-1967-917-134",134,"centipede",1974,"CENTIPEDE","centipede","centipede",
+"Marrison-1967-917-135",135,"chaff",2363,"CHAFF (HUSK)","chaff","chaff",
+"Marrison-1967-917-136",136,"chair",1476,"CHAIR","chair","chair",
+"Marrison-1967-917-137",137,"charcoal",1188,"CHARCOAL","charcoal","charcoal",
+"Marrison-1967-917-138",138,"cheap",1887,"CHEAP","cheap","cheap",
+"Marrison-1967-917-139",139,"cheek",1730,"CHEEK","cheek","cheek",
+"Marrison-1967-917-140",140,"chest",1592,"CHEST","chest","chest (of body)",
+"Marrison-1967-917-141",141,"chicken",1318,"CHICKEN","chicken","chicken",
+"Marrison-1967-917-142",142,"chief",301,"CHIEFTAIN","chief","a chief",
+"Marrison-1967-917-143",143,"child",2099,"CHILD","child","child",
+"Marrison-1967-917-144",144,"chillie",919,"CHILI PEPPER","chillie","chillie",
+"Marrison-1967-917-145",145,"chin",1510,"CHIN","chin","the chin",
+"Marrison-1967-917-146",146,"choose",1750,"CHOOSE","choose","to choose",
+"Marrison-1967-917-147",147,"claw",72,"CLAW","claw","claw",
+"Marrison-1967-917-148",148,"clay",1399,"CLAY","clay","clay",
+"Marrison-1967-917-149",149,"clean",704,"CLEAN","clean","clean",
+"Marrison-1967-917-150",150,"climb",1102,"CLIMB","climb","to climb",
+"Marrison-1967-917-151",151,"clock",1323,"CLOCK","clock","clock",
+"Marrison-1967-917-152",152,"cloth",1616,"CLOTH","cloth","cloth",
+"Marrison-1967-917-153",153,"clothes",1895,"CLOTHES","clothes","clothes",
+"Marrison-1967-917-154",154,"cloud",1489,"CLOUD","cloud","cloud",
+"Marrison-1967-917-155",155,"coat",603,"COAT","coat","coat",
+"Marrison-1967-917-156",156,"cock",1511,"ROOSTER","cock","cock",
+"Marrison-1967-917-157",157,"cold",1287,"COLD","cold","cold",
+"Marrison-1967-917-158",158,"comb",1475,"COMB","comb","comb",
+"Marrison-1967-917-159",159,"come",1446,"COME","come","to come",
+"Marrison-1967-917-160",160,"cook",1100,"COOK (SOMETHING)","cook","to cook",
+"Marrison-1967-917-161",161,"cook3",1100,"COOK (SOMETHING)","cook3",,
+"Marrison-1967-917-162",162,"copper",1825,"COPPER","copper","copper",
+"Marrison-1967-917-163",163,"cotton",1850,"COTTON","cotton","cotton",
+"Marrison-1967-917-164",164,"cough",879,"COUGH","cough","to cough",
+"Marrison-1967-917-165",165,"count",1420,"COUNT","count","to count",
+"Marrison-1967-917-166",166,"country",1300,"COUNTRY","country","country",
+"Marrison-1967-917-167",167,"cover",761,"COVER","cover","to cover",
+"Marrison-1967-917-168",168,"cow",1007,"COW","cow","cow",
+"Marrison-1967-917-169",169,"cowrie",,,"cowrie","cowrie",
+"Marrison-1967-917-170",170,"crab",2348,"CRAB","crab","crab",
+"Marrison-1967-917-171",171,"creeper",,,"creeper","creeper",
+"Marrison-1967-917-172",172,"crooked",297,"CROOKED","crooked","crooked",
+"Marrison-1967-917-173",173,"crow (bird)",913,"CROW","crow (bird)","a crow",
+"Marrison-1967-917-174",174,"cruel",500,"CRUEL","cruel","cruel",
+"Marrison-1967-917-175",175,"cry (weep)",1839,"CRY","cry (weep)","to cry (to weep)",
+"Marrison-1967-917-176",176,"cucumber",496,"CUCUMBER","cucumber","cucumber",
+"Marrison-1967-917-177",177,"cup",476,"CUP","cup","cup",
+"Marrison-1967-917-178",178,"curry",,,"curry","curry",
+"Marrison-1967-917-179",179,"curse",8,"CURSE","curse","to curse",
+"Marrison-1967-917-180",180,"to cut (generic)",1432,"CUT","to cut (generic)","to cut (generic)",
+"Marrison-1967-917-181",181,"to cut (with knife)",2156,"CUT (WITH KNIFE)","to cut (with knife)","to cut (with knife)",
+"Marrison-1967-917-182",182,"to cut (with axe)",155,"CHOP","to cut (with axe)","to cut (with axe)",
+"Marrison-1967-917-183",183,"dance",1879,"DANCE","dance","to dance",
+"Marrison-1967-917-184",184,"dao",,,"dao","dao",
+"Marrison-1967-917-185",185,"dark",706,"DARK","dark","dark",
+"Marrison-1967-917-186",186,"daughter",1357,"DAUGHTER","daughter","daughter",
+"Marrison-1967-917-187",187,"dawn",729,"DAWN","dawn","dawn",
+"Marrison-1967-917-188",188,"day",1225,"DAY (NOT NIGHT)","day","day",
+"Marrison-1967-917-189",189,"deaf",996,"DEAF","deaf","deaf",
+"Marrison-1967-917-190",190,"dear (expensive)",1426,"EXPENSIVE","dear (expensive)","dear (expensive)",
+"Marrison-1967-917-191",191,"deceive",1902,"BETRAY","deceive","to deceive",
+"Marrison-1967-917-192",192,"deep",1593,"DEEP","deep","deep",
+"Marrison-1967-917-193",193,"deer (generic)",1936,"DEER","deer (generic)","deer (generic)",
+"Marrison-1967-917-194",194,"deer (barking)",3152,"MUNTJACS","deer (barking)","deer (barking)",
+"Marrison-1967-917-195",195,"deer (sambhur)",,,"deer (sambhur)","deer (sambhur)",
+"Marrison-1967-917-196",196,"descend",2014,"GO DOWN (DESCEND)","descend","to descend",
+"Marrison-1967-917-197",197,"desire",2117,"DESIRE","desire","to desire",
+"Marrison-1967-917-198",198,"dew",1977,"DEW","dew","dew",
+"Marrison-1967-917-199",199,"diarrhea",1177,"DIARREA","diarrhea","diarrhoea",
+"Marrison-1967-917-200",200,"die",1494,"DIE","die","to die",
+"Marrison-1967-917-201",201,"difficult",584,"DIFFICULT","difficult","difficult",
+"Marrison-1967-917-202",202,"dig",1418,"DIG","dig","to dig",
+"Marrison-1967-917-203",203,"dirty",1230,"DIRTY","dirty","dirty",
+"Marrison-1967-917-204",204,"dish",481,"DISH","dish","dish",
+"Marrison-1967-917-205",205,"ditch",2002,"DITCH","ditch","ditch ",
+"Marrison-1967-917-206",206,"divide",1119,"DIVIDE","divide","to divide",
+"Marrison-1967-917-207",207,"do",813,"DO","do","to do",
+"Marrison-1967-917-208",208,"dog",2009,"DOG","dog","dog",
+"Marrison-1967-917-209",209,"door",1567,"DOOR","door","door",
+"Marrison-1967-917-210",210,"dove",1853,"DOVE","dove","dove",
+"Marrison-1967-917-211",211,"down",1326,"DOWN","down","down",
+"Marrison-1967-917-212",212,"dream",2374,"DREAM","dream","a dream",
+"Marrison-1967-917-213",213,"drink",1401,"DRINK","drink","to drink",
+"Marrison-1967-917-214",214,"drum",908,"DRUM","drum","drum",
+"Marrison-1967-917-215",215,"dry",1398,"DRY","dry","dry",
+"Marrison-1967-917-216",216,"duck",1360,"DUCK","duck","duck",
+"Marrison-1967-917-217",217,"dumb",1492,"DUMB","dumb","dumb",
+"Marrison-1967-917-218",218,"dung",2057,"DUNG (ANIMAL FAECES)","dung","dung",
+"Marrison-1967-917-219",219,"dust",2,"DUST","dust","dust",
+"Marrison-1967-917-220",220,"each",,,"each","each",
+"Marrison-1967-917-221",221,"eagle",1905,"EAGLE","eagle","eagle",
+"Marrison-1967-917-222",222,"ear",1247,"EAR","ear","ear",
+"Marrison-1967-917-223",223,"early",672,"EARLY","early","early",
+"Marrison-1967-917-224",224,"earring",770,"EARRING","earring","earring",
+"Marrison-1967-917-225",225,"earth",965,"WORLD","earth","earth",
+"Marrison-1967-917-226",226,"earthquake",6,"EARTHQUAKE","earthquake","earthquake",
+"Marrison-1967-917-227",227,"east",1877,"EAST","east","east",
+"Marrison-1967-917-228",228,"easy",686,"EASY","easy","easy",
+"Marrison-1967-917-229",229,"eat",1336,"EAT","eat","to eat",
+"Marrison-1967-917-230",230,"egg",744,"EGG","egg","egg",
+"Marrison-1967-917-231",231,"egg (""bird-egg"")",,,"egg (""bird-egg"")",,
+"Marrison-1967-917-232",232,"eight",1705,"EIGHT","eight","eight",
+"Marrison-1967-917-233",233,"eighteen",1713,"EIGHTEEN","eighteen","eighteen",
+"Marrison-1967-917-234",234,"eighty",1722,"EIGHTY","eighty","eighty",
+"Marrison-1967-917-235",235,"elbow",981,"ELBOW","elbow","elbow",
+"Marrison-1967-917-236",236,"elephant",1290,"ELEPHANT","elephant","elephant",
+"Marrison-1967-917-237",237,"eleven",1706,"ELEVEN","eleven","eleven",
+"Marrison-1967-917-238",238,"elevent",,,"elevent",,
+"Marrison-1967-917-239",239,"empty",1624,"EMPTY","empty","empty",
+"Marrison-1967-917-240",240,"end",742,"END (OF SPACE)","end","end",
+"Marrison-1967-917-241",241,"enemy",1358,"ENEMY","enemy","enemy",
+"Marrison-1967-917-242",242,"enough",1881,"ENOUGH","enough","enough",
+"Marrison-1967-917-243",243,"enter",749,"ENTER","enter","to enter",
+"Marrison-1967-917-244",244,"evening",1629,"EVENING","evening","evening",
+"Marrison-1967-917-245",245,"every",98,"ALL","every","every",
+"Marrison-1967-917-246",246,"extinguish",127,"EXTINGUISH","extinguish","to extinguish",
+"Marrison-1967-917-247",247,"eye",1248,"EYE","eye","eye",
+"Marrison-1967-917-248",248,"face",1560,"FACE","face","face",
+"Marrison-1967-917-249",249,"faith",1890,"BELIEVE","faith","faith",
+"Marrison-1967-917-250",250,"fall",1280,"FALL","fall","to fall",
+"Marrison-1967-917-251",251,"false",3069,"FALSE","false","false",
+"Marrison-1967-917-252",252,"far",1406,"FAR","far","far",
+"Marrison-1967-917-253",253,"fast (quick)",1631,"FAST","fast (quick)","fast (quick)",
+"Marrison-1967-917-254",254,"fast",303,"ABSTAIN FROM FOOD","fast","to fast",
+"Marrison-1967-917-255",255,"fat",2095,"FAT (FOR NOURISHMENT)","fat","fat (noun)","need to reference “gfn” in the raw data "
+"Marrison-1967-917-256",256,"fat",1279,"FAT (OBESE)","fat","fat (adj.)","need to reference “gfn” in the raw data"
+"Marrison-1967-917-257",257,"father",1217,"FATHER","father","father",
+"Marrison-1967-917-258",258,"fear",1419,"FEAR (BE AFRAID)","fear","to fear",
+"Marrison-1967-917-259",259,"feather",1201,"FEATHER","feather","feather",
+"Marrison-1967-917-260",260,"fell",463,"FELL (A TREE)","fell","to fell",
+"Marrison-1967-917-261",261,"fence",1690,"FENCE","fence","fence",
+"Marrison-1967-917-262",262,"fern",,,"fern","fern",
+"Marrison-1967-917-263",263,"fever",1534,"FEVER","fever","fever",
+"Marrison-1967-917-264",264,"few",1242,"FEW","few","few",
+"Marrison-1967-917-265",265,"field",212,"FIELD","field","field",
+"Marrison-1967-917-266",266,"fifteen",1709,"FIFTEEN","fifteen","fifteen",
+"Marrison-1967-917-267",267,"fifty",1717,"FIFTY","fifty","fifty",
+"Marrison-1967-917-268",268,"fig",322,"FIG","fig","fig",
+"Marrison-1967-917-269",269,"fight",1423,"FIGHT","fight","to fight",
+"Marrison-1967-917-270",270,"fill",2006,"FILL","fill","to fill",
+"Marrison-1967-917-271",271,"find",719,"FIND","find","to find",
+"Marrison-1967-917-272",272,"finger",1303,"FINGER","finger","finger",
+"Marrison-1967-917-273",273,"finish",1766,"FINISH","finish","to finish",
+"Marrison-1967-917-274",274,"fire",221,"FIRE","fire","fire",
+"Marrison-1967-917-275",275,"first",728,"FIRST","first","first",
+"Marrison-1967-917-276",276,"fish",227,"FISH","fish","fish",
+"Marrison-1967-917-277",277,"five",493,"FIVE","five","five",
+"Marrison-1967-917-278",278,"flat",1633,"FLAT","flat","flat",
+"Marrison-1967-917-279",279,"flea",232,"FLEA","flea","flea",
+"Marrison-1967-917-280",280,"flesh",2259,"FLESH","flesh","flesh",
+"Marrison-1967-917-281",281,"flood",613,"HIGH TIDE","flood","flood",
+"Marrison-1967-917-282",282,"floor",1632,"FLOOR","floor","floor",
+"Marrison-1967-917-283",283,"flour",1594,"FLOUR","flour","flour",
+"Marrison-1967-917-284",284,"flow",2003,"FLOW","flow","to flow",
+"Marrison-1967-917-285",285,"flower",239,"FLOWER","flower","flower",
+"Marrison-1967-917-286",286,"flute",777,"FLUTE","flute","flute",
+"Marrison-1967-917-287",287,"fly",1504,"FLY (INSECT)","fly","a fly",
+"Marrison-1967-917-288",288,"fly",1441,"FLY (MOVE THROUGH AIR)","fly","to fly","need to reference “gfn == v” in the raw data"
+"Marrison-1967-917-289",289,"follow",1085,"FOLLOW","follow","to follow",
+"Marrison-1967-917-290",290,"food",256,"FOOD","food","food",
+"Marrison-1967-917-291",291,"fool",1438,"FOOL","fool","fool",
+"Marrison-1967-917-292",292,"foot",1301,"FOOT","foot","foot",
+"Marrison-1967-917-293",293,"ford",2818,"FORD (CROSSING)","ford","ford",
+"Marrison-1967-917-294",294,"forehead",123,"FOREHEAD","forehead","forehead",
+"Marrison-1967-917-295",295,"foreigner",,,"foreigner","foreigner",
+"Marrison-1967-917-296",296,"forest",420,"FOREST","forest","forest",
+"Marrison-1967-917-297",297,"forget",1523,"FORGET","forget","to forget",
+"Marrison-1967-917-298",298,"forgive",1528,"FORGIVE","forgive","to forgive",
+"Marrison-1967-917-299",299,"forty",1716,"FORTY","forty","forty",
+"Marrison-1967-917-300",300,"four",1500,"FOUR","four","four",
+"Marrison-1967-917-301",301,"fourteen",2451,"FOURTEEN","fourteen","fourteen",
+"Marrison-1967-917-302",302,"free (at liberty)",2316,"FREE","free (at liberty)","free (at liberty)",
+"Marrison-1967-917-303",303,"friend",1325,"FRIEND","friend","friend",
+"Marrison-1967-917-304",304,"frog",503,"FROG","frog","frog",
+"Marrison-1967-917-305",305,"from",693,"FROM","from","from",
+"Marrison-1967-917-306",306,"fruit",1507,"FRUIT","fruit","fruit",
+"Marrison-1967-917-307",307,"full",1429,"FULL","full","full",
+"Marrison-1967-917-308",308,"garden",586,"GARDEN","garden","garden",
+"Marrison-1967-917-309",309,"garlic",2368,"GARLIC","garlic","garlic",
+"Marrison-1967-917-310",310,"gather",7,"GATHER","gather","to gather",
+"Marrison-1967-917-311",311,"get",694,"GET","get","to get",
+"Marrison-1967-917-312",312,"ginger",2500,"GINGER","ginger","ginger",
+"Marrison-1967-917-313",313,"girl",1646,"GIRL","girl","girl",
+"Marrison-1967-917-314",314,"give",1447,"GIVE","give","to give",
+"Marrison-1967-917-315",315,"glad",1495,"HAPPY","glad","glad (to be)",
+"Marrison-1967-917-316",316,"go",695,"GO","go","to go",
+"Marrison-1967-917-317",317,"go out",1107,"GO OUT","go out","to go out",
+"Marrison-1967-917-318",318,"goat",1502,"GOAT","goat","goat",
+"Marrison-1967-917-319",319,"God",1944,"GOD","God","God",
+"Marrison-1967-917-320",320,"gold",1369,"GOLD","gold","gold",
+"Marrison-1967-917-321",321,"good",1035,"GOOD","good","good",
+"Marrison-1967-917-322",322,"gourd",411,"GOURD","gourd","gourd",
+"Marrison-1967-917-323",323,"grandchild",1617,"GRANDCHILD","grandchild","grandchild",
+"Marrison-1967-917-324",324,"grandfather",1383,"GRANDFATHER","grandfather","grandfather",
+"Marrison-1967-917-325",325,"grandmother",1496,"GRANDMOTHER","grandmother","grandmother",
+"Marrison-1967-917-326",326,"grass",606,"GRASS","grass","grass",
+"Marrison-1967-917-327",327,"grasshopper",607,"GRASSHOPPER","grasshopper","grasshopper",
+"Marrison-1967-917-328",328,"grave",1773,"GRAVE","grave","a grave",
+"Marrison-1967-917-329",329,"great",1202,"BIG","great","great",
+"Marrison-1967-917-330",330,"green",1425,"GREEN","green","green (colour)",
+"Marrison-1967-917-331",331,"grind",1033,"GRIND","grind","to grind",
+"Marrison-1967-917-332",332,"grow",479,"GROW","grow","to grow",
+"Marrison-1967-917-333",333,"gum (of tree)",,,"gum (of tree)","gum (of tree)",
+"Marrison-1967-917-334",334,"gun",1566,"GUN","gun","gun",
+"Marrison-1967-917-335",335,"hair",,,"hair",,
+"Marrison-1967-917-336",336,"hair (of head)",2648,"HAIR (HEAD)","hair (of head)","hair (of head)",
+"Marrison-1967-917-337",337,"hair (of body)",189,"HAIR (BODY)","hair (of body)","hair (of body)",
+"Marrison-1967-917-338",338,"half",816,"HALF","half","half",
+"Marrison-1967-917-339",339,"hand",1277,"HAND","hand","hand",
+"Marrison-1967-917-340",340,"hard",1884,"HARD","hard","hard",
+"Marrison-1967-917-341",341,"hat / helmet",1680,"HELMET","hat / helmet",,
+"Marrison-1967-917-342",342,"hat, helmet",1680,"HELMET","hat, helmet","hat, helmet",
+"Marrison-1967-917-343",343,"hate",1607,"HATE","hate","to hate",
+"Marrison-1967-917-344",344,"hawk",307,"HAWK","hawk","hawk",
+"Marrison-1967-917-345",345,"he",1211,"HE","he","he",
+"Marrison-1967-917-346",346,"head",1256,"HEAD","head","head",
+"Marrison-1967-917-347",347,"heal",499,"CURE","heal","to heal",
+"Marrison-1967-917-348",348,"hear",1408,"HEAR","hear","to hear",
+"Marrison-1967-917-349",349,"heart",1223,"HEART","heart","heart",
+"Marrison-1967-917-350",350,"hearth",185,"FIREPLACE","hearth","hearth",
+"Marrison-1967-917-351",351,"heavy",1210,"HEAVY","heavy","heavy",
+"Marrison-1967-917-352",352,"heddle",,,"heddle","heddle",
+"Marrison-1967-917-353",353,"heel (""foot-chicken-egg"")",,,"heel (""foot-chicken-egg"")",,
+"Marrison-1967-917-354",354,"heel",980,"HEEL","heel","heel",
+"Marrison-1967-917-355",355,"help",1897,"HELP","help","to help",
+"Marrison-1967-917-356",356,"hen",1514,"HEN","hen","hen",
+"Marrison-1967-917-357",357,"hen's egg",,,"hen's egg",,
+"Marrison-1967-917-358",358,"here",136,"HERE","here","here",
+"Marrison-1967-917-359",359,"hide",2486,"HIDE","hide","to hide",
+"Marrison-1967-917-360",360,"high",1265,"HIGH","high","high",
+"Marrison-1967-917-361",361,"hill",614,"HILL","hill","hill",
+"Marrison-1967-917-362",362,"hip",1745,"HIP","hip","hip",
+"Marrison-1967-917-363",363,"hit",1433,"HIT","hit","to hit",
+"Marrison-1967-917-364",364,"hoe",284,"HOE","hoe","hoe",
+"Marrison-1967-917-365",365,"hold",1448,"HOLD","hold","to hold",
+"Marrison-1967-917-366",366,"hole",1667,"HOLE","hole","hole",
+"Marrison-1967-917-367",367,"honey",942,"HONEY","honey","honey",
+"Marrison-1967-917-368",368,"hoof",152,"HOOF","hoof","hoof",
+"Marrison-1967-917-369",369,"hook",1071,"HOOK","hook","hook",
+"Marrison-1967-917-370",370,"hop",,,"hop","to hop",
+"Marrison-1967-917-371",371,"hope",1092,"HOPE","hope","to hope",
+"Marrison-1967-917-372",372,"horn",1393,"HORN (ANATOMY)","horn","horn",
+"Marrison-1967-917-373",373,"hornbill",,,"hornbill","hornbill",
+"Marrison-1967-917-374",374,"hornet",,,"hornet","hornet",
+"Marrison-1967-917-375",375,"horse",615,"HORSE","horse","horse",
+"Marrison-1967-917-376",376,"hot",1286,"HOT","hot","hot",
+"Marrison-1967-917-377",377,"house",1252,"HOUSE","house","house",
+"Marrison-1967-917-378",378,"how",1239,"HOW","how","how",
+"Marrison-1967-917-379",379,"hudnred",1634,"HUNDRED","hudnred",,
+"Marrison-1967-917-380",380,"hundred",1634,"HUNDRED","hundred","hundred",
+"Marrison-1967-917-381",381,"hungry",1533,"BE HUNGRY","hungry","hungry",
+"Marrison-1967-917-382",382,"hunt",1435,"HUNT","hunt","to hunt",
+"Marrison-1967-917-383",383,"husband",1200,"HUSBAND","husband","husband",
+"Marrison-1967-917-384",384,"husk",2501,"RICE HUSK","husk","husk",
+"Marrison-1967-917-385",385,"I",1209,"I","I","I",
+"Marrison-1967-917-386",386,"if",1459,"IF","if","if",
+"Marrison-1967-917-387",387,"in",1460,"IN","in","in",
+"Marrison-1967-917-388",388,"ink",2643,"INK","ink","ink",
+"Marrison-1967-917-389",389,"insect",620,"INSECT","insect","insect",
+"Marrison-1967-917-390",390,"intestines",1991,"INTESTINES","intestines","intestines",
+"Marrison-1967-917-391",391,"iron",621,"IRON","iron","iron",
+"Marrison-1967-917-392",392,"ivory",,,"ivory","ivory",
+"Marrison-1967-917-393",393,"jackal",,,"jackal","jackal",
+"Marrison-1967-917-394",394,"jaw",798,"JAW","jaw","jaw",
+"Marrison-1967-917-395",395,"jewsharp",,,"jewsharp","Jew's harp",
+"Marrison-1967-917-396",396,"Job's tears (coix)",,,"Job's tears (coix)","Job's tears (coix)",
+"Marrison-1967-917-397",397,"jobs tears (coix)",,,"jobs tears (coix)","Job's tears (coix)",
+"Marrison-1967-917-398",398,"join",1743,"JOIN","join","to join",
+"Marrison-1967-917-399",399,"judgment",1067,"JUDGMENT","judgment","judgment",
+"Marrison-1967-917-400",400,"juice",1499,"JUICE","juice","juice",
+"Marrison-1967-917-401",401,"jump",1829,"JUMP","jump","to jump",
+"Marrison-1967-917-402",402,"jungle",420,"FOREST","jungle","jungle",
+"Marrison-1967-917-403",403,"keep",1477,"KEEP","keep","to keep",
+"Marrison-1967-917-404",404,"key",1472,"KEY","key","key",
+"Marrison-1967-917-405",405,"kick",1135,"KICK","kick","to kick",
+"Marrison-1967-917-406",406,"kidney",489,"KIDNEY","kidney","kidney",
+"Marrison-1967-917-407",407,"kill",1417,"KILL","kill","to kill",
+"Marrison-1967-917-408",408,"kind (sort)",844,"KIND (THING)","kind (sort)","kind (sort)",
+"Marrison-1967-917-409",409,"king",1508,"KING","king","king",
+"Marrison-1967-917-410",410,"kiss",578,"KISS","kiss","to kiss",
+"Marrison-1967-917-411",411,"kiss; sniff",,,"kiss; sniff",,
+"Marrison-1967-917-412",412,"kitchen",1365,"KITCHEN","kitchen","kitchen",
+"Marrison-1967-917-413",413,"knee",1371,"KNEE","knee","knee",
+"Marrison-1967-917-414",414,"knife",1352,"KNIFE","knife","knife",
+"Marrison-1967-917-415",415,"knock",2396,"KNOCK","knock","to knock",
+"Marrison-1967-917-416",416,"knot (in string)",760,"KNOT","knot (in string)","knot (in string)",
+"Marrison-1967-917-417",417,"know",1410,"KNOW (SOMETHING)","know","to know",
+"Marrison-1967-917-418",418,"ladder",1464,"LADDER","ladder","ladder",
+"Marrison-1967-917-419",419,"ladle",2657,"LADLE","ladle","ladle",
+"Marrison-1967-917-420",420,"lake",624,"LAKE","lake","lake",
+"Marrison-1967-917-421",421,"lame",320,"LAME","lame","lame",
+"Marrison-1967-917-422",422,"lamp",625,"LAMP","lamp","lamp",
+"Marrison-1967-917-423",423,"land",626,"LAND","land","land",
+"Marrison-1967-917-424",424,"language",1307,"LANGUAGE","language","language",
+"Marrison-1967-917-425",425,"last (adj.)",1529,"LAST (FINAL)",,"last (adj.)",
+"Marrison-1967-917-426",426,"late",477,"LATE","late","late",
+"Marrison-1967-917-427",427,"laugh",1355,"LAUGH","laugh","to laugh",
+"Marrison-1967-917-428",428,"law",1062,"LAW","law","law",
+"Marrison-1967-917-429",429,"lazy",1564,"LAZY","lazy","lazy",
+"Marrison-1967-917-430",430,"lead",43,"LEAD (GUIDE)","lead","to lead",
+"Marrison-1967-917-431",431,"leaf",628,"LEAF","leaf","leaf",
+"Marrison-1967-917-432",432,"learn",504,"LEARN","learn","to learn",
+"Marrison-1967-917-433",433,"leather",629,"LEATHER","leather","leather",
+"Marrison-1967-917-434",434,"leech",2273,"LEECH","leech","leech",
+"Marrison-1967-917-435",435,"left-hand",2182,"LEFT HAND","left-hand","left-hand",
+"Marrison-1967-917-436",436,"leg",1297,"LEG","leg","leg",
+"Marrison-1967-917-437",437,"lemon",3091,"LEMON","lemon","lemon",
+"Marrison-1967-917-438",438,"leopard",1139,"LEOPARD","leopard","leopard",
+"Marrison-1967-917-439",439,"leper",,,"leper","leper",
+"Marrison-1967-917-440",440,"letter",1612,"LETTER","letter","letter",
+"Marrison-1967-917-441",441,"lick",319,"LICK","lick","to lick",
+"Marrison-1967-917-442",442,"lie down",215,"LIE DOWN","lie down","to lie down",
+"Marrison-1967-917-443",443,"lie (deceive)",601,"LIE (MISLEAD)","lie (deceive)","to lie (to deceive)",
+"Marrison-1967-917-444",444,"life",210,"LIFE","life","life",
+"Marrison-1967-917-445",445,"lift",501,"LIFT","lift","to lift",
+"Marrison-1967-917-446",446,"light (bright)",679,"BRIGHT","light (bright)","light (bright)",
+"Marrison-1967-917-447",447,"light (of weight)",1052,"LIGHT (WEIGHT)","light (of weight)","light (of weight)",
+"Marrison-1967-917-448",448,"to light (ignite)",737,"LIGHT (IGNITE)","to light (ignite)","to light (ignite)",
+"Marrison-1967-917-449",449,"lightning",1654,"LIGHTNING","lightning","lightning",
+"Marrison-1967-917-450",450,"like (as)",1558,"SIMILAR","like (as)","like (as)",
+"Marrison-1967-917-451",451,"lip",478,"LIP","lip","lip",
+"Marrison-1967-917-452",452,"lip (lower)",,,"lip (lower)",,
+"Marrison-1967-917-453",453,"listen",1608,"LISTEN","listen","to listen",
+"Marrison-1967-917-454",454,"little",2924,"A LITTLE","little","a little",
+"Marrison-1967-917-455",455,"live (to be alive)",1422,"BE ALIVE","live (to be alive)","to live (to be alive)",
+"Marrison-1967-917-456",456,"liver",1224,"LIVER","liver","liver",
+"Marrison-1967-917-457",457,"lizard",632,"LIZARD","lizard","lizard",
+"Marrison-1967-917-458",458,"locust",810,"LOCUST","locust","locust",
+"Marrison-1967-917-459",459,"loincloth",1965,"LOINCLOTH","loincloth","loincloth",
+"Marrison-1967-917-460",460,"long",1203,"LONG","long","long",
+"Marrison-1967-917-461",461,"look at",1819,"LOOK","look at","to look at",
+"Marrison-1967-917-462",462,"look for",1468,"LOOK FOR","look for","to look for",
+"Marrison-1967-917-463",463,"loom",1787,"LOOM","loom","loom",
+"Marrison-1967-917-464",464,"lord",1660,"LOSE","lord","lord",
+"Marrison-1967-917-465",465,"lose",1660,"LOSE","lose","to lose",
+"Marrison-1967-917-466",466,"louse",1392,"LOUSE","louse","louse",
+"Marrison-1967-917-467",467,"love",923,"LOVE","love","to love",
+"Marrison-1967-917-468",468,"low",721,"LOW","low","low",
+"Marrison-1967-917-469",469,"lungs",688,"LUNG","lungs","lungs",
+"Marrison-1967-917-470",470,"mad (insane)",1899,"MAD","mad (insane)","mad",
+"Marrison-1967-917-471",471,"maize",506,"MAIZE","maize","maize",
+"Marrison-1967-917-472",472,"make",734,"MAKE","make","to make",
+"Marrison-1967-917-473",473,"man (male)",2106,"MALE PERSON","man (male)","man (male)",
+"Marrison-1967-917-474",474,"man (mankind)",683,"PERSON","man (mankind)","man (mankind)",
+"Marrison-1967-917-475",475,"mango",2398,"MANGO","mango","mango",
+"Marrison-1967-917-476",476,"many",1198,"MANY","many","many",
+"Marrison-1967-917-477",477,"market",633,"MARKET","market","market",
+"Marrison-1967-917-478",478,"married",,,"married","married",
+"Marrison-1967-917-479",479,"mat",195,"MAT","mat","mat",
+"Marrison-1967-917-480",480,"meat",634,"MEAT","meat","meat",
+"Marrison-1967-917-481",481,"meet",1831,"MEET","meet","to meet",
+"Marrison-1967-917-482",482,"mend",2243,"REPAIR","mend","to mend",
+"Marrison-1967-917-483",483,"middle",1093,"MIDDLE","middle","middle",
+"Marrison-1967-917-484",484,"milk",635,"MILK","milk","milk",
+"Marrison-1967-917-485",485,"millet",931,"MILLET","millet","millet",
+"Marrison-1967-917-486",486,"mind",1562,"MIND","mind","the mind",
+"Marrison-1967-917-487",487,"mist",249,"FOG","mist","mist",
+"Marrison-1967-917-488",488,"mistake",1293,"MISTAKE","mistake","mistake",
+"Marrison-1967-917-489",489,"mithan (gayal, bos fontalis)",,,"mithan (gayal, bos fontalis)","mithan (gayal, bos fontalis)",
+"Marrison-1967-917-490",490,"money",1559,"MONEY","money","money",
+"Marrison-1967-917-491",491,"monkey (generic)",1350,"MONKEY","monkey (generic)","monkey (generic)",
+"Marrison-1967-917-492",492,"monkey (huluk)",,,"monkey (huluk)","monkey (huluk)",
+"Marrison-1967-917-493",493,"monkey (langur)",,,"monkey (langur)","monkey (langur)",
+"Marrison-1967-917-494",494,"monkey (macaque)",,,"monkey (macaque)","monkey (macaque)",
+"Marrison-1967-917-495",495,"moon",1313,"MOON","moon","moon",
+"Marrison-1967-917-496",496,"morning",1339,"MORNING","morning","morning",
+"Marrison-1967-917-497",497,"morung (men's dormitory)",,,"morung (men's dormitory)","morung (men's dormitory)",
+"Marrison-1967-917-498",498,"mosquito",1509,"MOSQUITO","mosquito","mosquito",
+"Marrison-1967-917-499",499,"moth",2828,"MOTH","moth","moth",
+"Marrison-1967-917-500",500,"mother",1216,"MOTHER","mother","mother",
+"Marrison-1967-917-501",501,"mountain",639,"MOUNTAIN","mountain","mountain",
+"Marrison-1967-917-502",502,"mouse",1491,"MOUSE","mouse","mouse",
+"Marrison-1967-917-503",503,"mouth",674,"MOUTH","mouth","mouth",
+"Marrison-1967-917-504",504,"move",765,"MOVE","move","to move",
+"Marrison-1967-917-505",505,"much",531,"HOW MUCH","much","much",
+"Marrison-1967-917-506",506,"mud",640,"MUD","mud","mud",
+"Marrison-1967-917-507",507,"must",971,"MUST","must","must",
+"Marrison-1967-917-508",508,"mustard",,,"mustard","mustard",
+"Marrison-1967-917-509",509,"naked",590,"NAKED","naked","naked",
+"Marrison-1967-917-510",510,"name",1405,"NAME","name","name",
+"Marrison-1967-917-511",511,"narrow",1267,"NARROW","narrow","narrow",
+"Marrison-1967-917-512",512,"navel",1838,"NAVEL","navel","navel",
+"Marrison-1967-917-513",513,"near",1942,"NEAR","near","near",
+"Marrison-1967-917-514",514,"necessary",1030,"NECESSARY","necessary","necessary",
+"Marrison-1967-917-515",515,"neck",1333,"NECK","neck","neck",
+"Marrison-1967-917-516",516,"necklace",1961,"NECKLACE","necklace","necklace",
+"Marrison-1967-917-517",517,"needle",1382,"NEEDLE (FOR SEWING)","needle","needle",
+"Marrison-1967-917-518",518,"neighbor",1332,"NEIGHBOUR","neighbor","neighbour",
+"Marrison-1967-917-519",519,"nest",539,"NEST","nest","nest",
+"Marrison-1967-917-520",520,"net",2963,"NET","net","net",
+"Marrison-1967-917-521",521,"never",1656,"NEVER","never","never",
+"Marrison-1967-917-522",522,"new",1231,"NEW","new","new",
+"Marrison-1967-917-523",523,"news",2964,"NEWS","news","news",
+"Marrison-1967-917-524",524,"night",1233,"NIGHT","night","night",
+"Marrison-1967-917-525",525,"nine",1483,"NINE",,"nine",
+"Marrison-1967-917-526",526,"nineteen",1714,"NINETEEN",,"nineteen",
+"Marrison-1967-917-527",527,"ninety",1724,"NINETY",,"ninety",
+"Marrison-1967-917-528",528,"no",1269,"NO","no","no",
+"Marrison-1967-917-529",529,"noise",1182,"NOISE","noise","noise",
+"Marrison-1967-917-530",530,"noon",12,"MIDDAY","noon","noon",
+"Marrison-1967-917-531",531,"north",1598,"NORTH","north","north",
+"Marrison-1967-917-532",532,"nose",1221,"NOSE","nose","nose",
+"Marrison-1967-917-533",533,"not",1240,"NOT","not","not",
+"Marrison-1967-917-534",534,"now",1376,"NOW","now","now",
+"Marrison-1967-917-535",535,"oath",1712,"OATH","oath","oath",
+"Marrison-1967-917-536",536,"obey",1635,"OBEY","obey","to obey",
+"Marrison-1967-917-537",537,"oil",2556,"OIL (HYDROPHOBIC LIQUID)","oil","oil",
+"Marrison-1967-917-538",538,"old (of things)",2113,"OLD (USED)","old (of things)","old (of things)",
+"Marrison-1967-917-539",539,"old (of persons)",2112,"OLD (AGED)","old (of persons)","old (of persons)",
+"Marrison-1967-917-540",540,"old man",406,"OLD MAN","old man","old man",
+"Marrison-1967-917-541",541,"old woman",907,"OLD WOMAN","old woman","old woman",
+"Marrison-1967-917-542",542,"on",,,"on","on",
+"Marrison-1967-917-543",543,"one",1493,"ONE",,"one",
+"Marrison-1967-917-544",544,"onion",2366,"ONION","onion","onion",
+"Marrison-1967-917-545",545,"only",1580,"ONLY","only","only",
+"Marrison-1967-917-546",546,"open",1156,"OPEN","open","to open",
+"Marrison-1967-917-547",547,"orange",2627,"ORANGE (FRUIT)","orange","an orange",
+"Marrison-1967-917-548",548,"order",1128,"ORDER","order","to order",
+"Marrison-1967-917-549",549,"orphan",1149,"ORPHAN","orphan","orphan",
+"Marrison-1967-917-550",550,"other",197,"OTHER","other","other",
+"Marrison-1967-917-551",551,"otter",15,"OTTER","otter","otter",
+"Marrison-1967-917-552",552,"outside",762,"OUTSIDE","outside","outside",
+"Marrison-1967-917-553",553,"owl",735,"OWL","owl","owl",
+"Marrison-1967-917-554",554,"owner",1036,"OWNER","owner","owner",
+"Marrison-1967-917-555",555,"pain",1783,"PAIN","pain","pain",
+"Marrison-1967-917-556",556,"palm (hand)",1183,"PALM OF HAND","palm (hand)",,
+"Marrison-1967-917-557",557,"palm (of hand)",1183,"PALM OF HAND","palm (of hand)","palm (of hand)",
+"Marrison-1967-917-558",558,"panji (bamboo stake)",,,"panji (bamboo stake)","panji (bamboo stake)",
+"Marrison-1967-917-559",559,"pass by",558,"PASS BY","pass by","to pass by",
+"Marrison-1967-917-560",560,"pay",718,"PAY","pay","to pay",
+"Marrison-1967-917-561",561,"peace",1338,"PEACE","peace","peace",
+"Marrison-1967-917-562",562,"peacock",,,"peacock","peacock",
+"Marrison-1967-917-563",563,"pearl",,,"pearl","pearl",
+"Marrison-1967-917-564",564,"pen",794,"PEN","pen","pen",
+"Marrison-1967-917-565",565,"people",789,"PEOPLE","people","people",
+"Marrison-1967-917-566",566,"person",683,"PERSON","person","person",
+"Marrison-1967-917-567",567,"pierce",398,"PIERCE","pierce","to pierce",
+"Marrison-1967-917-568",568,"pig (domestic)",1337,"PIG","pig (domestic)","pig (domestic)",
+"Marrison-1967-917-569",569,"pig(wild)",3154,"WILD BOAR","pig(wild)",,
+"Marrison-1967-917-570",570,"pig (wild)",3154,"WILD BOAR","pig (wild)","pig (wild)",
+"Marrison-1967-917-571",571,"pigeon",1853,"DOVE","pigeon","pigeon",
+"Marrison-1967-917-572",572,"pillow",1044,"PILLOW","pillow","pillow",
+"Marrison-1967-917-573",573,"pipe (tobacco)",1124,"PIPE","pipe (tobacco)","pipe (tobacco)",
+"Marrison-1967-917-574",574,"place",723,"PLACE (POSITION)","place","a place",
+"Marrison-1967-917-575",575,"plains",652,"PLAIN","plains","the plains",
+"Marrison-1967-917-576",576,"plate",480,"PLATE","plate","plate",
+"Marrison-1967-917-577",577,"play (a game)",3125,"PLAY (GAME)","play (a game)","to play (a game)",
+"Marrison-1967-917-578",578,"play (music)",3124,"PLAY (INSTRUMENT)","play (music)","to play (music)",
+"Marrison-1967-917-579",579,"poison",655,"POISON","poison","poison",
+"Marrison-1967-917-580",580,"pool",,,"pool","pool",
+"Marrison-1967-917-581",581,"poor",1674,"POOR","poor","poor",
+"Marrison-1967-917-582",582,"porcupine",2510,"PORCUPINE","porcupine","porcupine",
+"Marrison-1967-917-583",583,"post (of house)",281,"POST","post (of house)","post (of house)",
+"Marrison-1967-917-584",584,"pot",1462,"POT","pot","pot",
+"Marrison-1967-917-585",585,"power",2526,"POWER","power","power",
+"Marrison-1967-917-586",586,"praise",1687,"PRAISE","praise","to praise",
+"Marrison-1967-917-587",587,"pray",24,"PRAY","pray","to pray",
+"Marrison-1967-917-588",588,"pregnant",1123,"PREGNANT","pregnant","pregnant",
+"Marrison-1967-917-589",589,"prepare",2909,"PREPARE","prepare","to prepare",
+"Marrison-1967-917-590",590,"press",1913,"PRESS","press","to press",
+"Marrison-1967-917-591",591,"price",657,"PRICE","price","price",
+"Marrison-1967-917-592",592,"priest",852,"PRIEST","priest","priest",
+"Marrison-1967-917-593",593,"prison",1281,"PRISON","prison","prison",
+"Marrison-1967-917-594",594,"proud",174,"PROUD","proud","proud",
+"Marrison-1967-917-595",595,"pull",1455,"PULL","pull","to pull",
+"Marrison-1967-917-596",596,"pumpkin",864,"PUMPKIN","pumpkin","pumpkin",
+"Marrison-1967-917-597",597,"push",1452,"PUSH","push","to push",
+"Marrison-1967-917-598",598,"put",998,"PUT","put","to put",
+"Marrison-1967-917-599",599,"quarrel",1848,"QUARREL","quarrel","to quarrel",
+"Marrison-1967-917-600",600,"question",,,"question","a question",
+"Marrison-1967-917-601",601,"quiet",1314,"QUIET","quiet","quiet",
+"Marrison-1967-917-602",602,"rain",658,"RAIN (PRECIPITATION)","rain","the rain",
+"Marrison-1967-917-603",603,"rainbow",1733,"RAINBOW","rainbow","rainbow",
+"Marrison-1967-917-604",604,"raise",501,"LIFT","raise","to raise",
+"Marrison-1967-917-605",605,"rake",338,"RAKE","rake","rake",
+"Marrison-1967-917-606",606,"rat",1490,"RAT","rat","rat",
+"Marrison-1967-917-607",607,"raw (unripe)",1959,"RAW","raw (unripe)","raw (unripe)",
+"Marrison-1967-917-608",608,"read",724,"READ","read","to read",
+"Marrison-1967-917-609",609,"reap",190,"MOW","reap","to reap",
+"Marrison-1967-917-610",610,"receive",694,"GET","receive","to receive",
+"Marrison-1967-917-611",611,"red",156,"RED","red","red",
+"Marrison-1967-917-612",612,"reed",659,"REED","reed","reed",
+"Marrison-1967-917-613",613,"remain",987,"REMAIN","remain","to remain",
+"Marrison-1967-917-614",614,"return (come back)",581,"COME BACK","return (come back)","to return (come back)",
+"Marrison-1967-917-615",615,"rhinoceros",2591,"RHINOCEROS","rhinoceros","rhinoceros",
+"Marrison-1967-917-616",616,"rib",801,"RIB","rib","rib",
+"Marrison-1967-917-617",617,"rice (paddy)",2026,"RICE PLANT","rice (paddy)","rice (paddy)",
+"Marrison-1967-917-618",618,"rice (uncooked)",926,"RICE","rice (uncooked)","rice (uncooked)",
+"Marrison-1967-917-619",619,"rice (cooked)",1191,"COOKED RICE","rice (cooked)","rice (cooked)",
+"Marrison-1967-917-620",620,"rice-beer",,,"rice-beer","rice-beer",
+"Marrison-1967-917-621",621,"rich",712,"RICH","rich","rich",
+"Marrison-1967-917-622",622,"right (correct)",1725,"CORRECT (RIGHT)","right (correct)","right (correct)",
+"Marrison-1967-917-623",623,"right-hand",2183,"RIGHT HAND","right-hand","right-hand",
+"Marrison-1967-917-624",624,"a ring (finger ring)",1374,"RING","a ring (finger ring)","a ring (finger ring)",
+"Marrison-1967-917-625",625,"ripe",178,"RIPE","ripe","ripe",
+"Marrison-1967-917-626",626,"rise",568,"RISE (MOVE UPWARDS)","rise","to rise",
+"Marrison-1967-917-627",627,"river",666,"RIVER","river","river",
+"Marrison-1967-917-628",628,"road",2457,"PATH OR ROAD","road","road",
+"Marrison-1967-917-629",629,"roof",769,"ROOF","roof","roof",
+"Marrison-1967-917-630",630,"room",1450,"ROOM","room","room",
+"Marrison-1967-917-631",631,"root",670,"ROOT","root","root",
+"Marrison-1967-917-632",632,"rope",1218,"ROPE","rope","rope",
+"Marrison-1967-917-633",633,"rope, cord",,,"rope, cord",,
+"Marrison-1967-917-634",634,"rotten",1728,"ROTTEN","rotten","rotten",
+"Marrison-1967-917-635",635,"rough",1923,"ROUGH","rough","rough",
+"Marrison-1967-917-636",636,"round",1395,"ROUND","round","round (adj)",
+"Marrison-1967-917-637",637,"rub",1449,"RUB","rub","to rub",
+"Marrison-1967-917-638",638,"run",1519,"RUN","run","to run",
+"Marrison-1967-917-639",639,"rust",3064,"RUST","rust","rust",
+"Marrison-1967-917-640",640,"sacrifice",1103,"SACRIFICE","sacrifice","sacrifice",
+"Marrison-1967-917-641",641,"sad",699,"SAD","sad","sad",
+"Marrison-1967-917-642",642,"salary",718,"PAY","salary","salary",
+"Marrison-1967-917-643",643,"salt",1274,"SALT","salt","salt",
+"Marrison-1967-917-644",644,"sand",671,"SAND","sand","sand",
+"Marrison-1967-917-645",645,"save",1997,"PRESERVE","save","to save",
+"Marrison-1967-917-646",646,"saw",1948,"SAW","saw","a saw",
+"Marrison-1967-917-647",647,"say",1458,"SAY","say","to say",
+"Marrison-1967-917-648",648,"scales (balance)",2783,"SCALES (MEASURE INSTRUMENT)","scales (balance)","scales (balance)",
+"Marrison-1967-917-649",649,"scissors",356,"SHEARS","scissors","scissors",
+"Marrison-1967-917-650",650,"scorpion",1538,"SCORPION","scorpion","scorpion",
+"Marrison-1967-917-651",651,"scratch",1436,"SCRATCH","scratch","to scratch",
+"Marrison-1967-917-652",652,"scratch the soil for grain (birds)",1436,"SCRATCH","scratch the soil for grain (birds)","to scratch",
+"Marrison-1967-917-653",653,"sea",1474,"SEA","sea","sea",
+"Marrison-1967-917-654",654,"second",1384,"SECOND","second","second (adj)",
+"Marrison-1967-917-655",655,"see",1409,"SEE","see","to see",
+"Marrison-1967-917-656",656,"seed",714,"SEED","seed","seed",
+"Marrison-1967-917-657",657,"seek",1468,"LOOK FOR","seek","to seek",
+"Marrison-1967-917-658",658,"seize",855,"SEIZE","seize","to seize",
+"Marrison-1967-917-659",659,"self",1993,"SELF","self","self",
+"Marrison-1967-917-660",660,"sell",1571,"SELL","sell","to sell",
+"Marrison-1967-917-661",661,"send",1127,"SEND","send","to send",
+"Marrison-1967-917-662",662,"serow",,,"serow","serow",
+"Marrison-1967-917-663",663,"servant",255,"SERVANT","servant","servant",
+"Marrison-1967-917-664",664,"serve",,,"serve","to serve",
+"Marrison-1967-917-665",665,"seven",1704,"SEVEN","seven","seven",
+"Marrison-1967-917-666",666,"seventeen",2453,"SEVENTEEN","seventeen","seventeen",
+"Marrison-1967-917-667",667,"seventy",1721,"SEVENTY","seventy","seventy",
+"Marrison-1967-917-668",668,"sew",1457,"SEW","sew","to sew",
+"Marrison-1967-917-669",669,"shadow",1388,"SHADE","shadow","shadow",
+"Marrison-1967-917-670",670,"shake",1909,"SHAKE","shake","to shake",
+"Marrison-1967-917-671",671,"shallow",193,"SHALLOW","shallow","shallow",
+"Marrison-1967-917-672",672,"shame",1776,"SHAME","shame","shame",
+"Marrison-1967-917-673",673,"sharp",1396,"SHARP","sharp","sharp",
+"Marrison-1967-917-674",674,"sheep",1331,"SHEEP","sheep","sheep",
+"Marrison-1967-917-675",675,"shell",598,"SHELL","shell","shell",
+"Marrison-1967-917-676",676,"shield",1064,"SHIELD","shield","shield",
+"Marrison-1967-917-677",677,"shine",708,"SHINE","shine","to shine",
+"Marrison-1967-917-678",678,"shite",,,"shite",,
+"Marrison-1967-917-679",679,"shoe",1381,"SHOE","shoe","shoe",
+"Marrison-1967-917-680",680,"shoot",1172,"SHOOT","shoot","to shoot",
+"Marrison-1967-917-681",681,"short",1645,"SHORT","short","short",
+"Marrison-1967-917-682",682,"shoulder",1482,"SHOULDER","shoulder","shoulder",
+"Marrison-1967-917-683",683,"shout",715,"SHOUT","shout","to shout",
+"Marrison-1967-917-684",684,"shut",1046,"SHUT","shut","shut",
+"Marrison-1967-917-685",685,"shuttle",543,"SHUTTLE","shuttle","shuttle",
+"Marrison-1967-917-686",686,"sick",1847,"SICK","sick","sick",
+"Marrison-1967-917-687",687,"sickle",341,"SICKLE","sickle","sickle",
+"Marrison-1967-917-688",688,"side (of body)",682,"SIDE","side (of body)","side (of body)",
+"Marrison-1967-917-689",689,"silver",759,"SILVER","silver","silver",
+"Marrison-1967-917-690",690,"sin",2971,"SIN","sin","sin",
+"Marrison-1967-917-691",691,"sing",1261,"SING","sing","to sing",
+"Marrison-1967-917-692",692,"sink",1088,"SINK (DESCEND)","sink","to sink",
+"Marrison-1967-917-693",693,"sister (elder)",1758,"OLDER SISTER","sister (elder)","sister (elder)",
+"Marrison-1967-917-694",694,"sister (younger)",1761,"YOUNGER SISTER","sister (younger)","sister (younger)",
+"Marrison-1967-917-695",695,"sit",1416,"SIT","sit","to sit",
+"Marrison-1967-917-696",696,"six",1703,"SIX",,"six",
+"Marrison-1967-917-697",697,"sixteen",2454,"SIXTEEN",,"sixteen",
+"Marrison-1967-917-698",698,"sixty",1718,"SIXTY",,"sixty",
+"Marrison-1967-917-699",699,"skin",763,"SKIN","skin","skin",
+"Marrison-1967-917-700",700,"skirt",1600,"SKIRT","skirt","skirt",
+"Marrison-1967-917-701",701,"skull",1605,"SKULL","skull","skull",
+"Marrison-1967-917-702",702,"sky",1732,"SKY","sky","sky",
+"Marrison-1967-917-703",703,"slave",812,"SLAVE","slave","slave",
+"Marrison-1967-917-704",704,"sleep",1585,"SLEEP","sleep","to sleep",
+"Marrison-1967-917-705",705,"slip",1324,"SLIP","slip","to slip",
+"Marrison-1967-917-706",706,"slow",701,"SLOW","slow","slow",
+"Marrison-1967-917-707",707,"small",1246,"SMALL","small","small",
+"Marrison-1967-917-708",708,"smell",2124,"SMELL","smell","to smell",
+"Marrison-1967-917-709",709,"smile",1451,"SMILE","smile","to smile",
+"Marrison-1967-917-710",710,"smoke",1689,"SMOKE (INHALE)","smoke","smoke",
+"Marrison-1967-917-711",711,"smooth",1234,"SMOOTH","smooth","smooth",
+"Marrison-1967-917-712",712,"snail",1543,"SNAIL","snail","snail",
+"Marrison-1967-917-713",713,"snake",730,"SNAKE","snake","snake",
+"Marrison-1967-917-714",714,"sneeze",1621,"SNEEZE","sneeze","to sneeze",
+"Marrison-1967-917-715",715,"sneaze",1621,"SNEEZE","sneaze","to sneeze",
+"Marrison-1967-917-716",716,"snow",784,"SNOW","snow","snow",
+"Marrison-1967-917-717",717,"snore",1983,"SNORE","snore","to snore",
+"Marrison-1967-917-718",718,"so (like that)",2336,"OF THIS KIND (SUCH)","so (like that)","so (like that)",
+"Marrison-1967-917-719",719,"soft",1856,"SOFT","soft","soft",
+"Marrison-1967-917-720",720,"some",1241,"SOME","some","some",
+"Marrison-1967-917-721",721,"son",1620,"SON","son","son",
+"Marrison-1967-917-722",722,"song",1096,"SONG","song","song",
+"Marrison-1967-917-723",723,"sorry",1875,"REGRET","sorry","sorry",
+"Marrison-1967-917-724",724,"soul",811,"SOUL","soul","soul",
+"Marrison-1967-917-725",725,"sour",1906,"SOUR","sour","sour",
+"Marrison-1967-917-726",726,"south",1595,"SOUTH","south","south",
+"Marrison-1967-917-727",727,"sow",748,"SOW SEEDS","sow","to sow",
+"Marrison-1967-917-728",728,"sparrow",1854,"SPARROW","sparrow","sparrow",
+"Marrison-1967-917-729",729,"speak",1623,"SPEAK","speak","to speak",
+"Marrison-1967-917-730",730,"spear",945,"SPEAR","spear","spear",
+"Marrison-1967-917-731",731,"speech",1115,"SPEECH","speech","speech",
+"Marrison-1967-917-732",732,"spider",843,"SPIDER","spider","spider",
+"Marrison-1967-917-733",733,"spin (cotton)",121,"SPIN","spin (cotton)","to spin (cotton)",
+"Marrison-1967-917-734",734,"spindle (cotton)",277,"SPINDLE","spindle (cotton)","spindle (cotton)",
+"Marrison-1967-917-735",735,"spirit",53,"SPIRIT","spirit","spirit",
+"Marrison-1967-917-736",736,"spit",1440,"SPIT","spit","to spit",
+"Marrison-1967-917-737",737,"split",1437,"SPLIT","split","to split",
+"Marrison-1967-917-738",738,"spoon",1378,"SPOON","spoon","spoon",
+"Marrison-1967-917-739",739,"square",850,"SQUARE","square","square",
+"Marrison-1967-917-740",740,"squeeze",1414,"SQUEEZE","squeeze","to squeeze",
+"Marrison-1967-917-741",741,"squirrel",1628,"SQUIRREL","squirrel","squirrel",
+"Marrison-1967-917-742",742,"stand",1442,"STAND","stand","to stand",
+"Marrison-1967-917-743",743,"star",1430,"STAR","star","star",
+"Marrison-1967-917-744",744,"steal",713,"STEAL","steal","to steal",
+"Marrison-1967-917-745",745,"stick",1295,"STICK","stick","a stick",
+"Marrison-1967-917-746",746,"sting",571,"STING","sting","to sting",
+"Marrison-1967-917-747",747,"stink",1587,"SMELL (STINK)","stink","to stink",
+"Marrison-1967-917-748",748,"stone",857,"STONE","stone","stone",
+"Marrison-1967-917-749",749,"storm",858,"STORM","storm","storm",
+"Marrison-1967-917-750",750,"straight",1404,"STRAIGHT","straight","straight",
+"Marrison-1967-917-751",751,"straw",2230,"UNTAMED OR WILD","straw","straw",
+"Marrison-1967-917-752",752,"strong",785,"STRONG","strong","strong",
+"Marrison-1967-917-753",753,"suck",1421,"SUCK","suck","to suck",
+"Marrison-1967-917-754",754,"suddenly",2920,"SUDDENLY","suddenly","suddenly",
+"Marrison-1967-917-755",755,"suffer",1101,"SUFFER","suffer","to suffer",
+"Marrison-1967-917-756",756,"sugar",862,"SUGAR","sugar","sugar",
+"Marrison-1967-917-757",757,"sugar-cane",146,"SUGAR CANE","sugar-cane","sugar-cane",
+"Marrison-1967-917-758",758,"sulphur (brimstone)",,,"sulphur (brimstone)","sulphur (brimstone)",
+"Marrison-1967-917-759",759,"summer",1342,"SUMMER","summer","summer",
+"Marrison-1967-917-760",760,"sun",1343,"SUN","sun","sun",
+"Marrison-1967-917-761",761,"swallow",897,"SWALLOW","swallow","to swallow",
+"Marrison-1967-917-762",762,"swear",1939,"SWEAR","swear","to swear",
+"Marrison-1967-917-763",763,"sweat",125,"SWEAT (SUBSTANCE)","sweat","sweat",
+"Marrison-1967-917-764",764,"sweep",230,"SWEEP","sweep","to sweep",
+"Marrison-1967-917-765",765,"sweet",717,"SWEET","sweet","sweet",
+"Marrison-1967-917-766",766,"swim",1439,"SWIM","swim","to swim",
+"Marrison-1967-917-767",767,"sword",1535,"SWORD","sword","sword",
+"Marrison-1967-917-768",768,"sword (weaving)",1535,"SWORD","sword (weaving)","sword (weaving)",
+"Marrison-1967-917-769",769,"table",1775,"TABLE","table","table",
+"Marrison-1967-917-770",770,"tail",1220,"TAIL","tail","tail",
+"Marrison-1967-917-771",771,"take",1749,"TAKE","take","to take",
+"Marrison-1967-917-772",772,"talk",2708,"TALK","talk","to talk",
+"Marrison-1967-917-773",773,"tall",711,"TALL","tall","tall",
+"Marrison-1967-917-774",774,"taro",351,"TARO","taro","taro",
+"Marrison-1967-917-775",775,"taste",21,"TASTE (SOMETHING)","taste","to taste",
+"Marrison-1967-917-776",776,"tax",873,"TAX","tax","tax",
+"Marrison-1967-917-777",777,"tea",1373,"TEA","tea","tea",
+"Marrison-1967-917-778",778,"teach",709,"TEACH","teach","to teach",
+"Marrison-1967-917-779",779,"teacher",1038,"TEACHER","teacher","teacher",
+"Marrison-1967-917-780",780,"tear",1735,"TEAR (SHRED)","tear","to tear",
+"Marrison-1967-917-781",781,"tears (weeping)",1651,"TEAR (OF EYE)","tears (weeping)","tears (weeping)",
+"Marrison-1967-917-782",782,"ten",1515,"TEN",,"ten",
+"Marrison-1967-917-783",783,"thank",2412,"THANK (SOMBEODY)","thank","to thank",
+"Marrison-1967-917-784",784,"that",78,"THAT","that","that (adj.)",
+"Marrison-1967-917-785",785,"thatch",,,"thatch","to thatch",
+"Marrison-1967-917-786",786,"then",2921,"THEN","then","then",
+"Marrison-1967-917-787",787,"there",1937,"THERE","there","there",
+"Marrison-1967-917-788",788,"they",817,"THEY","they","they",
+"Marrison-1967-917-789",789,"they two",2635,"THEY TWO","they two","they two",
+"Marrison-1967-917-790",790,"thick",1244,"THICK","thick","thick",
+"Marrison-1967-917-791",791,"thief",1160,"THIEF","thief","thief",
+"Marrison-1967-917-792",792,"thigh",800,"THIGH","thigh","thigh",
+"Marrison-1967-917-793",793,"thin",2308,"THIN","thin","thin",
+"Marrison-1967-917-794",794,"thing",738,"THING","thing","thing",
+"Marrison-1967-917-795",795,"think",2271,"THINK","think","to think",
+"Marrison-1967-917-796",796,"third",1859,"THIRD",,"third",
+"Marrison-1967-917-797",797,"thirsty",847,"THIRSTY","thirsty","thirsty",
+"Marrison-1967-917-798",798,"thirteen",1708,"THIRTEEN",,"thirteen",
+"Marrison-1967-917-799",799,"thirty",1715,"THIRTY",,"thirty",
+"Marrison-1967-917-800",800,"this",1214,"THIS","this","this (adj.)",
+"Marrison-1967-917-801",801,"thorn",124,"THORN","thorn","thorn",
+"Marrison-1967-917-802",802,"thou",1215,"THOU","thou","thou",
+"Marrison-1967-917-803",803,"thousand",1843,"THOUSAND",,"thousand",
+"Marrison-1967-917-804",804,"thread",1161,"THREAD","thread","thread",
+"Marrison-1967-917-805",805,"three",492,"THREE",,"three",
+"Marrison-1967-917-806",806,"throat",1346,"THROAT","throat","throat",
+"Marrison-1967-917-807",807,"throw",1456,"THROW","throw","to throw",
+"Marrison-1967-917-808",808,"thumb",1781,"THUMB","thumb","thumb",
+"Marrison-1967-917-809",809,"thunder",1150,"THUNDER","thunder","thunder",
+"Marrison-1967-917-810",810,"tie",1917,"TIE","tie","to tie",
+"Marrison-1967-917-811",811,"tiger",846,"TIGER","tiger","tiger",
+"Marrison-1967-917-812",812,"tight",3053,"TIGHT","tight","tight",
+"Marrison-1967-917-813",813,"time",892,"TIME","time","time",
+"Marrison-1967-917-814",814,"tired",1757,"TIRED","tired","tired",
+"Marrison-1967-917-815",815,"to",,,"to","to",
+"Marrison-1967-917-816",816,"tobacco",974,"TOBACCO","tobacco","tobacco",
+"Marrison-1967-917-817",817,"today",1283,"TODAY","today","today",
+"Marrison-1967-917-818",818,"toe",1389,"TOE","toe","toe",
+"Marrison-1967-917-819",819,"together",2482,"TOGETHER","together","together",
+"Marrison-1967-917-820",820,"tomorrow",1329,"TOMORROW","tomorrow","tomorrow",
+"Marrison-1967-917-821",821,"tongue",1205,"TONGUE","tongue","tongue",
+"Marrison-1967-917-822",822,"tonight",,,"tonight","tonight",
+"Marrison-1967-917-823",823,"tooth",1380,"TOOTH","tooth","tooth",
+"Marrison-1967-917-824",824,"top (i.e. highest point",1753,"TOP","top (i.e. highest point","top (highest point)",
+"Marrison-1967-917-825",825,"top (i.e. highest point)",1753,"TOP","top (i.e. highest point)","top (highest point)",
+"Marrison-1967-917-826",826,"torch",1919,"TORCH","torch","torch",
+"Marrison-1967-917-827",827,"touch",1892,"TOUCH","touch","to touch",
+"Marrison-1967-917-828",828,"towards",2754,"TOWARDS","towards","towards",
+"Marrison-1967-917-829",829,"tower",1671,"TOWER","tower","tower",
+"Marrison-1967-917-830",830,"town",1391,"TOWN","town","town",
+"Marrison-1967-917-831",831,"trap",1075,"TRAP (PITFALL)","trap","a trap",
+"Marrison-1967-917-832",832,"tree",906,"TREE","tree","tree",
+"Marrison-1967-917-833",833,"tremble",52,"SHIVER","tremble","to tremble",
+"Marrison-1967-917-834",834,"tribe",1549,"TRIBE","tribe","tribe",
+"Marrison-1967-917-835",835,"true",1657,"TRUE","true","true",
+"Marrison-1967-917-836",836,"trumpet",775,"TRUMPET","trumpet","trumpet",
+"Marrison-1967-917-837",837,"turmeric",2842,"TURMERIC","turmeric","turmeric",
+"Marrison-1967-917-838",838,"turn",1588,"TURN","turn","to turn (int.)",
+"Marrison-1967-917-839",839,"twelve",1707,"TWELVE",,"twelve",
+"Marrison-1967-917-840",840,"twenty",1710,"TWENTY",,"twenty",
+"Marrison-1967-917-841",841,"two",1498,"TWO","two","two",
+"Marrison-1967-917-842",842,"ugly",1548,"UGLY","ugly","ugly",
+"Marrison-1967-917-843",843,"umbrella",3105,"UMBRELLA",,"umbrella",
+"Marrison-1967-917-844",844,"uncle",1327,"UNCLE","uncle","uncle",
+"Marrison-1967-917-845",845,"under",1485,"BELOW OR UNDER","under","under",
+"Marrison-1967-917-846",846,"understand",1536,"UNDERSTAND","understand","to understand",
+"Marrison-1967-917-847",847,"untie",352,"UNTIE","untie","to untie",
+"Marrison-1967-917-848",848,"until",2753,"UNTIL","until","until",
+"Marrison-1967-917-849",849,"up",1591,"UP","up","up",
+"Marrison-1967-917-850",850,"urine",1142,"URINE","urine","urine",
+"Marrison-1967-917-851",851,"use",2072,"USE (VERB)","use","to use",
+"Marrison-1967-917-852",852,"valey",921,"VALLEY","valey","valley",
+"Marrison-1967-917-853",853,"valley",921,"VALLEY","valley","valley",
+"Marrison-1967-917-854",854,"vegetable",924,"VEGETABLES","vegetable","vegetable",
+"Marrison-1967-917-855",855,"very",1311,"VERY","very","very",
+"Marrison-1967-917-856",856,"village",930,"VILLAGE","village","village",
+"Marrison-1967-917-857",857,"voice",1363,"VOICE","voice","voice",
+"Marrison-1967-917-858",858,"vomit",1278,"VOMIT","vomit","to vomit",
+"Marrison-1967-917-859",859,"waist",1681,"WAIST","waist","waist",
+"Marrison-1967-917-860",860,"wait",1590,"WAIT (FOR)","wait","to wait",
+"Marrison-1967-917-861",861,"walk",1443,"WALK","walk","to walk",
+"Marrison-1967-917-862",862,"wall",933,"WALL (OF HOUSE)","wall","wall",
+"Marrison-1967-917-863",863,"want",1784,"WANT","want","to want",
+"Marrison-1967-917-864",864,"war",935,"WAR","war","war",
+"Marrison-1967-917-865",865,"warn",,,"warn","to warn",
+"Marrison-1967-917-866",866,"warp (loom)",,,"warp (loom)","warp (loom)",
+"Marrison-1967-917-867",867,"wash (generic)",1453,"WASH","wash (generic)","to wash (generic)",
+"Marrison-1967-917-868",868,"wash (self)",,,"wash (self)","to wash (self)",
+"Marrison-1967-917-869",869,"wash (face)",,,"wash (face)","to wash (face)",
+"Marrison-1967-917-870",870,"wash (clothes)",,,"wash (clothes)","to wash (clothes)",
+"Marrison-1967-917-871",871,"wash (pots)",,,"wash (pots)","to wash (pots)",
+"Marrison-1967-917-872",872,"water",948,"WATER","water","water",
+"Marrison-1967-917-873",873,"wax",1931,"BEESWAX","wax","wax",
+"Marrison-1967-917-874",874,"we (incl.)",1131,"WE (INCLUSIVE)","we (incl.)","we (inclusive)",
+"Marrison-1967-917-875",875,"we (excl.)",1130,"WE (EXCLUSIVE)","we (excl.)","we (exclusive)",
+"Marrison-1967-917-876",876,"we two",2634,"WE TWO","we two","we two",
+"Marrison-1967-917-877",877,"weak",1601,"WEAK","weak","weak",
+"Marrison-1967-917-878",878,"wear",976,"WEAR","wear","to wear",
+"Marrison-1967-917-879",879,"weave",133,"WEAVE","weave","to weave",
+"Marrison-1967-917-880",880,"weft",,,"weft","weft",
+"Marrison-1967-917-881",881,"well",954,"WELL","well","a well",
+"Marrison-1967-917-882",882,"well (adv.)",1035,"GOOD","well (adv.)","well(adv.)",
+"Marrison-1967-917-883",883,"west",1817,"WEST","west","west",
+"Marrison-1967-917-884",884,"wet",1726,"WET","wet","wet",
+"Marrison-1967-917-885",885,"what?",1236,"WHAT","what?","what?",
+"Marrison-1967-917-886",886,"when?",1238,"WHEN","when?","when?",
+"Marrison-1967-917-887",887,"where?",1237,"WHERE","where?","where?",
+"Marrison-1967-917-888",888,"whisper",55,"WHISPER","whisper","to whisper",
+"Marrison-1967-917-889",889,"white",1335,"WHITE","white","white",
+"Marrison-1967-917-890",890,"who?",1235,"WHO","who?","who?",
+"Marrison-1967-917-891",891,"whole",2277,"WHOLE","whole","whole",
+"Marrison-1967-917-892",892,"why?",1270,"WHY","why?","why?",
+"Marrison-1967-917-893",893,"wicked",45,"EVIL","wicked","wicked",
+"Marrison-1967-917-894",894,"wide",1243,"WIDE","wide","wide",
+"Marrison-1967-917-895",895,"widow",1756,"WIDOW","widow","widow",
+"Marrison-1967-917-896",896,"widower",1981,"WIDOWER","widower","widower",
+"Marrison-1967-917-897",897,"wife",1199,"WIFE","wife","wife",
+"Marrison-1967-917-898",898,"wind",960,"WIND","wind","the wind",
+"Marrison-1967-917-899",899,"window",1375,"WINDOW","window","window",
+"Marrison-1967-917-900",900,"wing",1257,"WING","wing","wing",
+"Marrison-1967-917-901",901,"winter",1471,"WINTER","winter","winter",
+"Marrison-1967-917-902",902,"wipe",1454,"WIPE","wipe","to wipe",
+"Marrison-1967-917-903",903,"wise",698,"WISE","wise","wise",
+"Marrison-1967-917-904",904,"wish",1784,"WANT","wish","to wish",
+"Marrison-1967-917-905",905,"with (accompaniment)",1340,"WITH","with (accompaniment)","with (cum)",
+"Marrison-1967-917-906",906,"within",1606,"INSIDE","within","within",
+"Marrison-1967-917-907",907,"without",1478,"WITHOUT","without","without (sine)",
+"Marrison-1967-917-908",908,"witness",1144,"WITNESS","witness","witness",
+"Marrison-1967-917-909",909,"wolf",522,"WOLF","wolf","wolf",
+"Marrison-1967-917-910",910,"woman",962,"WOMAN","woman","woman",
+"Marrison-1967-917-911",911,"wonderful",,,"wonderful","wonderful",
+"Marrison-1967-917-912",912,"wood (timber)",1803,"WOOD","wood (timber)","wood (timber)",
+"Marrison-1967-917-913",913,"word",1599,"WORD","word","word",
+"Marrison-1967-917-914",914,"work",984,"WORK (LABOUR)","work","work (n)",
+"Marrison-1967-917-915",915,"world",965,"WORLD","world","world",
+"Marrison-1967-917-916",916,"worm",1219,"WORM","worm","worm",
+"Marrison-1967-917-917",917,"worship",257,"WORSHIP","worship","to worship",
+"Marrison-1967-917-918",918,"wound",1109,"WOUND","wound","a wound",
+"Marrison-1967-917-919",919,"wrap",1113,"WRAP","wrap","to wrap",
+"Marrison-1967-917-920",920,"wrist",799,"WRIST","wrist","wrist",
+"Marrison-1967-917-921",921,"write",1672,"WRITE","write","to write",
+"Marrison-1967-917-922",922,"wrong",1390,"WRONG","wrong","wrong",
+"Marrison-1967-917-923",923,"yam",410,"YAM","yam","yam",
+"Marrison-1967-917-924",924,"year",1226,"YEAR","year","year",
+"Marrison-1967-917-925",925,"yeast",967,"YEAST","yeast","yeast",
+"Marrison-1967-917-926",926,"yellow",1424,"YELLOW","yellow","yellow",
+"Marrison-1967-917-927",927,"yes",1268,"YES","yes","yes",
+"Marrison-1967-917-928",928,"yesterday",1174,"YESTERDAY","yesterday","yesterday",
+"Marrison-1967-917-929",929,"yoke",14,"YOKE","yoke","yoke",
+"Marrison-1967-917-930",930,"you",1213,"YOU","you","you",
+"Marrison-1967-917-931",931,"you two",2111,"YOU TWO","you two","you two",
+"Marrison-1967-917-932",932,"young",1207,"YOUNG","young","young",
+"Marrison-1967-917-933",933,"young man",76,"YOUNG MAN","young man","young man",
+"Marrison-1967-917-934",934,"young woman",77,"YOUNG WOMAN","young woman","young woman",
