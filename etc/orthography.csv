@@ -163,7 +163,7 @@ n:$	nː	twan:, tuin:	burmesewritten	18	U+006e U+003a U+0024
 ^bh	bh	bhurā:, bherü	burmesewritten, yimchungru, sema	17	U+005e U+0062 U+0068
 ṅ:	ŋ:	saṅ:khyuiṅ:twaṅ:, khoṅ:um̊:	burmesewritten	17	U+1e45 U+003a
 ā	ā	nālaññ, ṅātui	burmesewritten	17	U+0101
-msh	m ʃ	meimshi, atsawmsha	phom, konyak, jingpho, aochungli, aomongsen, ntenyi, tangkhul, wancho, khoirao, sema	17	U+006d U+0073 U+0068
+msh	m ʃ	, atsawmsha	phom, konyak, jingpho, aochungli, aomongsen, ntenyi, tangkhul, wancho, khoirao, sema	17	U+006d U+0073 U+0068
 ^ñ	ɲ	ñid, ñal	tibetanwritten, burmesewritten	16	U+005e U+00f1
 ii	iː	vawiin, si-i-abang	lotha, mikir, nocte, yimchungru, zeme, phom, chang, lushai, khoirao	16	U+0069 U+0069
 ^sw	sw	swā:, swe:	burmesewritten, wancho, rengma, liangmai, mzieme, aochungli	15	U+005e U+0073 U+0077
@@ -210,7 +210,6 @@ e:	eː	re:◦sā:, me:ce	burmesewritten	9	U+0065 U+003a
 ī:	īː	mī:◦khui:, kyī:◦kan:	burmesewritten	9	U+012b U+003a
 nw	nw	yanwoiba, minwe	burmesewritten, liangmai, ntenyi, rengma, konyak, khoirao, tangsamoshang	8	U+006e U+0077
 ^tw	tw	twan:, twaṅ	burmesewritten, mzieme	8	U+005e U+0074 U+0077
-üh$	üh	büh, chüh	phom, chang, chokri	8	U+00fc U+0068 U+0024
 ^t̥h	t̥h	t̥hang, t̥hi	lushai	8	U+005e U+0074 U+0325 U+0068
 bh	bh	a◦bhui:, wam:◦bhai	burmesewritten, manipuri	8	U+0062 U+0068
 bs$	bs	thole'debs, 'debs	tibetanwritten	8	U+0062 U+0073 U+0024
@@ -238,21 +237,21 @@ ss	ss	skyessdoṅ, assü	tibetanwritten, lotha, ntenyi, sema	5	U+0073 U+0073
 n:	nː	min:kale:, rakkan:caṅ	burmesewritten	5	U+006e U+003a
 ^u$	u	u	manipuri, jingpho, sema	5	U+005e U+0075 U+0024
 dh	dh	lho◦bdhi, acheku-bidhi	sema, phom	5	U+0064 U+0068
-ṁ:$	<?>	suṅaykhyaṁ:, achuṁ:	burmesewritten	5	U+1e41 U+003a U+0024
+ṁ:$	m̥:	suṅaykhyaṁ:, achuṁ:	burmesewritten	5	U+1e41 U+003a U+0024
 wh$	wh	hlawh, hnathawh	lushai	5	U+0077 U+0068 U+0024
 fh	fh	o◦pfhu, o◦fhu	lotha	5	U+0066 U+0068
 ^'ph	pʰ	'phur, 'phog	tibetanwritten	5	U+005e U+0027 U+0070 U+0068
 ^rw	rw	rwā, rwe:	burmesewritten, tibetanwritten	5	U+005e U+0072 U+0077
 ^ɣs	ɣs	ɣsol, ɣser	tibetanwritten	5	U+005e U+0263 U+0073
-'m	m	jingh'mei, rümh'me	nruanghmei, mzieme, sema	5	U+0027 U+006d
+'m	ˈm	jingh'mei, rümh'me	nruanghmei, mzieme, sema	5	U+0027 U+006d
 dw	dw	wadwe, lwidwi	jingpho	4	U+0064 U+0077
 oo$	oː	ɣyogoo, koo	tibetanwritten, sema, mao	4	U+006f U+006f U+0024
 bs	bs	rtsibs-ma, 'jibs-pa	tibetanwritten, dimasa	4	U+0062 U+0073
 ee	eː	rosun-keer, meekuh	lotha, mikir, chang	4	U+0065 U+0065
 ^chw	chw	chwi, chwai	rengma, jingpho, burmesewritten	4	U+005e U+0063 U+0068 U+0077
 ?$	ʔ	lapheis?, dikl?	lushai, tangkhul, dimasa, chang	4	U+003f U+0024
-^ṅh	<?>	ṅhak◦mwe:, ṅhak	burmesewritten	4	U+005e U+1e45 U+0068
-üü	uu	a◦wüü-a◦tsü, kü-üpü	angamikohima, ntenyi, yimchungru	4	U+00fc U+00fc
+^ṅh	ŋ̥	ṅhak◦mwe:, ṅhak	burmesewritten	4	U+005e U+1e45 U+0068
+üü	əː	a◦wüü-a◦tsü, kü-üpü	angamikohima, ntenyi, yimchungru	4	U+00fc U+00fc
 m̊:$	m̥ː	sum̊:, khoṅ:um̊:	burmesewritten	4	U+006d U+030a U+003a U+0024
 sw	sw	paswang, krak◦swan	burmesewritten, angamikhonoma, liangmai	4	U+0073 U+0077
 ô$	ô	thômô, lhyô	burmesewritten	4	U+00f4 U+0024
@@ -265,8 +264,8 @@ gh:	ghː	muigh:pwaṅ., muigh:◦khrui:◦khraṅ:	burmesewritten	3	U+0067 U+006
 ɣ	ɣ	rgyaɣzeb, bka ɣnaṅ	tibetanwritten	3	U+0263
 ^bʒ	bʒ	bʒugs, bʒi-bcu	tibetanwritten	3	U+005e U+0062 U+0292
 â$	aː	kâ, mi-â	lushai	3	U+00e2 U+0024
-^thw	thw	thwankhrac, thwe:	burmesewritten, maring	3	U+005e U+0074 U+0068 U+0077
-thw	thw	aroṅthwak, tathwak	burmesewritten, liangmai	3	U+0074 U+0068 U+0077
+^thw	th w	thwankhrac, thwe:	burmesewritten, maring	3	U+005e U+0074 U+0068 U+0077
+thw	th w	aroṅthwak, tathwak	burmesewritten, liangmai	3	U+0074 U+0068 U+0077
 N	N	ldaN◦ba, gyoNpo	tibetanwritten	3	U+004e
 ṅs	ŋ̥ s	kheṅs-pa, groṅs-po	tibetanwritten	3	U+1e45 U+0073
 ṅʼ$	ŋ̥ˈ	phwaṅʼ, khyīpaṅʼ	burmesewritten	3	U+1e45 U+02bc U+0024
@@ -275,7 +274,7 @@ z$	z	mez, berkz	tibetanwritten, mikir, chokri	3	U+007a U+0024
 C	C	raiCi, -peCung	tangkhul, zeme	3	U+0043
 hsh	h ʃ	ahshi, shahshem	phom	3	U+0068 U+0073 U+0068
 bw	bw	nyunkebwe, te◦bwa	rengma	3	U+0062 U+0077
-^üsh	üsh	üshei, üshoi	konyak	3	U+005e U+00fc U+0073 U+0068
+^üsh	ə ʃ	üshei, üshoi	konyak	3	U+005e U+00fc U+0073 U+0068
 ^â	â	ârâwnpa, ânchhelawh	lushai	3	U+005e U+00e2
 ʃ	ʃ	'dreʃig, khyiʃig	tibetanwritten	3	U+0283
 'd	d	thsoṅ'dus, thole'debs	tibetanwritten	3	U+0027 U+0064
@@ -283,9 +282,9 @@ t̥h	t̥h	ukkat̥ha, vêngtet̥henawm	lushai, burmesewritten	3	U+0074 U+0325 U+0
 ^ê	ê	êng, êk	lushai	3	U+005e U+00ea
 ^âw	âw	âwmlo, âwm	lushai	3	U+005e U+00e2 U+0077
 ^wh	wh	whatsü, whü	rengma, angamikohima	3	U+005e U+0077 U+0068
-oʼ$	oʼ	poʼ, soʼ	burmesewritten	2	U+006f U+02bc U+0024
+oʼ$	oˈ	poʼ, soʼ	burmesewritten	2	U+006f U+02bc U+0024
 ṭ	ṭ	kezungṭang, ṭawngṭai	lushai	2	U+1e6d
-^üh	üh	ühüngpu, ühing	konyak	2	U+005e U+00fc U+0068
+^üh	ə h	ühüngpu, ühing	konyak	2	U+005e U+00fc U+0068
 ì$	ì	akhwì, khrì	tibetanwritten, ntenyi	2	U+00ec U+0024
 ñh	ɲh	ññhac, ññhaṅ:	burmesewritten	2	U+00f1 U+0068
 th$	tʰ	mkhar-dguth, kemeth	angamikhonoma, tibetanwritten	2	U+0074 U+0068 U+0024
@@ -296,16 +295,16 @@ v$	v	züzüv, tuv	lotha	2	U+0076 U+0024
 'mw	'm w	m'mwang	mzieme	2	U+0027 U+006d U+0077
 ^üw	ə w	üwo, üwong	konyak	2	U+005e U+00fc U+0077
 ^'n	n	'nkui, 'nküt	mzieme	2	U+005e U+0027 U+006e
-^zw	zw	zwü, zwa	mzieme, chokri	2	U+005e U+007a U+0077
+^zw	z w	zwü, zwa	mzieme, chokri	2	U+005e U+007a U+0077
 ^tsh	tsh	tshaṅ, tsherma	tibetanwritten	2	U+005e U+0074 U+0073 U+0068
 ^ṭ	ṭ	ṭawng, ṭawngṭai	lushai	2	U+005e U+1e6d
 uʼ$	uʼ	krak◦uʼ, a◦yuʼ	burmesewritten, aomongsen	2	U+0075 U+02bc U+0024
-üü$	uu	a◦wü-ü, kerüü	angamikohima, ntenyi	2	U+00fc U+00fc U+0024
+üü$	əː	a◦wü-ü, kerüü	angamikohima, ntenyi	2	U+00fc U+00fc U+0024
 'u	u	kangs'ule, nu'u◦pfü	mikir, ntenyi	2	U+0027 U+0075
 ^jh	jh	jhe:, jhe:nai	burmesewritten	2	U+005e U+006a U+0068
 ās	ās	myaknhāsac, pyāsraññ	burmesewritten	2	U+0101 U+0073
 ū:	ūː	nū:◦ññaṁ., sū:paṅ	burmesewritten	2	U+016b U+003a
-iʼ$	iʼ	nuiʼ, cuiʼ	burmesewritten	2	U+0069 U+02bc U+0024
+iʼ$	iˈ	nuiʼ, cuiʼ	burmesewritten	2	U+0069 U+02bc U+0024
 'g	g	phyir'gro, dud'gro	tibetanwritten	2	U+0027 U+0067
 shw	ʃw	ishwar, shai-shwi	liangmai, manipuri	2	U+0073 U+0068 U+0077
 ^ɣʃ	ɣʃ	ɣʃerba, ɣʃeg	tibetanwritten	2	U+005e U+0263 U+0283
