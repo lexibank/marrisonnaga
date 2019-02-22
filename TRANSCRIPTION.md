@@ -5,62 +5,61 @@
 
 | Segment | Occurrence | BIPA | CLTS SoundClass |
 |:----------|-------------:|:-------|:------------------|
-| a | 19025 | ✓ | ✓ |
-| n | 10809 | ✓ | ✓ |
-| i | 10777 | ✓ | ✓ |
-| e | 7812 | ✓ | ✓ |
-| u | 7458 | ✓ | ✓ |
-| o | 6299 | ✓ | ✓ |
-| k | 6145 | ✓ | ✓ |
-| g | 5990 | ✓ | ✓ |
-| m | 5679 | ✓ | ✓ |
-| + | 5481 | ✓ | ✓ |
-| t | 4112 | ✓ | ✓ |
-| r | 3959 | ✓ | ✓ |
-| ü | 3803 | ✓ | ✓ |
-| p | 3580 | ✓ | ✓ |
-| l | 3446 | ✓ | ✓ |
-| s | 2471 | ✓ | ✓ |
-| y | 2205 | ✓ | ✓ |
-| ch | 2083 | ✓ | ✓ |
-| b | 2035 | ✓ | ✓ |
-| h | 1970 | ✓ | ✓ |
-| kʰ | 1803 | ✓ | ✓ |
-| d | 1544 | ✓ | ✓ |
-| <?> | 1453 | ? | ? |
-| tʰ | 1432 | ✓ | ✓ |
-| sh | 1079 | ? | ? |
-| z | 962 | ✓ | ✓ |
-| ts | 863 | ✓ | ✓ |
-| j | 861 | ✓ | ✓ |
-| pʰ | 852 | ✓ | ✓ |
-| w | 759 | ✓ | ✓ |
-| v | 640 | ✓ | ✓ |
-| gh | 360 | ✓ | ✓ |
+| a | 18940 | ✓ | ✓ |
+| n | 10741 | ✓ | ✓ |
+| i | 10711 | ✓ | ✓ |
+| e | 7782 | ✓ | ✓ |
+| u | 7422 | ✓ | ✓ |
+| o | 6273 | ✓ | ✓ |
+| k | 6109 | ✓ | ✓ |
+| g | 5956 | ✓ | ✓ |
+| m | 5649 | ✓ | ✓ |
+| + | 5446 | ✓ | ✓ |
+| t | 4090 | ✓ | ✓ |
+| r | 3942 | ✓ | ✓ |
+| ü | 3784 | ✓ | ✓ |
+| p | 3563 | ✓ | ✓ |
+| l | 3437 | ✓ | ✓ |
+| s | 2457 | ✓ | ✓ |
+| y | 2193 | ✓ | ✓ |
+| ch | 2072 | ✓ | ✓ |
+| b | 2027 | ✓ | ✓ |
+| h | 1958 | ✓ | ✓ |
+| kʰ | 1801 | ✓ | ✓ |
+| d | 1538 | ✓ | ✓ |
+| <?> | 1450 | ? | ? |
+| tʰ | 1423 | ✓ | ✓ |
+| sh | 1069 | ? | ? |
+| z | 957 | ✓ | ✓ |
+| ts | 858 | ✓ | ✓ |
+| j | 855 | ✓ | ✓ |
+| pʰ | 846 | ✓ | ✓ |
+| w | 753 | ✓ | ✓ |
+| v | 638 | ✓ | ✓ |
+| gh | 358 | ✓ | ✓ |
 | f | 207 | ✓ | ✓ |
-| � | 197 | ? | ? |
-| _ | 182 | ✓ | ✓ |
-| c | 175 | ✓ | ✓ |
-| zh | 157 | ? | ? |
-| mh | 146 | ✓ | ✓ |
-| gs | 107 | ✓ | ✓ |
+| c | 174 | ✓ | ✓ |
+| zh | 156 | ? | ? |
+| mh | 145 | ✓ | ✓ |
 | nh | 107 | ✓ | ✓ |
+| gs | 106 | ✓ | ✓ |
 | rh | 102 | ? | ? |
 | chh | 100 | ? | ? |
 | nn | 97 | ? | ? |
 | tʰs | 95 | ✓ | ✓ |
 | kʷ | 82 | ✓ | ✓ |
-| lh | 80 | ? | ? |
+| lh | 77 | ? | ? |
 | gw | 76 | ? | ? |
-| āː | 76 | ✓ | ✓ |
 | â | 75 | ✓ | ✓ |
+| āː | 75 | ✓ | ✓ |
 | ns | 72 | ✓ | ✓ |
 | üs | 62 | ? | ? |
 | ññ | 61 | ? | ? |
 | ā | 58 | ✓ | ✓ |
 | iː | 57 | ✓ | ✓ |
+| � | 52 | ? | ? |
 | eː | 51 | ✓ | ✓ |
-| âw | 50 | ? | ? |
+| âw | 49 | ? | ? |
 | gg | 47 | ✓ | ✓ |
 | khw | 47 | ? | ? |
 | ê | 46 | ✓ | ✓ |
@@ -68,12 +67,13 @@
 | gsh | 42 | ? | ? |
 | û | 41 | ✓ | ✓ |
 | üh | 41 | ? | ? |
+| _ | 39 | ✓ | ✓ |
 | kk | 38 | ✓ | ✓ |
 | mm | 37 | ? | ? |
 | ms | 36 | ✓ | ✓ |
 | ū | 36 | ✓ | ✓ |
 | rr | 33 | ? | ? |
-| īː | 32 | ✓ | ✓ |
+| īː | 31 | ✓ | ✓ |
 | ɣ | 31 | ✓ | ✓ |
 | üsh | 30 | ? | ? |
 | mː | 28 | ✓ | ✓ |
@@ -82,7 +82,7 @@
 | nsh | 24 | ? | ? |
 | rw | 24 | ? | ? |
 | î | 24 | ✓ | ✓ |
-| ʃ | 24 | ✓ | ✓ |
+| ʃ | 23 | ✓ | ✓ |
 | nː | 20 | ✓ | ✓ |
 | ksh | 19 | ? | ? |
 | ll | 19 | ? | ? |
@@ -101,11 +101,11 @@
 | ʔ | 14 | ✓ | ✓ |
 | ps | 13 | ✓ | ✓ |
 | ī | 13 | ✓ | ✓ |
-| bs | 12 | ✓ | ✓ |
 | aː | 11 | ✓ | ✓ |
+| bs | 11 | ✓ | ✓ |
 | m̥ | 11 | ✓ | ✓ |
 | üw | 11 | ? | ? |
-| a̠ | 10 | ✓ | ✓ |
+| a̠ | 9 | ✓ | ✓ |
 | dh | 9 | ✓ | ✓ |
 | t̥h | 9 | ✓ | ✓ |
 | chw | 8 | ? | ? |
@@ -133,7 +133,6 @@
 | jh | 3 | ? | ? |
 | jw | 3 | ? | ? |
 | 'mw | 2 | ? | ? |
-| <???> | 2 | ? | ? |
 | dd | 2 | ✓ | ✓ |
 | ds | 2 | ✓ | ✓ |
 | gʒ | 2 | ✓ | ✓ |
@@ -150,6 +149,7 @@
 | ũ | 2 | ✓ | ✓ |
 | ṭh | 2 | ? | ? |
 | 'nw | 1 | ? | ? |
+| <???> | 1 | ? | ? |
 | a˯ | 1 | ? | ? |
 | bhw | 1 | ? | ? |
 | b̥ | 1 | ✓ | ✓ |
@@ -273,7 +273,6 @@
 | angamikhonoma-67-1 | angamikhonoma | 67 | kezha | k e <s> zh </s> a |
 | angamikhonoma-679-1 | angamikhonoma | 679 | zhü | <s> zh </s> ü |
 | angamikhonoma-684-1 | angamikhonoma | 684 | zhü | <s> zh </s> ü |
-| angamikhonoma-688-1 | angamikhonoma | 688 | te◦ngu, mena | t e + n g u <s> � </s> _ m e n a |
 | angamikhonoma-702-1 | angamikhonoma | 702 | thesha | tʰ e <s> sh </s> a |
 | angamikhonoma-711-1 | angamikhonoma | 711 | shiro | <s> sh </s> i r o |
 | angamikhonoma-714-1 | angamikhonoma | 714 | terhuo | t e <s> rh </s> u o |
@@ -282,7 +281,6 @@
 | angamikhonoma-741-1 | angamikhonoma | 741 | reswe | r e <s> sw </s> e |
 | angamikhonoma-759-2 | angamikhonoma | 759 | rha | <s> rh </s> a |
 | angamikhonoma-769-1 | angamikhonoma | 769 | keshü | k e <s> sh </s> ü |
-| angamikhonoma-77-1 | angamikhonoma | 77 | vü, mhe | v ü <s> � </s> _ mh e |
 | angamikhonoma-776-1 | angamikhonoma | 776 | therhe | tʰ e <s> rh </s> e |
 | angamikhonoma-78-1 | angamikhonoma | 78 | polüsho | p o l <s> üsh </s> o |
 | angamikhonoma-793-1 | angamikhonoma | 793 | kemezhie | k e m e <s> zh </s> i e |
@@ -292,15 +290,17 @@
 | angamikhonoma-870-2 | angamikhonoma | 870 | zhesho | <s> zh </s> e <s> sh </s> o |
 | angamikhonoma-873-1 | angamikhonoma | 873 | thepfüsa◦mi | tʰ e p f <s> üs </s> a + m i |
 | angamikhonoma-877-1 | angamikhonoma | 877 | shü | <s> sh </s> ü |
-| angamikhonoma-897-1 | angamikhonoma | 897 | kere, biche | k e r e <s> � </s> _ b i ch e |
 | angamikhonoma-91-1 | angamikhonoma | 91 | kerezha | k e r e <s> zh </s> a |
 | angamikhonoma-912-1 | angamikhonoma | 912 | -ki | <s> <?> </s> k i |
 | angamikhonoma-912-2 | angamikhonoma | 912 | -nu | <s> <?> </s> n u |
 | angamikhonoma-93-1 | angamikhonoma | 93 | betswe | b e <s> tsw </s> e |
 | angamikhonoma-95-1 | angamikhonoma | 95 | ha◦shi | h a + <s> sh </s> i |
+| angamikohima-20-1 | angamikohima | 20 | theüsi | tʰ e <s> üs </s> i |
 | angamikohima-225-1 | angamikohima | 225 | dzü; thevü◦dzü | d z ü <s> � </s> _ tʰ e v ü + d z ü |
 | angamikohima-419-1 | angamikohima | 419 | chüzhü | ch ü <s> zh </s> ü |
 | angamikohima-437-1 | angamikohima | 437 | u◦sho | u + <s> sh </s> o |
+| angamikohima-440-1 | angamikohima | 440 | rhei◦ba | <s> rh </s> e i + b a |
+| angamikohima-465-1 | angamikohima | 465 | chhü | <s> chh </s> ü |
 | angamikohima-679-1 | angamikohima | 679 | u◦zhü | u + <s> zh </s> ü |
 | angamikohima-785-1 | angamikohima | 785 | me◦zha | m e + <s> zh </s> a |
 | angamikohima-836-1 | angamikohima | 836 | u◦chhe | u + <s> chh </s> e |

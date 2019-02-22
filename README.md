@@ -12,7 +12,7 @@ Conceptlist in Concepticon: [Marrison-1967-917](http://concepticon.clld.org/cont
 
 
 [![Build Status](https://travis-ci.org/lexibank/marrisonnaga.svg?branch=master)](https://travis-ci.org/lexibank/marrisonnaga)
-![Glottolog: 96%](https://img.shields.io/badge/Glottolog-96%25-green.svg "Glottolog: 96%")
+![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 95%](https://img.shields.io/badge/Concepticon-95%25-green.svg "Concepticon: 95%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 54%](https://img.shields.io/badge/BIPA-54%25-red.svg "BIPA: 54%")
@@ -24,6 +24,6 @@ Conceptlist in Concepticon: [Marrison-1967-917](http://concepticon.clld.org/cont
 - **Synonymy:** 1.13
 - **Cognacy:** 0 cognates in 0 cognate sets
 - **Invalid lexemes:** 0
-- **Tokens:** 131,526
+- **Tokens:** 130,575
 - **Segments:** 181 (84 BIPA errors, 84 CTLS sound class errors, 97 CLTS modified)
-- **Inventory size (avg):** 47.30
+- **Inventory size (avg):** 46.30
