@@ -8,3 +8,6 @@
 - ENGLISH_in_STEDT : the gloss in STEDT data
 - ENGLISH_in_source : the gloss in the resource appendix.
 
+# Lexicon
+- Burmese language and Lushia language use the " ̑" symbol above vowels to indicate long vowels. 
+
