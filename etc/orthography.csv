@@ -40,7 +40,8 @@ s	s	a◦sa, aso	dimasa, aochungli, mikir, angamikohima, ntenyi, aomongsen, zeme,
 m$	m	lam, tam	lushai, mikir, aochungli, jingpho, aomongsen, konyak, manipuri, zeme, tangkhul, yimchungru, chang, lotha, phom, liangmai, nruanghmei, mzieme, dimasa, wancho, maram, sangtam, tibetanwritten, maring, khoirao, puiron, nocte, tangsayogli, tangsamoshang, yachamtengsa, burmesewritten, chokri, ntenyi, meluri, mao, sema	1159	U+006d U+0024
 ^ch	cçʰ	cha, chi	liangmai, mikir, lushai, manipuri, chang, aomongsen, jingpho, angamikhonoma, mao, angamikohima, lotha, wancho, burmesewritten, tangkhul, zeme, tibetanwritten, maring, sangtam, ntenyi, nocte, khoirao, chokri, yachamtengsa, sema, yimchungru, rengma, tangsamoshang, puiron, phom, maram, aochungli, konyak, dimasa, tangsayogli, kezhama, meluri	1099	U+005e U+0063 U+0068
 ch	cçʰ	achi, machi	aomongsen, lotha, zeme, tangkhul, sema, sangtam, mao, angamikohima, angamikhonoma, chang, ntenyi, nocte, mikir, burmesewritten, yachamtengsa, manipuri, meluri, liangmai, rengma, chokri, aochungli, maring, kezhama, puiron, wancho, jingpho, tibetanwritten, lushai, khoirao, maram, yimchungru, tangsamoshang, tangsayogli, phom, konyak, dimasa, nruanghmei	1074	U+0063 U+0068
--	NULL	-ra, -na	lotha, mao, tibetanwritten, aochungli, mikir, sema, chang, aomongsen, konyak, yimchungru, ntenyi, tangkhul, zeme, nruanghmei, rengma, liangmai, sangtam, jingpho, mzieme, manipuri, meluri, burmesewritten, maram, phom, dimasa, khoirao, nocte, angamikohima, maring, lushai, chokri, tangsayogli, angamikhonoma, kezhama, tangsamoshang, wancho, yachamtengsa, puiron	999	U+002d
+^-	NULL	-ra, -na	lotha, mao, tibetanwritten, aochungli, mikir, sema, chang, aomongsen, konyak, yimchungru, ntenyi, tangkhul, zeme, nruanghmei, rengma, liangmai, sangtam, jingpho, mzieme, manipuri, meluri, burmesewritten, maram, phom, dimasa, khoirao, nocte, angamikohima, maring, lushai, chokri, tangsayogli, angamikhonoma, kezhama, tangsamoshang, wancho, yachamtengsa, puiron	999	U+002d
+-	+				
 kh	kʰ	akhu, sakhi	sema, tangkhul, dimasa, yimchungru, ntenyi, lotha, burmesewritten, mao, aomongsen, liangmai, manipuri, jingpho, meluri, sangtam, rengma, angamikohima, nruanghmei, chokri, lushai, nocte, angamikhonoma, tibetanwritten, tangsayogli, chang, maring, mikir, phom, tangsamoshang, konyak, khoirao, puiron, yachamtengsa, maram, kezhama	973	U+006b U+0068
 ^kh	kʰ	khi, kha	tangkhul, manipuri, dimasa, burmesewritten, jingpho, tibetanwritten, lotha, rengma, sangtam, yimchungru, lushai, angamikohima, ntenyi, mao, chokri, nruanghmei, tangsayogli, sema, chang, aomongsen, maring, meluri, nocte, phom, tangsamoshang, liangmai, angamikhonoma, konyak, puiron, khoirao, wancho, yachamtengsa, maram, zeme, yacham	957	U+005e U+006b U+0068
 d	d	kedi, kündih	tibetanwritten, dimasa, mikir, jingpho, zeme, nruanghmei, angamikohima, mzieme, manipuri, angamikhonoma, mao, aochungli, liangmai, lotha, chokri, rengma, maram, khoirao, tangkhul, yimchungru, ntenyi, nocte, sema, wancho, lushai, sangtam, maring, kezhama, phom, aomongsen, chang, tangsamoshang, puiron, tangsayogli, yachamtengsa, konyak	926	U+0064
@@ -96,7 +97,7 @@ gw	gʷ	chungwa, n'ngwagwang	mzieme, rengma, lotha, jingpho, ntenyi, angamikhonom
 ā:$	āː	swā:, ṅā:	burmesewritten	56	U+0101 U+003a U+0024
 chh	cçʰ h	e◦chhü, chichhim	lotha, lushai, yimchungru, angamikohima, aomongsen	55	U+0063 U+0068 U+0068
 kw	kʷ	chakwang, a◦kwi◦tewa	angamikhonoma, sema, mzieme, meluri, liangmai, aomongsen, puiron, burmesewritten, ntenyi, konyak, chang, lotha, tangsamoshang, chokri, maring	55	U+006b U+0077
-0	NULL	bhai.nhaykron.lai, nui.cui.kale:	burmesewritten, lotha, mikir, tibetanwritten, lushai, angamikohima	54	U+002e
+.	ˌ	bhai.nhaykron.lai, nui.cui.kale:	burmesewritten, lotha, mikir, tibetanwritten, lushai, angamikohima	54	U+002e
 gg	g g	langgai, nggawnggawk	zeme, nruanghmei, jingpho, mzieme, rengma, maram, khoirao, manipuri, konyak, dimasa, tangkhul, meluri	50	U+0067 U+0067
 âw	ɔ:	lâwn, lei◦lâwn	lushai	50	U+00e2 U+0077
 ṅ:$	ŋ:	laṅ:, toṅ:	burmesewritten	50	U+1e45 U+003a U+0024
@@ -274,7 +275,7 @@ z$	z	mez, berkz	tibetanwritten, mikir, chokri	3	U+007a U+0024
 C	C	raiCi, -peCung	tangkhul, zeme	3	U+0043
 hsh	h ʃ	ahshi, shahshem	phom	3	U+0068 U+0073 U+0068
 bw	bw	nyunkebwe, te◦bwa	rengma	3	U+0062 U+0077
-^üsh	ə ʃ	üshei, üshoi	konyak	3	U+005e U+00fc U+0073 U+0068
+^üsh	üsh	üshei, üshoi	konyak	3	U+005e U+00fc U+0073 U+0068
 ^â	â	ârâwnpa, ânchhelawh	lushai	3	U+005e U+00e2
 ʃ	ʃ	'dreʃig, khyiʃig	tibetanwritten	3	U+0283
 'd	d	thsoṅ'dus, thole'debs	tibetanwritten	3	U+0027 U+0064
@@ -282,7 +283,7 @@ t̥h	t̥h	ukkat̥ha, vêngtet̥henawm	lushai, burmesewritten	3	U+0074 U+0325 U+0
 ^ê	ê	êng, êk	lushai	3	U+005e U+00ea
 ^âw	âw	âwmlo, âwm	lushai	3	U+005e U+00e2 U+0077
 ^wh	wh	whatsü, whü	rengma, angamikohima	3	U+005e U+0077 U+0068
-oʼ$	oˈ	poʼ, soʼ	burmesewritten	2	U+006f U+02bc U+0024
+oʼ$	oʼ	poʼ, soʼ	burmesewritten	2	U+006f U+02bc U+0024
 ṭ	ṭ	kezungṭang, ṭawngṭai	lushai	2	U+1e6d
 ^üh	ə h	ühüngpu, ühing	konyak	2	U+005e U+00fc U+0068
 ì$	ì	akhwì, khrì	tibetanwritten, ntenyi	2	U+00ec U+0024
@@ -295,16 +296,16 @@ v$	v	züzüv, tuv	lotha	2	U+0076 U+0024
 'mw	'm w	m'mwang	mzieme	2	U+0027 U+006d U+0077
 ^üw	ə w	üwo, üwong	konyak	2	U+005e U+00fc U+0077
 ^'n	n	'nkui, 'nküt	mzieme	2	U+005e U+0027 U+006e
-^zw	z w	zwü, zwa	mzieme, chokri	2	U+005e U+007a U+0077
+^zw	zw	zwü, zwa	mzieme, chokri	2	U+005e U+007a U+0077
 ^tsh	tsh	tshaṅ, tsherma	tibetanwritten	2	U+005e U+0074 U+0073 U+0068
 ^ṭ	ṭ	ṭawng, ṭawngṭai	lushai	2	U+005e U+1e6d
 uʼ$	uʼ	krak◦uʼ, a◦yuʼ	burmesewritten, aomongsen	2	U+0075 U+02bc U+0024
-üü$	əː	a◦wü-ü, kerüü	angamikohima, ntenyi	2	U+00fc U+00fc U+0024
+üü$	uu	a◦wü-ü, kerüü	angamikohima, ntenyi	2	U+00fc U+00fc U+0024
 'u	u	kangs'ule, nu'u◦pfü	mikir, ntenyi	2	U+0027 U+0075
 ^jh	jh	jhe:, jhe:nai	burmesewritten	2	U+005e U+006a U+0068
 ās	ās	myaknhāsac, pyāsraññ	burmesewritten	2	U+0101 U+0073
 ū:	ūː	nū:◦ññaṁ., sū:paṅ	burmesewritten	2	U+016b U+003a
-iʼ$	iˈ	nuiʼ, cuiʼ	burmesewritten	2	U+0069 U+02bc U+0024
+iʼ$	iʼ	nuiʼ, cuiʼ	burmesewritten	2	U+0069 U+02bc U+0024
 'g	g	phyir'gro, dud'gro	tibetanwritten	2	U+0027 U+0067
 shw	ʃw	ishwar, shai-shwi	liangmai, manipuri	2	U+0073 U+0068 U+0077
 ^ɣʃ	ɣʃ	ɣʃerba, ɣʃeg	tibetanwritten	2	U+005e U+0263 U+0283
@@ -316,7 +317,7 @@ zw	zw	nzwa-eh, mü◦zwi	mzieme, chokri	2	U+007a U+0077
 |g	|g	n-|gek, n-|gup	jingpho, liangmai	2	U+007c U+0067
 ṭh	ṭh	kawṭhalo, siamṭha	lushai	2	U+1e6d U+0068
 ṅh	ŋ̥̥	sim:◦ṅhak, cā◦ṅhak	burmesewritten	2	U+1e45 U+0068
-eʼ$	eʼ	rhweʼ, tweʼ	burmesewritten	2	U+0065 U+02bc U+0024
+eʼ$	eˈ	rhweʼ, tweʼ	burmesewritten	2	U+0065 U+02bc U+0024
 V	V	sVp, mVr?ri	angamikhonoma, jingpho	2	U+0056
 î$	iː	mî, lî	lushai	2	U+00ee U+0024
 'k	k	n'kim, n'kieng	mzieme	2	U+0027 U+006b
