@@ -15,8 +15,8 @@ Conceptlist in Concepticon: [Marrison-1967-917](http://concepticon.clld.org/cont
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 95%](https://img.shields.io/badge/Concepticon-95%25-green.svg "Concepticon: 95%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 54%](https://img.shields.io/badge/BIPA-54%25-red.svg "BIPA: 54%")
-![CLTS SoundClass: 54%](https://img.shields.io/badge/CLTS%20SoundClass-54%25-red.svg "CLTS SoundClass: 54%")
+![BIPA: 86%](https://img.shields.io/badge/BIPA-86%25-yellowgreen.svg "BIPA: 86%")
+![CLTS SoundClass: 86%](https://img.shields.io/badge/CLTS%20SoundClass-86%25-yellowgreen.svg "CLTS SoundClass: 86%")
 
 - **Varieties:** 40
 - **Concepts:** 910
@@ -24,6 +24,6 @@ Conceptlist in Concepticon: [Marrison-1967-917](http://concepticon.clld.org/cont
 - **Synonymy:** 1.13
 - **Cognacy:** 0 cognates in 0 cognate sets
 - **Invalid lexemes:** 0
-- **Tokens:** 138,656
-- **Segments:** 183 (84 BIPA errors, 84 CTLS sound class errors, 99 CLTS modified)
-- **Inventory size (avg):** 46.80
+- **Tokens:** 136,637
+- **Segments:** 133 (18 BIPA errors, 18 CTLS sound class errors, 115 CLTS modified)
+- **Inventory size (avg):** 41.62
