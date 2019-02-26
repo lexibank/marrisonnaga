@@ -3,9 +3,9 @@ Grapheme	IPA
 $	NULL
 ʼ	NULL
 ’	NULL
+,	NULL
 ˋ	NULL
 ˊ	NULL
-. 	NULL
 .	NULL
 0	NULL
 /	NULL
@@ -23,7 +23,6 @@ _	+
 ^?	ʔ
 ?$	ʔ
 ?	?
-˯	˯
 a	a
 á	á
 à	à
@@ -37,9 +36,8 @@ a:	aː
 a:$	aː
 ā:$	āː
 ā:s	āː s
-aˊ$	aˊ
-aˋ$	aˋ
-a˯	a˯
+aˊ$	a̰
+aˋ$	a
 a$	a
 â$	aː
 ā$	ā
@@ -101,14 +99,14 @@ o$	o
 i	i
 î	î
 ï	i
-i̇	I
+i̇	i
 ī	ī
 i:	iː
 ī:	īː
 i:$	iː
 ī:$	īː
 ī:h	īː h
-ī:sw	īː sw
+ī:sw	īː sʷ
 i$	i
 ì	ì
 ì$	ì
@@ -137,7 +135,7 @@ chw	cç̥ʰ w
 cw	cʷ
 d	d
 d$	d
-dd	d̄ː
+dd	dː
 dh	dʰ
 ds	ds
 dw	d w
@@ -159,16 +157,16 @@ gsh	g ʃ
 gw	gʷ
 ɣ	ɣ
 h	h
-ĥ	ĥ
+ĥ	h̬
 h$	h
 hs	h s
 hsh	h ʃ
 hw	hʷ
 j	ʝ
-ĵ	ĵ
+ĵ	j
 j$	ʝ
 jh	j̥
-jw	jʷ
+jw	ʝʷ
 k	k
 k$	k
 kh	kʰ
@@ -178,6 +176,7 @@ kk	kː
 ks	k s
 ksh	k ʃ
 kw	kʷ
+K	k
 l	l
 l$	l
 lh	l̥
@@ -210,20 +209,21 @@ msh	m ʃ
 mw	m w
 mʼ$	m
 n	n
-N	N
+N	ŋ
+N$	ŋ
 ñ	ɲ
 ṅ	ŋ
 n:	nː
 ñ:	ɲː
 ṅ:	ŋ:
+ń:	ŋː
 n:$	nː
-ń:$	ńː
+ń:$	ŋː
 ñ:$	ɲː
 ṅ:$	ŋ:
 n:s	nː s
 nˋ$	n
 n$	n
-N$	N
 ñ$	ɲ
 ṅ$	ŋ
 nh	n̥
@@ -257,14 +257,15 @@ ph	pʰ
 pp	p p
 ps	p s
 psh	p  ʃ
-pw	pw
+pw	pʷ
 r	r
 r̊	r̥
+r̥a	r̥ a
 r$	r
 r̊$	r̥
 rh	r̥
 rh$	r̥
-rr	rr
+rr	rː
 rs	r s
 rsh	r ʃ
 rw	r w
@@ -273,18 +274,17 @@ s	s
 s$	s
 sh	ʃ
 sh$	ʃ
-^shü◦rem / ki$	ʃ ə + r e m
 shw	ʃʷ
 ss	sː
 sw	s w
 swh	s w̥
 ʃ	ʃ
 t	t
-ṭ	ṭ
+ṭ	ʈ
 t̥	t̥
 t$	t
 th	tʰ
-ṭh	ṭʰ
+ṭh	ʈʰ
 t̥h	t̥ʰ
 th$	tʰ
 ths	tʰ s
@@ -293,13 +293,12 @@ ts	ts
 tsh	tsʰ
 tsw	ts w
 tt	t t
-tw	tw
+tw	tʷ
 v	v
-V	V
+V	V/ə	
 v$	v
-vh	vh
-VV	V V
-vw	v w
+vh	vʰ
+vw	vʷ
 w	w
 w$	w
 wh	w̥
@@ -315,14 +314,8 @@ zw	z w
 ʔ	ʔ
 ʔ$	ʔ
 ʔsh	ʔ  ʃ
-^saC$	ts a n
+^e̊rh$	e̥ rʰ
 ^thswa$	tsʰ w a
-^rüzə$	r ə z a
 ^gʒima$	gʒ i m a
-^tsaw/tsóʔ$	ts a w ts ó ʔ
-(a◦rep◦i)	NULL
-(apok)	NULL
-^ke◦cheng (a◦rep◦i)$	k e + cçʰ e ŋ
-^keng◦sarti (apok)$	k e ŋ + s a r t i
-(	NULL
-)	NULL
+^saC$	ts a n
+^tsaw/tsóʔ$	ts a w
