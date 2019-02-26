@@ -5,47 +5,47 @@
 
 | Segment | Occurrence | BIPA | CLTS SoundClass |
 |:----------|-------------:|:-------|:------------------|
-| a | 20174 | ✓ | ✓ |
+| a | 20175 | ✓ | ✓ |
 | n | 11508 | ✓ | ✓ |
 | i | 11375 | ✓ | ✓ |
 | e | 8239 | ✓ | ✓ |
 | u | 7881 | ✓ | ✓ |
-| + | 6756 | ✓ | ✓ |
-| o | 6675 | ✓ | ✓ |
+| + | 6755 | ✓ | ✓ |
+| o | 6676 | ✓ | ✓ |
 | k | 6557 | ✓ | ✓ |
 | g | 6499 | ✓ | ✓ |
 | m | 6181 | ✓ | ✓ |
 | t | 4362 | ✓ | ✓ |
 | r | 4225 | ✓ | ✓ |
-| ə | 4142 | ✓ | ✓ |
+| ə | 4141 | ✓ | ✓ |
 | p | 3829 | ✓ | ✓ |
 | l | 3653 | ✓ | ✓ |
 | s | 2916 | ✓ | ✓ |
 | j | 2288 | ✓ | ✓ |
 | cçʰ | 2281 | ✓ | ✓ |
 | h | 2281 | ✓ | ✓ |
-| b | 2179 | ✓ | ✓ |
+| b | 2178 | ✓ | ✓ |
 | kʰ | 1989 | ✓ | ✓ |
 | d | 1640 | ✓ | ✓ |
 | tʰ | 1520 | ✓ | ✓ |
 | ʃ | 1307 | ✓ | ✓ |
 | z | 1014 | ✓ | ✓ |
-| w | 968 | ✓ | ✓ |
+| w | 969 | ✓ | ✓ |
 | ts | 904 | ✓ | ✓ |
 | ʝ | 891 | ✓ | ✓ |
 | pʰ | 875 | ✓ | ✓ |
 | v | 671 | ✓ | ✓ |
 | gh | 374 | ✓ | ✓ |
-| ŋ | 322 | ✓ | ✓ |
+| ŋ | 326 | ✓ | ✓ |
 | f | 213 | ✓ | ✓ |
 | m̥ | 197 | ✓ | ✓ |
-| cç | 182 | ✓ | ✓ |
+| cç | 183 | ✓ | ✓ |
 | ʒ | 172 | ✓ | ✓ |
 | nː | 123 | ✓ | ✓ |
 | n̥ | 116 | ✓ | ✓ |
 | gs | 113 | ✓ | ✓ |
 | r̥ | 110 | ✓ | ✓ |
-| tʰs | 99 | ✓ | ✓ |
+| tʰs | 98 | ✓ | ✓ |
 | kʷ | 91 | ✓ | ✓ |
 | iː | 85 | ✓ | ✓ |
 | gʷ | 83 | ✓ | ✓ |
@@ -61,9 +61,9 @@
 | ê | 49 | ✓ | ✓ |
 | uː | 44 | ✓ | ✓ |
 | kː | 41 | ✓ | ✓ |
+| � | 39 | ? | ? |
 | ū | 36 | ✓ | ✓ |
 | ˈ | 36 | ? | ? |
-| � | 36 | ? | ? |
 | _ | 35 | ✓ | ✓ |
 | īː | 35 | ✓ | ✓ |
 | rr | 34 | ? | ? |
@@ -83,22 +83,20 @@
 | m̥ː | 12 | ✓ | ✓ |
 | oː | 12 | ✓ | ✓ |
 | aː | 11 | ✓ | ✓ |
+| a̠ | 11 | ✓ | ✓ |
 | t̥h | 11 | ✓ | ✓ |
-| N | 10 | ? | ? |
-| a̠ | 10 | ✓ | ✓ |
 | ŋ̥ | 10 | ✓ | ✓ |
 | c | 9 | ✓ | ✓ |
 | dh | 9 | ✓ | ✓ |
+| tsh | 9 | ? | ? |
 | cç̥ | 8 | ✓ | ✓ |
-| tsh | 8 | ? | ? |
 | t̥ | 8 | ✓ | ✓ |
 | fh | 7 | ? | ? |
 | dw | 6 | ? | ? |
 | th | 6 | ✓ | ✓ |
 | ŋ̥̥ | 6 | ✓ | ✓ |
 | ˈm | 6 | ✓ | ✓ |
-| C | 4 | ? | ? |
-| V | 4 | ? | ? |
+| N | 5 | ? | ? |
 | bw | 4 | ? | ? |
 | sː | 4 | ✓ | ✓ |
 | əː | 4 | ✓ | ✓ |
@@ -113,7 +111,8 @@
 | ŋː | 2 | ✓ | ✓ |
 | ũ | 2 | ✓ | ✓ |
 | 'n | 1 | ✓ | ✓ |
-| a˯ | 1 | ? | ? |
+| C | 1 | ? | ? |
+| V | 1 | ? | ? |
 | bʰ | 1 | ✓ | ✓ |
 | b̥ | 1 | ✓ | ✓ |
 | fw | 1 | ? | ? |
@@ -142,7 +141,7 @@
 | ɣʷ | 1 | ✓ | ✓ |
 | ḁ | 1 | ✓ | ✓ |
 
-(136 rows)
+(135 rows)
 
 
 
@@ -159,7 +158,7 @@
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
 |:---------------------------------------|:---------------|:----------------------|:------------------|:-------------------------------------------------|
-| angamikhonoma-Marrison-1967-917-639-1 | angamikhonoma | Marrison-1967-917-639 | mVr?ri | m <s> V </s> r <s> � </s> r i |
+| angamikhonoma-Marrison-1967-917-639-1 | angamikhonoma | Marrison-1967-917-639 | mor?ri | m o r <s> � </s> r i |
 | angamikhonoma-Marrison-1967-917-765-1 | angamikhonoma | Marrison-1967-917-765 | reswe | r e <s> sw </s> e |
 | angamikohima-Marrison-1967-917-725-1 | angamikohima | Marrison-1967-917-725 | chieli. tsali | cçʰ i e l i <s> ˌ </s> _ ts a l i |
 | aochungli-Marrison-1967-917-218-1 | aochungli | Marrison-1967-917-218 | swarür | <s> sw </s> a r ə r |
@@ -213,6 +212,7 @@
 | burmesewritten-Marrison-1967-917-532-1 | burmesewritten | Marrison-1967-917-532 | ne.lay | n e <s> ˌ </s> l a j |
 | burmesewritten-Marrison-1967-917-546-1 | burmesewritten | Marrison-1967-917-546 | krak◦swan | k r a k + <s> sw </s> a n |
 | burmesewritten-Marrison-1967-917-550-1 | burmesewritten | Marrison-1967-917-550 | aminʼpe: | a m i <s> nˈ </s> p eː |
+| burmesewritten-Marrison-1967-917-561-1 | burmesewritten | Marrison-1967-917-561 | swā: | <s> sw </s> āː |
 | burmesewritten-Marrison-1967-917-577-1 | burmesewritten | Marrison-1967-917-577 | lwaṅ | <s> lw </s> a ŋ |
 | burmesewritten-Marrison-1967-917-599-1 | burmesewritten | Marrison-1967-917-599 | twan: | <s> tw </s> a nː |
 | burmesewritten-Marrison-1967-917-601-1 | burmesewritten | Marrison-1967-917-601 | ran◦twe | r a n + <s> tw </s> e |
@@ -221,7 +221,6 @@
 | burmesewritten-Marrison-1967-917-628-1 | burmesewritten | Marrison-1967-917-628 | mhaññ. | m̥ a ɲː <s> ˌ </s> |
 | burmesewritten-Marrison-1967-917-640-1 | burmesewritten | Marrison-1967-917-640 | pwan: | <s> pw </s> a nː |
 | burmesewritten-Marrison-1967-917-640-2 | burmesewritten | Marrison-1967-917-640 | pwat | <s> pw </s> a t |
-| burmesewritten-Marrison-1967-917-651-1 | burmesewritten | Marrison-1967-917-651 | khyinkhwaN | kʰ j i n kʰ w a <s> N </s> |
 | burmesewritten-Marrison-1967-917-659-1 | burmesewritten | Marrison-1967-917-659 | myui:ce’ | m j u iː cç e <s> � </s> |
 | burmesewritten-Marrison-1967-917-659-2 | burmesewritten | Marrison-1967-917-659 | a◦ce’ | a + cç e <s> � </s> |
 | burmesewritten-Marrison-1967-917-664-1 | burmesewritten | Marrison-1967-917-664 | pui. | p u i <s> ˌ </s> |
@@ -238,7 +237,6 @@
 | burmesewritten-Marrison-1967-917-770-1 | burmesewritten | Marrison-1967-917-770 | dhā:lway | dh āː <s> lw </s> a j |
 | burmesewritten-Marrison-1967-917-772-1 | burmesewritten | Marrison-1967-917-772 | cā:pwai | cç āː <s> pw </s> a i |
 | burmesewritten-Marrison-1967-917-776-1 | burmesewritten | Marrison-1967-917-776 | arapmraṅ. | a r a p m r a ŋ <s> ˌ </s> |
-| burmesewritten-Marrison-1967-917-779-1 | burmesewritten | Marrison-1967-917-779 | khwaisoNwe | kʰ w a i s o <s> N </s> w e |
 | burmesewritten-Marrison-1967-917-786-1 | burmesewritten | Marrison-1967-917-786 | kye:ĵu:taṅ | k j eː <s> ĵ </s> uː t a ŋ |
 | burmesewritten-Marrison-1967-917-791-1 | burmesewritten | Marrison-1967-917-791 | sutui. | s u t u i <s> ˌ </s> |
 | burmesewritten-Marrison-1967-917-798-1 | burmesewritten | Marrison-1967-917-798 | thaN | tʰ a <s> N </s> |
@@ -254,6 +252,7 @@
 | burmesewritten-Marrison-1967-917-833-1 | burmesewritten | Marrison-1967-917-833 | mrui. | m r u i <s> ˌ </s> |
 | burmesewritten-Marrison-1967-917-863-1 | burmesewritten | Marrison-1967-917-863 | coṅ. | cç o ŋ <s> ˌ </s> |
 | burmesewritten-Marrison-1967-917-880-2 | burmesewritten | Marrison-1967-917-880 | po. | p o <s> ˌ </s> |
+| burmesewritten-Marrison-1967-917-884-1 | burmesewritten | Marrison-1967-917-884 | re◦twaṅ: | r e + <s> tw </s> a ŋ: |
 | burmesewritten-Marrison-1967-917-889-1 | burmesewritten | Marrison-1967-917-889 | bhayto. | bh a j t o <s> ˌ </s> |
 | burmesewritten-Marrison-1967-917-895-1 | burmesewritten | Marrison-1967-917-895 | bhai.nhaykron.lai | bh a i <s> ˌ </s> n̥ a j k r o n <s> ˌ </s> l a i |
 | burmesewritten-Marrison-1967-917-931-1 | burmesewritten | Marrison-1967-917-931 | mane.ka | m a n e <s> ˌ </s> k a |
