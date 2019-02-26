@@ -5,189 +5,144 @@
 
 | Segment | Occurrence | BIPA | CLTS SoundClass |
 |:----------|-------------:|:-------|:------------------|
-| a | 18940 | ✓ | ✓ |
-| n | 10741 | ✓ | ✓ |
-| i | 10711 | ✓ | ✓ |
-| e | 7782 | ✓ | ✓ |
-| u | 7422 | ✓ | ✓ |
-| o | 6273 | ✓ | ✓ |
-| k | 6109 | ✓ | ✓ |
-| g | 5956 | ✓ | ✓ |
-| m | 5649 | ✓ | ✓ |
-| + | 5446 | ✓ | ✓ |
-| t | 4090 | ✓ | ✓ |
-| r | 3942 | ✓ | ✓ |
-| ü | 3784 | ✓ | ✓ |
-| p | 3563 | ✓ | ✓ |
-| l | 3437 | ✓ | ✓ |
-| s | 2457 | ✓ | ✓ |
-| y | 2193 | ✓ | ✓ |
-| ch | 2072 | ✓ | ✓ |
-| b | 2027 | ✓ | ✓ |
-| h | 1958 | ✓ | ✓ |
-| kʰ | 1801 | ✓ | ✓ |
-| d | 1538 | ✓ | ✓ |
-| <?> | 1450 | ? | ? |
-| tʰ | 1423 | ✓ | ✓ |
-| sh | 1069 | ? | ? |
-| z | 957 | ✓ | ✓ |
-| ts | 858 | ✓ | ✓ |
-| j | 855 | ✓ | ✓ |
-| pʰ | 846 | ✓ | ✓ |
-| w | 753 | ✓ | ✓ |
-| v | 638 | ✓ | ✓ |
-| gh | 358 | ✓ | ✓ |
-| f | 207 | ✓ | ✓ |
-| c | 174 | ✓ | ✓ |
-| zh | 156 | ? | ? |
-| mh | 145 | ✓ | ✓ |
-| nh | 107 | ✓ | ✓ |
-| gs | 106 | ✓ | ✓ |
-| rh | 102 | ? | ? |
-| chh | 100 | ? | ? |
-| nn | 97 | ? | ? |
-| tʰs | 95 | ✓ | ✓ |
-| kʷ | 82 | ✓ | ✓ |
-| lh | 77 | ? | ? |
-| gw | 76 | ? | ? |
-| â | 75 | ✓ | ✓ |
-| āː | 75 | ✓ | ✓ |
-| ns | 72 | ✓ | ✓ |
-| üs | 62 | ? | ? |
-| ññ | 61 | ? | ? |
-| ā | 58 | ✓ | ✓ |
-| iː | 57 | ✓ | ✓ |
-| � | 52 | ? | ? |
-| eː | 51 | ✓ | ✓ |
-| âw | 49 | ? | ? |
-| gg | 47 | ✓ | ✓ |
-| khw | 47 | ? | ? |
-| ê | 46 | ✓ | ✓ |
-| ks | 45 | ✓ | ✓ |
-| gsh | 42 | ? | ? |
-| û | 41 | ✓ | ✓ |
-| üh | 41 | ? | ? |
-| _ | 39 | ✓ | ✓ |
-| kk | 38 | ✓ | ✓ |
-| mm | 37 | ? | ? |
-| ms | 36 | ✓ | ✓ |
+| a | 20174 | ✓ | ✓ |
+| n | 11508 | ✓ | ✓ |
+| i | 11375 | ✓ | ✓ |
+| e | 8239 | ✓ | ✓ |
+| u | 7881 | ✓ | ✓ |
+| + | 6756 | ✓ | ✓ |
+| o | 6675 | ✓ | ✓ |
+| k | 6557 | ✓ | ✓ |
+| g | 6499 | ✓ | ✓ |
+| m | 6181 | ✓ | ✓ |
+| t | 4362 | ✓ | ✓ |
+| r | 4225 | ✓ | ✓ |
+| ə | 4142 | ✓ | ✓ |
+| p | 3829 | ✓ | ✓ |
+| l | 3653 | ✓ | ✓ |
+| s | 2916 | ✓ | ✓ |
+| j | 2288 | ✓ | ✓ |
+| cçʰ | 2281 | ✓ | ✓ |
+| h | 2281 | ✓ | ✓ |
+| b | 2179 | ✓ | ✓ |
+| kʰ | 1989 | ✓ | ✓ |
+| d | 1640 | ✓ | ✓ |
+| tʰ | 1520 | ✓ | ✓ |
+| ʃ | 1307 | ✓ | ✓ |
+| z | 1014 | ✓ | ✓ |
+| w | 968 | ✓ | ✓ |
+| ts | 904 | ✓ | ✓ |
+| ʝ | 891 | ✓ | ✓ |
+| pʰ | 875 | ✓ | ✓ |
+| v | 671 | ✓ | ✓ |
+| gh | 374 | ✓ | ✓ |
+| ŋ | 322 | ✓ | ✓ |
+| f | 213 | ✓ | ✓ |
+| m̥ | 197 | ✓ | ✓ |
+| cç | 182 | ✓ | ✓ |
+| ʒ | 172 | ✓ | ✓ |
+| nː | 123 | ✓ | ✓ |
+| n̥ | 116 | ✓ | ✓ |
+| gs | 113 | ✓ | ✓ |
+| r̥ | 110 | ✓ | ✓ |
+| tʰs | 99 | ✓ | ✓ |
+| kʷ | 91 | ✓ | ✓ |
+| iː | 85 | ✓ | ✓ |
+| gʷ | 83 | ✓ | ✓ |
+| l̥ | 83 | ✓ | ✓ |
+| â | 79 | ✓ | ✓ |
+| āː | 76 | ✓ | ✓ |
+| ŋ: | 67 | ✓ | ✓ |
+| ā | 65 | ✓ | ✓ |
+| ɲː | 63 | ✓ | ✓ |
+| ˌ | 54 | ? | ? |
+| eː | 53 | ✓ | ✓ |
+| ɔ: | 53 | ✓ | ✓ |
+| ê | 49 | ✓ | ✓ |
+| uː | 44 | ✓ | ✓ |
+| kː | 41 | ✓ | ✓ |
 | ū | 36 | ✓ | ✓ |
-| rr | 33 | ? | ? |
-| īː | 31 | ✓ | ✓ |
-| ɣ | 31 | ✓ | ✓ |
-| üsh | 30 | ? | ? |
-| mː | 28 | ✓ | ✓ |
-| ɲ | 27 | ✓ | ✓ |
-| bh | 24 | ✓ | ✓ |
-| nsh | 24 | ? | ? |
-| rw | 24 | ? | ? |
-| î | 24 | ✓ | ✓ |
-| ʃ | 23 | ✓ | ✓ |
-| nː | 20 | ✓ | ✓ |
-| ksh | 19 | ? | ? |
-| ll | 19 | ? | ? |
+| ˈ | 36 | ? | ? |
+| � | 36 | ? | ? |
+| _ | 35 | ✓ | ✓ |
+| īː | 35 | ✓ | ✓ |
+| rr | 34 | ? | ? |
+| ɣ | 34 | ✓ | ✓ |
+| mː | 32 | ✓ | ✓ |
+| ɲ | 30 | ✓ | ✓ |
+| bh | 25 | ✓ | ✓ |
+| w̥ | 21 | ✓ | ✓ |
+| lw | 20 | ? | ? |
 | sw | 19 | ? | ? |
-| mw | 17 | ? | ? |
-| hs | 16 | ? | ? |
-| lw | 16 | ? | ? |
-| nw | 16 | ? | ? |
-| pw | 16 | ? | ? |
-| tt | 16 | ✓ | ✓ |
-| wh | 16 | ? | ? |
-| pp | 15 | ✓ | ✓ |
-| tw | 15 | ? | ? |
-| ūː | 15 | ✓ | ✓ |
-| msh | 14 | ? | ? |
-| ʔ | 14 | ✓ | ✓ |
-| ps | 13 | ✓ | ✓ |
-| ī | 13 | ✓ | ✓ |
+| pw | 17 | ? | ? |
+| tw | 17 | ? | ? |
+| ūː | 16 | ✓ | ✓ |
+| ʔ | 16 | ✓ | ✓ |
+| ī | 15 | ✓ | ✓ |
+| bs | 12 | ✓ | ✓ |
+| m̥ː | 12 | ✓ | ✓ |
+| oː | 12 | ✓ | ✓ |
 | aː | 11 | ✓ | ✓ |
-| bs | 11 | ✓ | ✓ |
-| m̥ | 11 | ✓ | ✓ |
-| üw | 11 | ? | ? |
-| a̠ | 9 | ✓ | ✓ |
+| t̥h | 11 | ✓ | ✓ |
+| N | 10 | ? | ? |
+| a̠ | 10 | ✓ | ✓ |
+| ŋ̥ | 10 | ✓ | ✓ |
+| c | 9 | ✓ | ✓ |
 | dh | 9 | ✓ | ✓ |
-| t̥h | 9 | ✓ | ✓ |
-| chw | 8 | ? | ? |
-| shw | 8 | ? | ? |
+| cç̥ | 8 | ✓ | ✓ |
 | tsh | 8 | ? | ? |
+| t̥ | 8 | ✓ | ✓ |
 | fh | 7 | ? | ? |
-| t̥ | 7 | ✓ | ✓ |
-| rs | 6 | ? | ? |
-| thw | 6 | ? | ? |
-| ô | 6 | ✓ | ✓ |
-| dw | 5 | ? | ? |
-| m̥ː | 5 | ✓ | ✓ |
-| oː | 5 | ✓ | ✓ |
+| dw | 6 | ? | ? |
+| th | 6 | ✓ | ✓ |
+| ŋ̥̥ | 6 | ✓ | ✓ |
+| ˈm | 6 | ✓ | ✓ |
+| C | 4 | ? | ? |
+| V | 4 | ? | ? |
 | bw | 4 | ? | ? |
-| bʒ | 4 | ✓ | ✓ |
-| ss | 4 | ? | ? |
-| tsw | 4 | ? | ? |
-| zw | 4 | ? | ? |
-| üü | 4 | ✓ | ✓ |
+| sː | 4 | ✓ | ✓ |
+| əː | 4 | ✓ | ✓ |
 | ṭ | 4 | ? | ? |
-| aʼ | 3 | ? | ? |
-| cc | 3 | ✓ | ✓ |
-| cw | 3 | ? | ? |
-| ghː | 3 | ✓ | ✓ |
+| aˈ | 3 | ? | ? |
 | jh | 3 | ? | ? |
 | jw | 3 | ? | ? |
-| 'mw | 2 | ? | ? |
-| dd | 2 | ✓ | ✓ |
+| ɣː | 3 | ✓ | ✓ |
+| ṭh | 3 | ? | ? |
+| 'm | 2 | ✓ | ✓ |
 | ds | 2 | ✓ | ✓ |
-| gʒ | 2 | ✓ | ✓ |
-| lhw | 2 | ? | ? |
-| ls | 2 | ? | ? |
-| rsh | 2 | ? | ? |
-| r̥ | 2 | ✓ | ✓ |
-| swh | 2 | ? | ? |
-| uː | 2 | ✓ | ✓ |
-| ï | 2 | ✓ | ✓ |
-| üshw | 2 | ? | ? |
-| ās | 2 | ? | ? |
-| īːh | 2 | ? | ? |
+| ŋː | 2 | ✓ | ✓ |
 | ũ | 2 | ✓ | ✓ |
-| ṭh | 2 | ? | ? |
-| 'nw | 1 | ? | ? |
-| <???> | 1 | ? | ? |
+| 'n | 1 | ✓ | ✓ |
 | a˯ | 1 | ? | ? |
-| bhw | 1 | ? | ? |
+| bʰ | 1 | ✓ | ✓ |
 | b̥ | 1 | ✓ | ✓ |
 | fw | 1 | ? | ? |
-| ghs | 1 | ? | ? |
-| ghw | 1 | ? | ? |
-| g&#124; | 1 | ? | ? |
 | gː | 1 | ✓ | ✓ |
-| hsh | 1 | ? | ? |
-| hw | 1 | ? | ? |
+| hʷ | 1 | ✓ | ✓ |
 | i̇ | 1 | ? | ? |
-| mhˊ | 1 | ? | ? |
+| m̥ˈ | 1 | ? | ? |
 | m̩ | 1 | ✓ | ✓ |
+| nˈ | 1 | ? | ? |
 | nːs | 1 | ✓ | ✓ |
-| n’ | 1 | ✓ | ✓ |
-| psh | 1 | ? | ? |
 | rwh | 1 | ? | ? |
 | vh | 1 | ? | ? |
-| vw | 1 | ? | ? |
-| ws | 1 | ? | ? |
-| xh | 1 | ? | ? |
-| &#124;g | 1 | ? | ? |
+| x | 1 | ✓ | ✓ |
 | &#124;t | 1 | ? | ? |
 | à | 1 | ✓ | ✓ |
 | á | 1 | ✓ | ✓ |
-| åw | 1 | ? | ? |
+| ã | 1 | ✓ | ✓ |
 | é | 1 | ✓ | ✓ |
 | ù | 1 | ✓ | ✓ |
-| üss | 1 | ? | ? |
-| üwh | 1 | ? | ? |
 | āːs | 1 | ? | ? |
 | īːsw | 1 | ? | ? |
 | ĵ | 1 | ? | ? |
 | ɑ | 1 | ✓ | ✓ |
-| ɲː | 1 | ✓ | ✓ |
-| ʔsh | 1 | ? | ? |
+| ɔ̥ | 1 | ✓ | ✓ |
+| ɛ | 1 | ✓ | ✓ |
+| ɣʷ | 1 | ✓ | ✓ |
+| ḁ | 1 | ✓ | ✓ |
 
-(181 rows)
+(136 rows)
 
 
 
@@ -203,107 +158,107 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:--------------------|:--------------|----------:|:---------------|:------------------------------------|
-| angamikhonoma-100-1 | angamikhonoma | 100 | mezha | m e <s> zh </s> a |
-| angamikhonoma-133-1 | angamikhonoma | 133 | mi◦zhü | m i + <s> zh </s> ü |
-| angamikhonoma-133-2 | angamikhonoma | 133 | thezhü | tʰ e <s> zh </s> ü |
-| angamikhonoma-140-1 | angamikhonoma | 140 | chüsi | ch <s> üs </s> i |
-| angamikhonoma-142-1 | angamikhonoma | 142 | kevi-kedale | k e v i <s> <?> </s> k e d a l e |
-| angamikhonoma-147-1 | angamikhonoma | 147 | terhobavü | t e <s> rh </s> o b a v ü |
-| angamikhonoma-167-1 | angamikhonoma | 167 | keregwi | k e r e <s> gw </s> i |
-| angamikhonoma-178-2 | angamikhonoma | 178 | rezhü | r e <s> zh </s> ü |
-| angamikhonoma-183-2 | angamikhonoma | 183 | zha | <s> zh </s> a |
-| angamikhonoma-198-1 | angamikhonoma | 198 | kerhu | k e <s> rh </s> u |
-| angamikhonoma-20-1 | angamikhonoma | 20 | tilüsi | t i l <s> üs </s> i |
-| angamikhonoma-221-1 | angamikhonoma | 221 | kilükishe | k i l ü k i <s> sh </s> e |
-| angamikhonoma-228-1 | angamikhonoma | 228 | lhe◦thetha | <s> lh </s> e + tʰ e tʰ a |
-| angamikhonoma-25-1 | angamikhonoma | 25 | -nu | <s> <?> </s> n u |
-| angamikhonoma-255-1 | angamikhonoma | 255 | terha | t e <s> rh </s> a |
-| angamikhonoma-260-1 | angamikhonoma | 260 | lhi◦pengu | <s> lh </s> i + p e n g u |
-| angamikhonoma-262-1 | angamikhonoma | 262 | therhechi | tʰ e <s> rh </s> e ch i |
-| angamikhonoma-271-1 | angamikhonoma | 271 | kemezhe | k e m e <s> zh </s> e |
-| angamikhonoma-285-1 | angamikhonoma | 285 | phi◦zhe | pʰ i + <s> zh </s> e |
-| angamikhonoma-292-1 | angamikhonoma | 292 | lhi◦da | <s> lh </s> i + d a |
-| angamikhonoma-297-1 | angamikhonoma | 297 | gwürno | <s> gw </s> ü r n o |
-| angamikhonoma-31-2 | angamikhonoma | 31 | kesho | k e <s> sh </s> o |
-| angamikhonoma-322-1 | angamikhonoma | 322 | kezha | k e <s> zh </s> a |
-| angamikhonoma-345-2 | angamikhonoma | 345 | yash | y a <s> sh </s> |
-| angamikhonoma-359-1 | angamikhonoma | 359 | pilhito | p i <s> lh </s> i t o |
-| angamikhonoma-36-1 | angamikhonoma | 36 | sizhü | s i <s> zh </s> ü |
-| angamikhonoma-370-1 | angamikhonoma | 370 | chüho | ch <s> üh </s> o |
-| angamikhonoma-376-1 | angamikhonoma | 376 | leshekethudzü | l e <s> sh </s> e k e tʰ u d z ü |
-| angamikhonoma-379-1 | angamikhonoma | 379 | the◦zhe | tʰ e + <s> zh </s> e |
-| angamikhonoma-385-1 | angamikhonoma | 385 | kemekrüshi | k e m e k r <s> üsh </s> i |
-| angamikhonoma-388-1 | angamikhonoma | 388 | pru◦shi | p r u + <s> sh </s> i |
-| angamikhonoma-388-2 | angamikhonoma | 388 | kevashi | k e v a <s> sh </s> i |
-| angamikhonoma-419-1 | angamikhonoma | 419 | chüzhü | ch ü <s> zh </s> ü |
-| angamikhonoma-426-1 | angamikhonoma | 426 | leshe | l e <s> sh </s> e |
-| angamikhonoma-428-1 | angamikhonoma | 428 | zhü | <s> zh </s> ü |
-| angamikhonoma-437-1 | angamikhonoma | 437 | sho | <s> sh </s> o |
-| angamikhonoma-440-1 | angamikhonoma | 440 | rhi | <s> rh </s> i |
-| angamikhonoma-446-1 | angamikhonoma | 446 | mohoshi | m o h o <s> sh </s> i |
-| angamikhonoma-45-1 | angamikhonoma | 45 | kerhü | k e <s> rh </s> ü |
-| angamikhonoma-451-1 | angamikhonoma | 451 | terhi | t e <s> rh </s> i |
-| angamikhonoma-462-1 | angamikhonoma | 462 | telhiba | t e <s> lh </s> i b a |
-| angamikhonoma-523-1 | angamikhonoma | 523 | kegwe | k e <s> gw </s> e |
-| angamikhonoma-531-1 | angamikhonoma | 531 | prüshi | p r <s> üsh </s> i |
-| angamikhonoma-533-1 | angamikhonoma | 533 | dakoshi | d a k o <s> sh </s> i |
-| angamikhonoma-536-1 | angamikhonoma | 536 | kurha | k u <s> rh </s> a |
-| angamikhonoma-54-1 | angamikhonoma | 54 | tezhü | t e <s> zh </s> ü |
-| angamikhonoma-545-1 | angamikhonoma | 545 | cha-awe | ch a <s> <?> </s> a w e |
-| angamikhonoma-548-1 | angamikhonoma | 548 | leshekerusi | l e <s> sh </s> e k e r u s i |
-| angamikhonoma-560-1 | angamikhonoma | 560 | rezhü | r e <s> zh </s> ü |
-| angamikhonoma-573-1 | angamikhonoma | 573 | neshi | n e <s> sh </s> i |
-| angamikhonoma-578-1 | angamikhonoma | 578 | te◦shi | t e + <s> sh </s> i |
-| angamikhonoma-580-1 | angamikhonoma | 580 | neshi | n e <s> sh </s> i |
-| angamikhonoma-581-1 | angamikhonoma | 581 | pezhü | p e <s> zh </s> ü |
-| angamikhonoma-590-1 | angamikhonoma | 590 | kerhi | k e <s> rh </s> i |
-| angamikhonoma-600-1 | angamikhonoma | 600 | telha | t e <s> lh </s> a |
-| angamikhonoma-619-1 | angamikhonoma | 619 | süwa | s <s> üw </s> a |
-| angamikhonoma-623-1 | angamikhonoma | 623 | rhesha | <s> rh </s> e <s> sh </s> a |
-| angamikhonoma-624-1 | angamikhonoma | 624 | kazha | k a <s> zh </s> a |
-| angamikhonoma-626-1 | angamikhonoma | 626 | theshü | tʰ e <s> sh </s> ü |
-| angamikhonoma-627-1 | angamikhonoma | 627 | larhi | l a <s> rh </s> i |
-| angamikhonoma-630-1 | angamikhonoma | 630 | reshüku | r e <s> sh </s> ü k u |
-| angamikhonoma-648-1 | angamikhonoma | 648 | lhi◦thena | <s> lh </s> i + tʰ e n a |
-| angamikhonoma-649-1 | angamikhonoma | 649 | therhe | tʰ e <s> rh </s> e |
-| angamikhonoma-65-1 | angamikhonoma | 65 | rhosi | <s> rh </s> o s i |
-| angamikhonoma-657-1 | angamikhonoma | 657 | pezhü | p e <s> zh </s> ü |
-| angamikhonoma-660-1 | angamikhonoma | 660 | kishi | k i <s> sh </s> i |
-| angamikhonoma-67-1 | angamikhonoma | 67 | kezha | k e <s> zh </s> a |
-| angamikhonoma-679-1 | angamikhonoma | 679 | zhü | <s> zh </s> ü |
-| angamikhonoma-684-1 | angamikhonoma | 684 | zhü | <s> zh </s> ü |
-| angamikhonoma-702-1 | angamikhonoma | 702 | thesha | tʰ e <s> sh </s> a |
-| angamikhonoma-711-1 | angamikhonoma | 711 | shiro | <s> sh </s> i r o |
-| angamikhonoma-714-1 | angamikhonoma | 714 | terhuo | t e <s> rh </s> u o |
-| angamikhonoma-720-1 | angamikhonoma | 720 | kelhi | k e <s> lh </s> i |
-| angamikhonoma-729-1 | angamikhonoma | 729 | kemezho | k e m e <s> zh </s> o |
-| angamikhonoma-741-1 | angamikhonoma | 741 | reswe | r e <s> sw </s> e |
-| angamikhonoma-759-2 | angamikhonoma | 759 | rha | <s> rh </s> a |
-| angamikhonoma-769-1 | angamikhonoma | 769 | keshü | k e <s> sh </s> ü |
-| angamikhonoma-776-1 | angamikhonoma | 776 | therhe | tʰ e <s> rh </s> e |
-| angamikhonoma-78-1 | angamikhonoma | 78 | polüsho | p o l <s> üsh </s> o |
-| angamikhonoma-793-1 | angamikhonoma | 793 | kemezhie | k e m e <s> zh </s> i e |
-| angamikhonoma-793-2 | angamikhonoma | 793 | lhote | <s> lh </s> o t e |
-| angamikhonoma-83-1 | angamikhonoma | 83 | lesheda | l e <s> sh </s> e d a |
-| angamikhonoma-841-1 | angamikhonoma | 841 | the◦rhü | tʰ e + <s> rh </s> ü |
-| angamikhonoma-870-2 | angamikhonoma | 870 | zhesho | <s> zh </s> e <s> sh </s> o |
-| angamikhonoma-873-1 | angamikhonoma | 873 | thepfüsa◦mi | tʰ e p f <s> üs </s> a + m i |
-| angamikhonoma-877-1 | angamikhonoma | 877 | shü | <s> sh </s> ü |
-| angamikhonoma-91-1 | angamikhonoma | 91 | kerezha | k e r e <s> zh </s> a |
-| angamikhonoma-912-1 | angamikhonoma | 912 | -ki | <s> <?> </s> k i |
-| angamikhonoma-912-2 | angamikhonoma | 912 | -nu | <s> <?> </s> n u |
-| angamikhonoma-93-1 | angamikhonoma | 93 | betswe | b e <s> tsw </s> e |
-| angamikhonoma-95-1 | angamikhonoma | 95 | ha◦shi | h a + <s> sh </s> i |
-| angamikohima-20-1 | angamikohima | 20 | theüsi | tʰ e <s> üs </s> i |
-| angamikohima-225-1 | angamikohima | 225 | dzü; thevü◦dzü | d z ü <s> � </s> _ tʰ e v ü + d z ü |
-| angamikohima-419-1 | angamikohima | 419 | chüzhü | ch ü <s> zh </s> ü |
-| angamikohima-437-1 | angamikohima | 437 | u◦sho | u + <s> sh </s> o |
-| angamikohima-440-1 | angamikohima | 440 | rhei◦ba | <s> rh </s> e i + b a |
-| angamikohima-465-1 | angamikohima | 465 | chhü | <s> chh </s> ü |
-| angamikohima-679-1 | angamikohima | 679 | u◦zhü | u + <s> zh </s> ü |
-| angamikohima-785-1 | angamikohima | 785 | me◦zha | m e + <s> zh </s> a |
-| angamikohima-836-1 | angamikohima | 836 | u◦chhe | u + <s> chh </s> e |
+|:---------------------------------------|:---------------|:----------------------|:------------------|:-------------------------------------------------|
+| angamikhonoma-Marrison-1967-917-639-1 | angamikhonoma | Marrison-1967-917-639 | mVr?ri | m <s> V </s> r <s> � </s> r i |
+| angamikhonoma-Marrison-1967-917-765-1 | angamikhonoma | Marrison-1967-917-765 | reswe | r e <s> sw </s> e |
+| angamikohima-Marrison-1967-917-725-1 | angamikohima | Marrison-1967-917-725 | chieli. tsali | cçʰ i e l i <s> ˌ </s> _ ts a l i |
+| aochungli-Marrison-1967-917-218-1 | aochungli | Marrison-1967-917-218 | swarür | <s> sw </s> a r ə r |
+| aochungli-Marrison-1967-917-707-1 | aochungli | Marrison-1967-917-707 | mejang◦aʼ a◦yip | m e ʝ a n g + <s> aˈ </s> _ a + j i p |
+| aomongsen-Marrison-1967-917-645-1 | aomongsen | Marrison-1967-917-645 | changatshi | cçʰ a n g a <s> tsh </s> i |
+| burmesewritten-Marrison-1967-917-114-1 | burmesewritten | Marrison-1967-917-114 | kyaññce. | k j a ɲː cç e <s> ˌ </s> |
+| burmesewritten-Marrison-1967-917-118-1 | burmesewritten | Marrison-1967-917-118 | to. | t o <s> ˌ </s> |
+| burmesewritten-Marrison-1967-917-131-1 | burmesewritten | Marrison-1967-917-131 | ˋpham: | <s> � </s> pʰ a mː |
+| burmesewritten-Marrison-1967-917-138-1 | burmesewritten | Marrison-1967-917-138 | mī:swe | m <s> īːsw </s> e |
+| burmesewritten-Marrison-1967-917-139-2 | burmesewritten | Marrison-1967-917-139 | jhe:nai | <s> jh </s> eː n a i |
+| burmesewritten-Marrison-1967-917-150-1 | burmesewritten | Marrison-1967-917-150 | san. | s a n <s> ˌ </s> |
+| burmesewritten-Marrison-1967-917-166-1 | burmesewritten | Marrison-1967-917-166 | twak | <s> tw </s> a k |
+| burmesewritten-Marrison-1967-917-189-2 | burmesewritten | Marrison-1967-917-189 | ne. | n e <s> ˌ </s> |
+| burmesewritten-Marrison-1967-917-192-1 | burmesewritten | Marrison-1967-917-192 | lhaññ.cā: | l̥ a ɲː <s> ˌ </s> cç āː |
+| burmesewritten-Marrison-1967-917-212-1 | burmesewritten | Marrison-1967-917-212 | oksui. | o k s u i <s> ˌ </s> |
+| burmesewritten-Marrison-1967-917-216-1 | burmesewritten | Marrison-1967-917-216 | swe. | <s> sw </s> e <s> ˌ </s> |
+| burmesewritten-Marrison-1967-917-228-1 | burmesewritten | Marrison-1967-917-228 | arye. | a r j e <s> ˌ </s> |
+| burmesewritten-Marrison-1967-917-229-1 | burmesewritten | Marrison-1967-917-229 | lway | <s> lw </s> a j |
+| burmesewritten-Marrison-1967-917-238-1 | burmesewritten | Marrison-1967-917-238 | chay.tae | cçʰ a j <s> ˌ </s> t a e |
+| burmesewritten-Marrison-1967-917-240-1 | burmesewritten | Marrison-1967-917-240 | lwatlap | <s> lw </s> a t l a p |
+| burmesewritten-Marrison-1967-917-251-1 | burmesewritten | Marrison-1967-917-251 | kyaˊ | k j a <s> � </s> |
+| burmesewritten-Marrison-1967-917-258-2 | burmesewritten | Marrison-1967-917-258 | aphaʼ | a pʰ <s> aˈ </s> |
+| burmesewritten-Marrison-1967-917-271-1 | burmesewritten | Marrison-1967-917-271 | phraññ. | pʰ r a ɲː <s> ˌ </s> |
+| burmesewritten-Marrison-1967-917-272-1 | burmesewritten | Marrison-1967-917-272 | twe. | <s> tw </s> e <s> ˌ </s> |
+| burmesewritten-Marrison-1967-917-284-1 | burmesewritten | Marrison-1967-917-284 | kyuṁmhun. | k j u m̥ m̥ u n <s> ˌ </s> |
+| burmesewritten-Marrison-1967-917-287-1 | burmesewritten | Marrison-1967-917-287 | pu lwe | p u _ <s> lw </s> e |
+| burmesewritten-Marrison-1967-917-29-1 | burmesewritten | Marrison-1967-917-29 | nui.cui.kale: | n u i <s> ˌ </s> cç u i <s> ˌ </s> k a l eː |
+| burmesewritten-Marrison-1967-917-291-1 | burmesewritten | Marrison-1967-917-291 | cā.carā | cç ā <s> ˌ </s> cç a r ā |
+| burmesewritten-Marrison-1967-917-310-1 | burmesewritten | Marrison-1967-917-310 | krak◦swan◦phrū | k r a k + <s> sw </s> a n + pʰ r ū |
+| burmesewritten-Marrison-1967-917-312-1 | burmesewritten | Marrison-1967-917-312 | raˊ | r a <s> � </s> |
+| burmesewritten-Marrison-1967-917-317-1 | burmesewritten | Marrison-1967-917-317 | swā: | <s> sw </s> āː |
+| burmesewritten-Marrison-1967-917-318-1 | burmesewritten | Marrison-1967-917-318 | swak | <s> sw </s> a k |
+| burmesewritten-Marrison-1967-917-322-1 | burmesewritten | Marrison-1967-917-322 | koń: | k o <s> � </s> <s> � </s> |
+| burmesewritten-Marrison-1967-917-329-1 | burmesewritten | Marrison-1967-917-329 | saṅ:khyuiṅ:twaṅ: | s a ŋ: kʰ j u i ŋ: <s> tw </s> a ŋ: |
+| burmesewritten-Marrison-1967-917-333-2 | burmesewritten | Marrison-1967-917-333 | swe: | <s> sw </s> eː |
+| burmesewritten-Marrison-1967-917-334-2 | burmesewritten | Marrison-1967-917-334 | pwā: | <s> pw </s> āː |
+| burmesewritten-Marrison-1967-917-36-1 | burmesewritten | Marrison-1967-917-36 | apwe: | a <s> pw </s> eː |
+| burmesewritten-Marrison-1967-917-368-1 | burmesewritten | Marrison-1967-917-368 | twaṅ: | <s> tw </s> a ŋ: |
+| burmesewritten-Marrison-1967-917-373-1 | burmesewritten | Marrison-1967-917-373 | mhyôlaṅ. | m̥ j oː l a ŋ <s> ˌ </s> |
+| burmesewritten-Marrison-1967-917-389-1 | burmesewritten | Marrison-1967-917-389 | twaṅ | <s> tw </s> a ŋ |
+| burmesewritten-Marrison-1967-917-432-1 | burmesewritten | Marrison-1967-917-432 | khaiprā:nhaṅ.kwap | kʰ a i p r āː n̥ a ŋ <s> ˌ </s> kʷ a p |
+| burmesewritten-Marrison-1967-917-436-2 | burmesewritten | Marrison-1967-917-436 | mhyo. | m̥ j o <s> ˌ </s> |
+| burmesewritten-Marrison-1967-917-440-1 | burmesewritten | Marrison-1967-917-440 | kyā:sac | k j <s> āːs </s> a cç |
+| burmesewritten-Marrison-1967-917-450-1 | burmesewritten | Marrison-1967-917-450 | twan: | <s> tw </s> a nː |
+| burmesewritten-Marrison-1967-917-479-1 | burmesewritten | Marrison-1967-917-479 | jhe: | <s> jh </s> eː |
+| burmesewritten-Marrison-1967-917-483-1 | burmesewritten | Marrison-1967-917-483 | tweʼ | <s> tw </s> e |
+| burmesewritten-Marrison-1967-917-490-1 | burmesewritten | Marrison-1967-917-490 | alwai | a <s> lw </s> a i |
+| burmesewritten-Marrison-1967-917-508-1 | burmesewritten | Marrison-1967-917-508 | rwaṁ. | r w a m̥ <s> ˌ </s> |
+| burmesewritten-Marrison-1967-917-509-1 | burmesewritten | Marrison-1967-917-509 | -raʼ | + r <s> aˈ </s> |
+| burmesewritten-Marrison-1967-917-526-2 | burmesewritten | Marrison-1967-917-526 | ññaññ. | ɲː a ɲː <s> ˌ </s> |
+| burmesewritten-Marrison-1967-917-532-1 | burmesewritten | Marrison-1967-917-532 | ne.lay | n e <s> ˌ </s> l a j |
+| burmesewritten-Marrison-1967-917-546-1 | burmesewritten | Marrison-1967-917-546 | krak◦swan | k r a k + <s> sw </s> a n |
+| burmesewritten-Marrison-1967-917-550-1 | burmesewritten | Marrison-1967-917-550 | aminʼpe: | a m i <s> nˈ </s> p eː |
+| burmesewritten-Marrison-1967-917-577-1 | burmesewritten | Marrison-1967-917-577 | lwaṅ | <s> lw </s> a ŋ |
+| burmesewritten-Marrison-1967-917-599-1 | burmesewritten | Marrison-1967-917-599 | twan: | <s> tw </s> a nː |
+| burmesewritten-Marrison-1967-917-601-1 | burmesewritten | Marrison-1967-917-601 | ran◦twe | r a n + <s> tw </s> e |
+| burmesewritten-Marrison-1967-917-606-1 | burmesewritten | Marrison-1967-917-606 | paṅ. | p a ŋ <s> ˌ </s> |
+| burmesewritten-Marrison-1967-917-617-1 | burmesewritten | Marrison-1967-917-617 | kraṁ. | k r a m̥ <s> ˌ </s> |
+| burmesewritten-Marrison-1967-917-628-1 | burmesewritten | Marrison-1967-917-628 | mhaññ. | m̥ a ɲː <s> ˌ </s> |
+| burmesewritten-Marrison-1967-917-640-1 | burmesewritten | Marrison-1967-917-640 | pwan: | <s> pw </s> a nː |
+| burmesewritten-Marrison-1967-917-640-2 | burmesewritten | Marrison-1967-917-640 | pwat | <s> pw </s> a t |
+| burmesewritten-Marrison-1967-917-651-1 | burmesewritten | Marrison-1967-917-651 | khyinkhwaN | kʰ j i n kʰ w a <s> N </s> |
+| burmesewritten-Marrison-1967-917-659-1 | burmesewritten | Marrison-1967-917-659 | myui:ce’ | m j u iː cç e <s> � </s> |
+| burmesewritten-Marrison-1967-917-659-2 | burmesewritten | Marrison-1967-917-659 | a◦ce’ | a + cç e <s> � </s> |
+| burmesewritten-Marrison-1967-917-664-1 | burmesewritten | Marrison-1967-917-664 | pui. | p u i <s> ˌ </s> |
+| burmesewritten-Marrison-1967-917-686-1 | burmesewritten | Marrison-1967-917-686 | ô. | oː <s> ˌ </s> |
+| burmesewritten-Marrison-1967-917-688-1 | burmesewritten | Marrison-1967-917-688 | lwan: | <s> lw </s> a nː |
+| burmesewritten-Marrison-1967-917-7-1 | burmesewritten | Marrison-1967-917-7 | atwaṅ:mhā | a <s> tw </s> a ŋ: m̥ ā |
+| burmesewritten-Marrison-1967-917-719-1 | burmesewritten | Marrison-1967-917-719 | muigh:pwaṅ. | m u i ɣː <s> pw </s> a ŋ <s> ˌ </s> |
+| burmesewritten-Marrison-1967-917-722-1 | burmesewritten | Marrison-1967-917-722 | pyo. | p j o <s> ˌ </s> |
+| burmesewritten-Marrison-1967-917-722-2 | burmesewritten | Marrison-1967-917-722 | nū:◦ññaṁ. | n ūː + ɲː a m̥ <s> ˌ </s> |
+| burmesewritten-Marrison-1967-917-741-1 | burmesewritten | Marrison-1967-917-741 | jwan: | <s> jw </s> a nː |
+| burmesewritten-Marrison-1967-917-753-2 | burmesewritten | Marrison-1967-917-753 | phroṅ. | pʰ r o ŋ <s> ˌ </s> |
+| burmesewritten-Marrison-1967-917-761-1 | burmesewritten | Marrison-1967-917-761 | kan. | k a n <s> ˌ </s> |
+| burmesewritten-Marrison-1967-917-77-1 | burmesewritten | Marrison-1967-917-77 | kyaṅi̇ayim | k j a ŋ <s> i̇ </s> a j i m |
+| burmesewritten-Marrison-1967-917-770-1 | burmesewritten | Marrison-1967-917-770 | dhā:lway | dh āː <s> lw </s> a j |
+| burmesewritten-Marrison-1967-917-772-1 | burmesewritten | Marrison-1967-917-772 | cā:pwai | cç āː <s> pw </s> a i |
+| burmesewritten-Marrison-1967-917-776-1 | burmesewritten | Marrison-1967-917-776 | arapmraṅ. | a r a p m r a ŋ <s> ˌ </s> |
+| burmesewritten-Marrison-1967-917-779-1 | burmesewritten | Marrison-1967-917-779 | khwaisoNwe | kʰ w a i s o <s> N </s> w e |
+| burmesewritten-Marrison-1967-917-786-1 | burmesewritten | Marrison-1967-917-786 | kye:ĵu:taṅ | k j eː <s> ĵ </s> uː t a ŋ |
+| burmesewritten-Marrison-1967-917-791-1 | burmesewritten | Marrison-1967-917-791 | sutui. | s u t u i <s> ˌ </s> |
+| burmesewritten-Marrison-1967-917-798-1 | burmesewritten | Marrison-1967-917-798 | thaN | tʰ a <s> N </s> |
+| burmesewritten-Marrison-1967-917-8-1 | burmesewritten | Marrison-1967-917-8 | nhaṅ. | n̥ a ŋ <s> ˌ </s> |
+| burmesewritten-Marrison-1967-917-8-2 | burmesewritten | Marrison-1967-917-8 | rwe. | r w e <s> ˌ </s> |
+| burmesewritten-Marrison-1967-917-80-1 | burmesewritten | Marrison-1967-917-80 | swe: | <s> sw </s> eː |
+| burmesewritten-Marrison-1967-917-818-1 | burmesewritten | Marrison-1967-917-818 | -thui. | + tʰ u i <s> ˌ </s> |
+| burmesewritten-Marrison-1967-917-818-3 | burmesewritten | Marrison-1967-917-818 | 'ā: | <s> ˈ </s> āː |
+| burmesewritten-Marrison-1967-917-819-1 | burmesewritten | Marrison-1967-917-819 | che. | cçʰ e <s> ˌ </s> |
+| burmesewritten-Marrison-1967-917-820-1 | burmesewritten | Marrison-1967-917-820 | yane. | j a n e <s> ˌ </s> |
+| burmesewritten-Marrison-1967-917-826-1 | burmesewritten | Marrison-1967-917-826 | swā: | <s> sw </s> āː |
+| burmesewritten-Marrison-1967-917-831-1 | burmesewritten | Marrison-1967-917-831 | sui. | s u i <s> ˌ </s> |
+| burmesewritten-Marrison-1967-917-833-1 | burmesewritten | Marrison-1967-917-833 | mrui. | m r u i <s> ˌ </s> |
+| burmesewritten-Marrison-1967-917-863-1 | burmesewritten | Marrison-1967-917-863 | coṅ. | cç o ŋ <s> ˌ </s> |
+| burmesewritten-Marrison-1967-917-880-2 | burmesewritten | Marrison-1967-917-880 | po. | p o <s> ˌ </s> |
+| burmesewritten-Marrison-1967-917-889-1 | burmesewritten | Marrison-1967-917-889 | bhayto. | bh a j t o <s> ˌ </s> |
+| burmesewritten-Marrison-1967-917-895-1 | burmesewritten | Marrison-1967-917-895 | bhai.nhaykron.lai | bh a i <s> ˌ </s> n̥ a j k r o n <s> ˌ </s> l a i |
+| burmesewritten-Marrison-1967-917-931-1 | burmesewritten | Marrison-1967-917-931 | mane.ka | m a n e <s> ˌ </s> k a |
+| burmesewritten-Marrison-1967-917-97-1 | burmesewritten | Marrison-1967-917-97 | mun. | m u n <s> ˌ </s> |
+| burmesewritten-Marrison-1967-917-99-1 | burmesewritten | Marrison-1967-917-99 | nui. | n u i <s> ˌ </s> |
 
 (100 rows)
 

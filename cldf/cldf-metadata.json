@@ -25,7 +25,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 25883,
+            "dc:extent": 27441,
             "tableSchema": {
                 "columns": [
                     {
@@ -166,7 +166,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 836,
+            "dc:extent": 910,
             "tableSchema": {
                 "columns": [
                     {

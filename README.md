@@ -15,15 +15,15 @@ Conceptlist in Concepticon: [Marrison-1967-917](http://concepticon.clld.org/cont
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 95%](https://img.shields.io/badge/Concepticon-95%25-green.svg "Concepticon: 95%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 54%](https://img.shields.io/badge/BIPA-54%25-red.svg "BIPA: 54%")
-![CLTS SoundClass: 54%](https://img.shields.io/badge/CLTS%20SoundClass-54%25-red.svg "CLTS SoundClass: 54%")
+![BIPA: 77%](https://img.shields.io/badge/BIPA-77%25-yellow.svg "BIPA: 77%")
+![CLTS SoundClass: 77%](https://img.shields.io/badge/CLTS%20SoundClass-77%25-yellow.svg "CLTS SoundClass: 77%")
 
 - **Varieties:** 40
-- **Concepts:** 836
-- **Lexemes:** 25,883
+- **Concepts:** 910
+- **Lexemes:** 27,441
 - **Synonymy:** 1.13
 - **Cognacy:** 0 cognates in 0 cognate sets
 - **Invalid lexemes:** 0
-- **Tokens:** 130,575
-- **Segments:** 181 (84 BIPA errors, 84 CTLS sound class errors, 97 CLTS modified)
-- **Inventory size (avg):** 46.30
+- **Tokens:** 139,498
+- **Segments:** 136 (31 BIPA errors, 31 CTLS sound class errors, 105 CLTS modified)
+- **Inventory size (avg):** 39.32
