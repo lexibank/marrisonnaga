@@ -26,7 +26,6 @@ class Dataset(NonSplittingDataset):
         pass
 
     def clean_form(self, item, form):
-        
         if form not in ['*', '---', '']:
             return split_text(strip_brackets(form), ',;/')[0]
 
@@ -81,8 +80,7 @@ class Dataset(NonSplittingDataset):
                         ds.add_lexemes(
                                 Language_ID=languages[language],
                                 Parameter_ID=concepts[concept],
-                                Form=value.split(',')[0],
-                                Value=value,
+                                Value=self.lexemes.get(value, value),
                                 Source=['Marrison1967']
                                 )
             for i, m in enumerate(missing):
