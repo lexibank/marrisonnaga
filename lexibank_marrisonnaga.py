@@ -17,14 +17,6 @@ class Dataset(NonSplittingDataset):
     dir = Path(__file__).parent
     id = "marrisonnaga"
 
-    def cmd_download(self, **kw):
-        """
-        Download files to the raw/ directory. You can use helpers methods of `self.raw`, e.g.
-
-        >>> self.raw.download(url, fname)
-        """
-        pass
-
     def clean_form(self, item, form):
         if form not in ['*', '---', '']:
             return split_text(strip_brackets(form), ',;/')[0]
@@ -41,14 +33,20 @@ class Dataset(NonSplittingDataset):
         languages, concepts = {}, {}
         missing = defaultdict(int)
         with self.cldf as ds:
-            for concept in self.concepts:
+            concepts = {c.english: c.id for c in
+                    self.conceptlist.concepts.values()}
+            for c in self.concepts:
+                if c['ENGLISH'] not in concepts:
+                    concepts[c['ENGLISH']] = c['ID']
                 ds.add_concept(
-                        ID=concept['ID'],
-                        Name=concept['ENGLISH'],
-                        Concepticon_ID=concept['CONCEPTICON_ID'],
-                        Concepticon_Gloss=concept['CONCEPTICON_GLOSS']
+                        ID=c['ID'],
+                        Name=c['ENGLISH'],
+                        Concepticon_ID=c['CONCEPTICON_ID'],
+                        Concepticon_Gloss=c['CONCEPTICON_GLOSS']
                         )
-                concepts[concept['ENGLISH']] = concept['ID']
+
+            ds.add_concepts(id_factory=lambda c: c.id)
+
             for language in self.languages:
                 ds.add_language(
                         ID=slug(language['Language_in_source']),
@@ -58,8 +56,12 @@ class Dataset(NonSplittingDataset):
                 languages[language['Language_in_STEDT']] = slug(language['Language_in_source'])
 
             ds.add_sources(*self.raw.read_bib())
-            for idx, language, concept, value, pos in tqdm(data.iter_rows(
-                'doculect', 'concept', 'reflex', 'gfn'), desc='cldfify the data'):
+            for idx, language, concept, value, pos in tqdm(
+                    data.iter_rows(
+                        'doculect', 'concept', 'reflex', 'gfn'), 
+                        desc='cldfify', 
+                        total=len(data)
+                        ):
 
                 if value.strip():
                     if concept not in concepts:
