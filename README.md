@@ -6,6 +6,8 @@ Cite the source dataset as
 
 This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
 
+Available online at http://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/source/GEM-CNL
+
 Conceptlists in Concepticon:
 - [Marrison-1967-917](http://concepticon.clld.org/contributions/Marrison-1967-917)
 
@@ -29,7 +31,6 @@ This dataset was digitized by the STEDT project and is offered here in enhanced 
 - **Concepts:** 724
 - **Lexemes:** 27,441
 - **Synonymy:** 1.31
-- **Cognacy:** 0 cognates in 0 cognate sets
 - **Invalid lexemes:** 0
 - **Tokens:** 136,291
 - **Segments:** 132 (0 BIPA errors, 0 CTLS sound class errors, 132 CLTS modified)
