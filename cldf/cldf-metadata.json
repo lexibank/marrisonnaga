@@ -1,15 +1,18 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
+    "aboutUrl": null,
     "dc:bibliographicCitation": "Marrison, Geoffrey Edward (1967) : The classification of the Naga languages of north-east India. Berkeley : University of California",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+    "dc:description": null,
     "dc:format": [
         "http://concepticon.clld.org/contributions/Marrison-1967-917"
     ],
     "dc:identifier": "http://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/source/GEM-CNL",
+    "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "marrisonnaga",
-    "dcat:accessURL": "https://github.com/lexibank/marrisonnaga",
     "rdf:ID": "marrisonnaga",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
@@ -19,7 +22,7 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v3.4",
+                "glottolog_version": "v4.0",
                 "concepticon_version": "v2.0"
             }
         }
