@@ -6,6 +6,8 @@ Cite the source dataset as
 
 This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
 
+Available online at http://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/source/GEM-CNL
+
 Conceptlists in Concepticon:
 - [Marrison-1967-917](http://concepticon.clld.org/contributions/Marrison-1967-917)
 
