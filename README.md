@@ -2,7 +2,7 @@
 
 Cite the source dataset as
 
-> Marrison, Geoffrey Edward (1967) : The classification of the Naga languages of North-East India. Berkeley : University of California.
+> Marrison, Geoffrey Edward (1967) : The classification of the Naga languages of North-East India. London: School of African and Oriental Sciences.
 
 This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
 
@@ -30,6 +30,7 @@ This dataset was digitized by the STEDT project and is offered here in enhanced 
 - **Varieties:** 40
 - **Concepts:** 724
 - **Lexemes:** 27,441
+- **Sources:** 1
 - **Synonymy:** 1.31
 - **Invalid lexemes:** 0
 - **Tokens:** 136,291
