@@ -23,7 +23,7 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v4.0-12-ge90a2e37f4",
+                "glottolog_version": "v4.0-12-ge90a2e3",
                 "concepticon_version": "v2.1.0-6-ga171367"
             }
         }
@@ -31,7 +31,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 27441,
+            "dc:extent": 19200,
             "tableSchema": {
                 "columns": [
                     {
@@ -182,6 +182,22 @@
                     {
                         "datatype": "string",
                         "name": "Family"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "STEDT_Name"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "SubGroup"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Coverage"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Area"
                     }
                 ],
                 "primaryKey": [
@@ -192,7 +208,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 724,
+            "dc:extent": 626,
             "tableSchema": {
                 "columns": [
                     {
