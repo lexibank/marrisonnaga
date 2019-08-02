@@ -1,12 +1,11 @@
 from collections import defaultdict
 
 import lingpy
-from clldutils.misc import slug
 from clldutils.path import Path
 from clldutils.text import split_text, strip_brackets
 from pylexibank.dataset import Dataset as BaseDataset
 from pylexibank.dataset import Language
-from tqdm import tqdm
+from pylexibank.util import pb
 import attr
 
 @attr.s
@@ -25,7 +24,7 @@ class Dataset(BaseDataset):
 
     def clean_form(self, item, form):
         if form not in ["*", "---", ""]:
-            return split_text(strip_brackets(form), ",;/")[0]
+            return strip_brackets(form)
 
     def cmd_install(self, **kw):
         """
@@ -53,7 +52,7 @@ class Dataset(BaseDataset):
             languages = {k["STEDT_Name"]: k['ID'] for k in self.languages}
             ds.add_sources(*self.raw.read_bib())
 
-            for idx, language, concept, value, pos in tqdm(
+            for idx, language, concept, value, pos in pb(
                 data.iter_rows("doculect", "concept", "reflex", "gfn"),
                 desc="cldfify",
                 total=len(data),
@@ -79,5 +78,5 @@ class Dataset(BaseDataset):
                             Language_ID=languages[language],
                             Parameter_ID=concepts[concept],
                             Value=self.lexemes.get(value, value),
-                            Source=["Marrison1967"],
+                            Source=["Marrison1967"]
                         )
