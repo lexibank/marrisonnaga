@@ -8,9 +8,9 @@ This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/
 
 Available online at http://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/source/GEM-CNL
 
-Conceptlists in Concepticon:
-- [Marrison-1967-917](http://concepticon.clld.org/contributions/Marrison-1967-917)
 
+Conceptlists in Concepticon:
+- [Marrison-1967-917](https://concepticon.clld.org/contributions/Marrison-1967-917)
 ## Notes
 
 This dataset was digitized by the STEDT project and is offered here in enhanced transcription (based on our reading of the data), including morphological segmentation where this was indicated in the source.
