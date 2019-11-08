@@ -8,9 +8,9 @@ This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/
 
 Available online at http://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/source/GEM-CNL
 
-Conceptlists in Concepticon:
-- [Marrison-1967-917](http://concepticon.clld.org/contributions/Marrison-1967-917)
 
+Conceptlists in Concepticon:
+- [Marrison-1967-917](https://concepticon.clld.org/contributions/Marrison-1967-917)
 ## Notes
 
 This dataset was digitized by the STEDT project and is offered here in enhanced transcription (based on our reading of the data), including morphological segmentation where this was indicated in the source.
@@ -22,17 +22,17 @@ This dataset was digitized by the STEDT project and is offered here in enhanced 
 
 [![Build Status](https://travis-ci.org/lexibank/marrisonnaga.svg?branch=master)](https://travis-ci.org/lexibank/marrisonnaga)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 94%](https://img.shields.io/badge/Concepticon-94%25-green.svg "Concepticon: 94%")
+![Concepticon: 95%](https://img.shields.io/badge/Concepticon-95%25-green.svg "Concepticon: 95%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 40
-- **Concepts:** 724
-- **Lexemes:** 27,441
+- **Concepts:** 626
+- **Lexemes:** 19,200
 - **Sources:** 1
-- **Synonymy:** 1.31
+- **Synonymy:** 1.12
 - **Invalid lexemes:** 0
-- **Tokens:** 136,291
-- **Segments:** 132 (0 BIPA errors, 0 CTLS sound class errors, 132 CLTS modified)
-- **Inventory size (avg):** 41.10
+- **Tokens:** 101,229
+- **Segments:** 122 (0 BIPA errors, 0 CTLS sound class errors, 122 CLTS modified)
+- **Inventory size (avg):** 39.08

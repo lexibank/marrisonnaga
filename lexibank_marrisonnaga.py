@@ -1,80 +1,64 @@
 from collections import defaultdict
-
-import lingpy
+from pathlib import Path
+from pylexibank.dataset import Dataset as BaseDataset
+from pylexibank import Language
+from pylexibank import FormSpec
+from pylexibank.util import pb
 from clldutils.misc import slug
-from clldutils.path import Path
-from clldutils.text import split_text, strip_brackets
-from pylexibank.dataset import NonSplittingDataset
-from tqdm import tqdm
+import lingpy
+import attr
 
+@attr.s
+class CustomLanguage(Language):
+    STEDT_Name = attr.ib(default=None)
+    SubGroup = attr.ib(default=None)
+    Coverage = attr.ib(default=None)
+    Longitude = attr.ib(default=None)
+    Latitude = attr.ib(default=None)
+    Area = attr.ib(default=None)
 
-class Dataset(NonSplittingDataset):
+class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "marrisonnaga"
+    language_class = CustomLanguage
+    form_spec = FormSpec(
+            missing_data=("*", "---", ""),
+            brackets={"[": "]", "(": ")"}
+            )
 
-    def clean_form(self, item, form):
-        if form not in ["*", "---", ""]:
-            return split_text(strip_brackets(form), ",;/")[0]
-
-    def cmd_install(self, **kw):
+    def cmd_makecldf(self, args):
         """
         Convert the raw data to a CLDF dataset.
         """
-
-        data = lingpy.Wordlist(self.dir.joinpath("raw", "GEM-CNL.csv").as_posix())
-
-        languages, concepts = {}, {}
+        wl = lingpy.Wordlist(self.raw_dir.joinpath("GEM-CNL.csv").as_posix())
+        concept_lookup = args.writer.add_concepts(
+                id_factory=lambda x: x.id.split('-')[-1]+'_'+slug(x.english),
+                lookup_factory="Name"
+                )
+        language_lookup = args.writer.add_languages(
+                lookup_factory="STEDT_Name")
+        args.writer.add_sources()
+        # check for missing items
         missing = defaultdict(int)
-        with self.cldf as ds:
-            concepts = {c.english: c.id for c in self.conceptlist.concepts.values()}
-            for c in self.concepts:
-                if c["ENGLISH"] not in concepts:
-                    concepts[c["ENGLISH"]] = c["ID"]
-                ds.add_concept(
-                    ID=c["ID"],
-                    Name=c["ENGLISH"],
-                    Concepticon_ID=c["CONCEPTICON_ID"],
-                    Concepticon_Gloss=c["CONCEPTICON_GLOSS"],
+        for idx, language, concept, value, pos in pb(
+            wl.iter_rows("doculect", "concept", "reflex", "gfn")):
+            if concept not in concept_lookup:
+                if pos == "n":
+                    if concept + " (noun)" in concept_lookup:
+                        concept = concept + " (noun)"
+                    else:
+                        missing[concept] += 1
+                elif pos == "adj":
+                    if concept + " (adj.)" in concept_lookup:
+                        concept = concept + " (adj.)"
+                    else:
+                        missing[concept] += 1
+                else:
+                    missing[concept] += 1
+            if concept not in missing:
+                args.writer.add_forms_from_value(
+                    Language_ID=language_lookup[language],
+                    Parameter_ID=concept_lookup[concept],
+                    Value=value,
+                    Source=["Marrison1967"]
                 )
-
-            ds.add_concepts(id_factory=lambda c: c.id)
-
-            for language in self.languages:
-                ds.add_language(
-                    ID=slug(language["Language_in_source"]),
-                    Glottocode=language["Glottolog"],
-                    Name=language["Language_in_STEDT"],
-                )
-                languages[language["Language_in_STEDT"]] = slug(language["Language_in_source"])
-
-            ds.add_sources(*self.raw.read_bib())
-            for idx, language, concept, value, pos in tqdm(
-                data.iter_rows("doculect", "concept", "reflex", "gfn"),
-                desc="cldfify",
-                total=len(data),
-            ):
-
-                if value.strip():
-                    if concept not in concepts:
-                        if pos == "n":
-                            if concept + " (noun)" in concepts:
-                                concept = concept + " (noun)"
-                            else:
-                                missing[concept] += 1
-                        elif pos == "adj":
-                            if concept + " (adj.)" in concepts:
-                                concept = concept + " (adj.)"
-                            else:
-                                missing[concept] += 1
-                        else:
-                            missing[concept] += 1
-
-                    if concept not in missing:
-                        ds.add_lexemes(
-                            Language_ID=languages[language],
-                            Parameter_ID=concepts[concept],
-                            Value=self.lexemes.get(value, value),
-                            Source=["Marrison1967"],
-                        )
-            for i, m in enumerate(missing):
-                print(str(i + 1) + "\t" + m)
