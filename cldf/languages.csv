@@ -1,41 +1,41 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,STEDT_Name,SubGroup,Coverage,Area
-Chang,Chang,chan1313,,nbc,,26.2667,94.0833,Sino-Tibetan,Chang,Konyak,936,India
-Chokri,Chokri,chok1243,,nri,,25.6833,94.2667,Sino-Tibetan,Chokri,Angami,519,India
-ChungliAo,Ao Chungli,aona1235,,njo,,26.3167,94.5167,Sino-Tibetan,Ao (Chungli),Ao,984,India
-Dimasa,Dimasa,dima1251,,dis,,25.42,93.18,Sino-Tibetan,Dimasa,Boro,917,Myanmar
-Jingpho,Jingpho,jing1260,,kac,,25.461826,97.329866,Sino-Tibetan,Jingpho,Kachin,1029,India
-Kezhama,Kezhama,khez1235,,nkh,,25.5167,94.2,Sino-Tibetan,Khezha,Angami,149,India
-Khoirao,Khoirao,than1255,,nki,,25.2167,94.0333,Sino-Tibetan,Khoirao,Zemeic,406,India
-KhonomaAngami,Angami Khonoma,khon1248,,njm,,25.65,94.0333,Sino-Tibetan,Angami (Khonoma),Angami,842,India
-KohimaAngami,Angami Kohima,anga1288,,njm,,25.55,94.1333,Sino-Tibetan,Angami (Kohima),Angami,971,India
-Konyak,Konyak,kony1246,,nbe,,26.55,95.05,Sino-Tibetan,Konyak,Konyak,979,India
-Liangmai,Liangmai,lian1251,,njn,,25.3667,93.6333,Sino-Tibetan,Liangmei,Zemeic,724,India
-Lotha,Lotha,loth1237,,njh,,26.1,94.2667,Sino-Tibetan,Lotha Naga,Lotha,1068,India
-Lushai,Lushai,lush1249,,lus,,22.60535,92.629457,Sino-Tibetan,Lushai [Mizo],Kuki Chin-Central,1105,India
-Manipuri,Manipuri,mani1292,,mni,,24.44,93.34,Sino-Tibetan,Meithei,Other Tibeto-Burman,970,India
-Mao,Mao,maon1238,,nbi,,25.4667,94.1167,Sino-Tibetan,Mao,Angami,712,India
-Maram,Maram,mara1379,,nma,,25.4333,94.15,Sino-Tibetan,Maram,Zemeic,352,India
-Maring,Maring,mari1416,,nng,,24.05,94.0333,Sino-Tibetan,Maring,Maringic,418,India
-Meluri,Meluri,poch1243,,npo,,25.0667,94.6333,Sino-Tibetan,Meluri,Pochuri,316,India
-Mikir,Mikir,karb1241,,mjw,,25.735084,93.050494,Sino-Tibetan,Mikir [Karbi],Other Tibeto-Burman,1341,India
-MongsenAo,Ao Mongsen,mong1332,,njo,,26.4167,94.4,Sino-Tibetan,Ao (Mongsen: Longchang),Ao,917,India
-MoshangTangsa,Tangsa (Moshang),mosa1240,,nst,,,,Sino-Tibetan,Tangsa (Moshang),Yacham-Tengsa,313,India
-Mzieme,Mzieme,mzie1235,,nme,,25.5167,93.75,Sino-Tibetan,Mzieme,Zemeic,581,India
-Nocte,Nocte,noct1238,,njb,,27.1167,95.4833,Sino-Tibetan,Nocte,Nocte,395,India
-Nruanghmei,Nruanghmei,rong1266,,nbu,,25.0,93.05,Sino-Tibetan,Rongmei / Nruanghmei,Zemeic,811,India
-Ntenyi,Ntenyi,nort2725,,nnl,,25.9833,94.0333,Sino-Tibetan,Ntenyi,Rengma,636,India
-Phom,Phom,phom1236,,nph,,26.6167,94.05,Sino-Tibetan,Phom,Konyak,679,India
-Puiron,Puiron,rong1266,,nbu,,25.1,93.79,Sino-Tibetan,Puiron,Zemeic,385,India
-Rengma,Rengma,sout2732,,nre,,25.0667,94.6333,Sino-Tibetan,Rengma,Rengma,803,India
-Sangtam,Sangtam,sang1321,,nsa,,25.0667,94.8667,Sino-Tibetan,Sangtam,Sangtam,853,India
-Sema,Sema,sumi1235,,nsm,,25.85,94.2667,Sino-Tibetan,Sema [Sumi],Angami,920,India
-Tangkhul,Tangkhul,sino1246,,nmf,,25.1167,94.3667,Sino-Tibetan,Tangkhul,Tangkhulic,945,India
-Tengsa,Tengsa,teng1273,,njo,,26.95,95.0667,Sino-Tibetan,Tengsa,Yacham-Tengsa,5,India
-Wancho,Wancho,wanc1238,,nnp,,26.9667,95.8167,Sino-Tibetan,Wancho,Konyak,464,India
-WrittenBurmese,Burmese (Written),oldb1235,,,,21.624974,97.126742,Sino-Tibetan,Burmese (Written),Burmese,985,Myanmar
-WrittenTibetan,Tibetan (Written),clas1254,,xct,,30.027852,91.158704,Sino-Tibetan,Tibetan (Written),Tibetan,1134,China
-Yacham,Yacham,yach1235,,njo,,26.6167,94.7833,Sino-Tibetan,Yacham,Yacham-Tengsa,5,India
-YachamTengsa,Yacham-Tengsa,yach1234,,njo,,,,Sino-Tibetan,Yacham-Tengsa,Yacham-Tengsa,270,India
-Yimchungru,Yimchungrü,yimc1241,,yim,,25.7167,94.9167,Sino-Tibetan,Yimchungrü,Yimchingric,536,India
-YogliTangsa,Tangsa (Yogli),yogl1238,,nst,,,,Sino-Tibetan,Tangsa (Yogli),Yacham-Tengsa,225,India
-Zeme,Zeme,zeme1240,,nzm,,25.1833,93.2,Sino-Tibetan,Zeme,Zemeic,834,India
+Chang,Chang,chan1313,Chang Naga,nbc,Eurasia,26.2667,94.0833,Sino-Tibetan,Chang,Konyak,936,India
+Chokri,Chokri,chok1243,Chokri Naga,nri,Eurasia,25.6833,94.2667,Sino-Tibetan,Chokri,Angami,519,India
+ChungliAo,Ao Chungli,aona1235,Ao Naga,njo,Eurasia,26.3167,94.5167,Sino-Tibetan,Ao (Chungli),Ao,984,India
+Dimasa,Dimasa,dima1251,Dimasa,dis,Eurasia,25.42,93.18,Sino-Tibetan,Dimasa,Boro,917,Myanmar
+Jingpho,Jingpho,jing1260,Jingpho,kac,,25.461826,97.329866,Sino-Tibetan,Jingpho,Kachin,1029,India
+Kezhama,Kezhama,khez1235,Khezha Naga,nkh,Eurasia,25.5167,94.2,Sino-Tibetan,Khezha,Angami,149,India
+Khoirao,Khoirao,than1255,Thangal Naga,nki,Eurasia,25.2167,94.0333,Sino-Tibetan,Khoirao,Zemeic,406,India
+KhonomaAngami,Angami Khonoma,khon1248,Khonoma,njm,Eurasia,25.65,94.0333,Sino-Tibetan,Angami (Khonoma),Angami,842,India
+KohimaAngami,Angami Kohima,anga1288,Angami Naga,njm,Eurasia,25.55,94.1333,Sino-Tibetan,Angami (Kohima),Angami,971,India
+Konyak,Konyak,kony1246,Konyak,nbe,,26.55,95.05,Sino-Tibetan,Konyak,Konyak,979,India
+Liangmai,Liangmai,lian1251,Liangmai Naga,njn,Eurasia,25.3667,93.6333,Sino-Tibetan,Liangmei,Zemeic,724,India
+Lotha,Lotha,loth1237,Lotha Naga,njh,Eurasia,26.1,94.2667,Sino-Tibetan,Lotha Naga,Lotha,1068,India
+Lushai,Lushai,lush1249,Mizo,lus,Eurasia,22.60535,92.629457,Sino-Tibetan,Lushai [Mizo],Kuki Chin-Central,1105,India
+Manipuri,Manipuri,mani1292,Manipuri,mni,Eurasia,24.44,93.34,Sino-Tibetan,Meithei,Other Tibeto-Burman,970,India
+Mao,Mao,maon1238,Mao Naga,nbi,Eurasia,25.4667,94.1167,Sino-Tibetan,Mao,Angami,712,India
+Maram,Maram,mara1379,Maram Naga,nma,Eurasia,25.4333,94.15,Sino-Tibetan,Maram,Zemeic,352,India
+Maring,Maring,mari1416,Maring Naga,nng,Eurasia,24.05,94.0333,Sino-Tibetan,Maring,Maringic,418,India
+Meluri,Meluri,poch1243,Pochuri Naga,npo,Eurasia,25.0667,94.6333,Sino-Tibetan,Meluri,Pochuri,316,India
+Mikir,Mikir,karb1241,Hills Karbi,mjw,Eurasia,25.735084,93.050494,Sino-Tibetan,Mikir [Karbi],Other Tibeto-Burman,1341,India
+MongsenAo,Ao Mongsen,mong1332,Mongsen,njo,Eurasia,26.4167,94.4,Sino-Tibetan,Ao (Mongsen: Longchang),Ao,917,India
+MoshangTangsa,Tangsa (Moshang),mosa1240,Mosang,nst,Eurasia,,,Sino-Tibetan,Tangsa (Moshang),Yacham-Tengsa,313,India
+Mzieme,Mzieme,mzie1235,Mzieme Naga,nme,Eurasia,25.5167,93.75,Sino-Tibetan,Mzieme,Zemeic,581,India
+Nocte,Nocte,noct1238,Nocte Naga,njb,Eurasia,27.1167,95.4833,Sino-Tibetan,Nocte,Nocte,395,India
+Nruanghmei,Nruanghmei,rong1266,Rongmei Naga,nbu,Eurasia,25.0,93.05,Sino-Tibetan,Rongmei / Nruanghmei,Zemeic,811,India
+Ntenyi,Ntenyi,nort2725,Northern Rengma Naga,nnl,Eurasia,25.9833,94.0333,Sino-Tibetan,Ntenyi,Rengma,636,India
+Phom,Phom,phom1236,Phom Naga,nph,Eurasia,26.6167,94.05,Sino-Tibetan,Phom,Konyak,679,India
+Puiron,Puiron,rong1266,Rongmei Naga,nbu,Eurasia,25.1,93.79,Sino-Tibetan,Puiron,Zemeic,385,India
+Rengma,Rengma,sout2732,Southern Rengma Naga,nre,Eurasia,25.0667,94.6333,Sino-Tibetan,Rengma,Rengma,803,India
+Sangtam,Sangtam,sang1321,Sangtam Naga,nsa,Eurasia,25.0667,94.8667,Sino-Tibetan,Sangtam,Sangtam,853,India
+Sema,Sema,sumi1235,Sumi Naga,nsm,Eurasia,25.85,94.2667,Sino-Tibetan,Sema [Sumi],Angami,920,India
+Tangkhul,Tangkhul,sino1246,Tangkhulic,nmf,,25.1167,94.3667,Sino-Tibetan,Tangkhul,Tangkhulic,945,India
+Tengsa,Tengsa,teng1273,Tengsa,njo,,26.95,95.0667,Sino-Tibetan,Tengsa,Yacham-Tengsa,5,India
+Wancho,Wancho,wanc1238,Wancho Naga,nnp,Eurasia,26.9667,95.8167,Sino-Tibetan,Wancho,Konyak,464,India
+WrittenBurmese,Burmese (Written),oldb1235,Old Burmese,,Eurasia,21.624974,97.126742,Sino-Tibetan,Burmese (Written),Burmese,985,Myanmar
+WrittenTibetan,Tibetan (Written),clas1254,Classical Tibetan,xct,Eurasia,30.027852,91.158704,Sino-Tibetan,Tibetan (Written),Tibetan,1134,China
+Yacham,Yacham,yach1235,Yacham,njo,,26.6167,94.7833,Sino-Tibetan,Yacham,Yacham-Tengsa,5,India
+YachamTengsa,Yacham-Tengsa,yach1234,Yacham-Tengsa,njo,,,,Sino-Tibetan,Yacham-Tengsa,Yacham-Tengsa,270,India
+Yimchungru,Yimchungrü,yimc1241,Yimchungru,yim,Eurasia,25.7167,94.9167,Sino-Tibetan,Yimchungrü,Yimchingric,536,India
+YogliTangsa,Tangsa (Yogli),yogl1238,Yogli,nst,Eurasia,,,Sino-Tibetan,Tangsa (Yogli),Yacham-Tengsa,225,India
+Zeme,Zeme,zeme1240,Zeme Naga,nzm,Eurasia,25.1833,93.2,Sino-Tibetan,Zeme,Zemeic,834,India
