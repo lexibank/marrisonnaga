@@ -29,7 +29,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 55_bee,bee,665,BEE
 56_beetle,beetle,2242,BEETLE
 57_before,before,1882,BEFORE
-60_bellows,bellows,,
+60_bellows,bellows,3658,BELLOWS
 61_belly,belly,1251,BELLY
 62_beltgirdle,belt (girdle),772,BELT
 63_beltforweaving,belt (for weaving),,
@@ -54,7 +54,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 87_bracelet,bracelet,1754,BRACELET
 88_brain,brain,1583,BRAIN
 89_branch,branch,1531,BRANCH
-90_brass,brass,,
+90_brass,brass,3743,BRASS
 91_brave,brave,3,BRAVE
 92_bread,bread,1368,BREAD
 94_breast,breast,1402,BREAST
@@ -104,7 +104,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 158_cotton,cotton,1850,COTTON
 161_country,country,1300,COUNTRY
 163_cow,cow,1007,COW
-164_cowrie,cowrie,,
+164_cowrie,cowrie,3663,COWRIE SHELL
 165_crab,crab,2348,CRAB
 166_creeper,creeper,,
 167_crooked,crooked,297,CROOKED
@@ -248,7 +248,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 358_hook,hook,1071,HOOK
 361_horn,horn,1393,HORN (ANATOMY)
 362_hornbill,hornbill,,
-363_hornet,hornet,,
+363_hornet,hornet,3261,HORNET
 364_horse,horse,615,HORSE
 365_hot,hot,1286,HOT
 366_house,house,1252,HOUSE
@@ -503,7 +503,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 727_stone,stone,857,STONE
 728_storm,storm,858,STORM
 729_straight,straight,1404,STRAIGHT
-730_straw,straw,2230,UNTAMED OR WILD
+730_straw,straw,2299,STRAW
 731_strong,strong,785,STRONG
 733_suddenly,suddenly,2920,SUDDENLY
 735_sugar,sugar,862,SUGAR

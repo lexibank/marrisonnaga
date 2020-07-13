@@ -1,4 +1,4 @@
-# Naga Languages of North-East India
+# CLDF dataset derived from Marrison's "Naga Languages of North-East India" from 1967
 
 Cite the source dataset as
 
@@ -36,3 +36,14 @@ This dataset was digitized by the STEDT project and is offered here in enhanced 
 - **Tokens:** 101,229
 - **Segments:** 122 (0 BIPA errors, 0 CTLS sound class errors, 122 CLTS modified)
 - **Inventory size (avg):** 39.08
+
+# Contributors
+
+Name               | GitHub user | Description | Role
+---                | ---         | --- | ---
+Johann-Mattis List | @LinguList  | | maintainer
+Mei-Shin Wu        | @MacyL      | | maintainer
+Tiago Tresoldi     | @tresoldi   | help with coding | Other
+STEDT      |             | | Distributor
+
+

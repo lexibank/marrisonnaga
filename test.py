@@ -1,3 +1,8 @@
+import pytest
+import os
+from pylexibank import check_standard_title
+
+
 def test_valid(cldf_dataset, cldf_logger):
     assert cldf_dataset.validate(log=cldf_logger)
 
@@ -13,3 +18,10 @@ def test_parameters(cldf_dataset):
 
 def test_languages(cldf_dataset):
     assert len(list(cldf_dataset["LanguageTable"])) == 40
+
+
+@pytest.mark.skipif(
+    "TRAVIS" in os.environ and os.environ["TRAVIS"] == "true", reason="Running on Travis"
+)
+def test_valid_title(cldf_dataset, cldf_logger):
+    check_standard_title(cldf_dataset.metadata_dict["dc:title"])
