@@ -16,5 +16,5 @@ setup(
     zip_safe=False,
     entry_points={"lexibank.dataset": ["marrisonnaga=lexibank_marrisonnaga:Dataset"]},
     install_requires=["pylexibank>=2.1", "segments>=2.0.2"],
-    extras_require={"test": ["pytest-cldf", "pylexibank>=2.1"]},
+    extras_require={"test": ["pytest-cldf"]},
 )
