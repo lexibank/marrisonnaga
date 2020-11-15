@@ -1,1 +1,1 @@
-This dataset was digitized by the STEDT project and is offered here in enhanced transcription (based on our reading of the data), including morphological segmentation where this was indicated in the source.
+This dataset was digitized by the STEDT project. In order to provide a CLTS-based interpretation of the original transcription, we tried our best to map ambiguous sounds, but left many cases where we have potential doubts by marking original source graphemes along with our conversion.

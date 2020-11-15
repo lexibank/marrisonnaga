@@ -1,41 +1,41 @@
-"ID","STEDT_Name","Name","Glottocode","ISO639P3code","Coverage","Latitude","Longitude","Area","Family","SubGroup"
-"Chang","Chang","Chang","chan1313","nbc",936,26.2667,94.0833,"India","Sino-Tibetan","Konyak"
-"Chokri","Chokri","Chokri","chok1243","nri",519,25.6833,94.2667,"India","Sino-Tibetan","Angami"
-"ChungliAo","Ao (Chungli)","Ao Chungli","aona1235","njo",984,26.3167,94.5167,"India","Sino-Tibetan","Ao"
-"Dimasa","Dimasa","Dimasa","dima1251","dis",917,25.42,93.18,"Myanmar","Sino-Tibetan","Boro"
-"Jingpho","Jingpho","Jingpho","jing1260","kac",1029,25.461826,97.329866,"India","Sino-Tibetan","Kachin"
-"Kezhama","Khezha","Kezhama","khez1235","nkh",149,25.5167,94.2,"India","Sino-Tibetan","Angami"
-"Khoirao","Khoirao","Khoirao","than1255","nki",406,25.2167,94.0333,"India","Sino-Tibetan","Zemeic"
-"KhonomaAngami","Angami (Khonoma)","Angami Khonoma","khon1248","njm",842,25.65,94.0333,"India","Sino-Tibetan","Angami"
-"KohimaAngami","Angami (Kohima)","Angami Kohima","anga1288","njm",971,25.55,94.1333,"India","Sino-Tibetan","Angami"
-"Konyak","Konyak","Konyak","kony1246","nbe",979,26.55,95.05,"India","Sino-Tibetan","Konyak"
-"Liangmai","Liangmei","Liangmai","lian1251","njn",724,25.3667,93.6333,"India","Sino-Tibetan","Zemeic"
-"Lotha","Lotha Naga","Lotha","loth1237","njh",1068,26.1,94.2667,"India","Sino-Tibetan","Lotha"
-"Lushai","Lushai [Mizo]","Lushai","lush1249","lus",1105,22.60535,92.629457,"India","Sino-Tibetan","Kuki Chin-Central"
-"Manipuri","Meithei","Manipuri","mani1292","mni",970,24.44,93.34,"India","Sino-Tibetan","Other Tibeto-Burman"
-"Mao","Mao","Mao","maon1238","nbi",712,25.4667,94.1167,"India","Sino-Tibetan","Angami"
-"Maram","Maram","Maram","mara1379","nma",352,25.4333,94.15,"India","Sino-Tibetan","Zemeic"
-"Maring","Maring","Maring","mari1416","nng",418,24.05,94.0333,"India","Sino-Tibetan","Maringic"
-"Meluri","Meluri","Meluri","poch1243","npo",316,25.0667,94.6333,"India","Sino-Tibetan","Pochuri"
-"Mikir","Mikir [Karbi]","Mikir","karb1241","mjw",1341,25.735084,93.050494,"India","Sino-Tibetan","Other Tibeto-Burman"
-"MongsenAo","Ao (Mongsen: Longchang)","Ao Mongsen","mong1332","njo",917,26.4167,94.4,"India","Sino-Tibetan","Ao"
-"MoshangTangsa","Tangsa (Moshang)","Tangsa (Moshang)","mosa1240","nst",313,,,"India","Sino-Tibetan","Yacham-Tengsa"
-"Mzieme","Mzieme","Mzieme","mzie1235","nme",581,25.5167,93.75,"India","Sino-Tibetan","Zemeic"
-"Nocte","Nocte","Nocte","noct1238","njb",395,27.1167,95.4833,"India","Sino-Tibetan","Nocte"
-"Nruanghmei","Rongmei / Nruanghmei","Nruanghmei","rong1266","nbu",811,"25.0",93.05,"India","Sino-Tibetan","Zemeic"
-"Ntenyi","Ntenyi","Ntenyi","nort2725","nnl",636,25.9833,94.0333,"India","Sino-Tibetan","Rengma"
-"Phom","Phom","Phom","phom1236","nph",679,26.6167,94.05,"India","Sino-Tibetan","Konyak"
-"Puiron","Puiron","Puiron","rong1266","nbu",385,25.1,93.79,"India","Sino-Tibetan","Zemeic"
-"Rengma","Rengma","Rengma","sout2732","nre",803,25.0667,94.6333,"India","Sino-Tibetan","Rengma"
-"Sangtam","Sangtam","Sangtam","sang1321","nsa",853,25.0667,94.8667,"India","Sino-Tibetan","Sangtam"
-"Sema","Sema [Sumi]","Sema","sumi1235","nsm",920,25.85,94.2667,"India","Sino-Tibetan","Angami"
-"Tangkhul","Tangkhul","Tangkhul","sino1246","nmf",945,25.1167,94.3667,"India","Sino-Tibetan","Tangkhulic"
-"Tengsa","Tengsa","Tengsa","teng1273","njo",5,26.95,95.0667,"India","Sino-Tibetan","Yacham-Tengsa"
-"Wancho","Wancho","Wancho","wanc1238","nnp",464,26.9667,95.8167,"India","Sino-Tibetan","Konyak"
-"WrittenBurmese","Burmese (Written)","Burmese (Written)","oldb1235",,985,21.624974,97.126742,"Myanmar","Sino-Tibetan","Burmese"
-"WrittenTibetan","Tibetan (Written)","Tibetan (Written)","clas1254","xct",1134,30.027852,91.158704,"China","Sino-Tibetan","Tibetan"
-"Yacham","Yacham","Yacham","yach1235","njo",5,26.6167,94.7833,"India","Sino-Tibetan","Yacham-Tengsa"
-"YachamTengsa","Yacham-Tengsa","Yacham-Tengsa","yach1234","njo",270,,,"India","Sino-Tibetan","Yacham-Tengsa"
-"Yimchungru","Yimchungrü","Yimchungrü","yimc1241","yim",536,25.7167,94.9167,"India","Sino-Tibetan","Yimchingric"
-"YogliTangsa","Tangsa (Yogli)","Tangsa (Yogli)","yogl1238","nst",225,,,"India","Sino-Tibetan","Yacham-Tengsa"
-"Zeme","Zeme","Zeme","zeme1240","nzm",834,25.1833,93.2,"India","Sino-Tibetan","Zemeic"
+ID,STEDT_Name,Name,Glottocode,ISO639P3code,Coverage,Latitude,Longitude,Area,Family,SubGroup,Macroarea
+Chang,Chang,Chang,chan1313,nbc,936,26.2667,94.0833,India,Sino-Tibetan,Konyak,Eurasia
+Chokri,Chokri,Chokri,chok1243,nri,519,25.6833,94.2667,India,Sino-Tibetan,Angami,Eurasia
+ChungliAo,Ao (Chungli),Ao Chungli,aona1235,njo,984,26.3167,94.5167,India,Sino-Tibetan,Ao,Eurasia
+Dimasa,Dimasa,Dimasa,dima1251,dis,917,25.42,93.18,Myanmar,Sino-Tibetan,Boro,Eurasia
+Jingpho,Jingpho,Jingpho,jing1260,kac,1029,25.461826,97.329866,India,Sino-Tibetan,Kachin,Eurasia
+Kezhama,Khezha,Kezhama,khez1235,nkh,149,25.5167,94.2,India,Sino-Tibetan,Angami,Eurasia
+Khoirao,Khoirao,Khoirao,than1255,nki,406,25.2167,94.0333,India,Sino-Tibetan,Zemeic,Eurasia
+KhonomaAngami,Angami (Khonoma),Angami Khonoma,khon1248,njm,842,25.65,94.0333,India,Sino-Tibetan,Angami,Eurasia
+KohimaAngami,Angami (Kohima),Angami Kohima,anga1288,njm,971,25.55,94.1333,India,Sino-Tibetan,Angami,Eurasia
+Konyak,Konyak,Konyak,kony1246,nbe,979,26.55,95.05,India,Sino-Tibetan,Konyak,Eurasia
+Liangmai,Liangmei,Liangmai,lian1251,njn,724,25.3667,93.6333,India,Sino-Tibetan,Zemeic,Eurasia
+Lotha,Lotha Naga,Lotha,loth1237,njh,1068,26.1,94.2667,India,Sino-Tibetan,Lotha,Eurasia
+Lushai,Lushai [Mizo],Lushai,lush1249,lus,1105,22.60535,92.629457,India,Sino-Tibetan,Kuki Chin-Central,Eurasia
+Manipuri,Meithei,Manipuri,mani1292,mni,970,24.44,93.34,India,Sino-Tibetan,Other Tibeto-Burman,Eurasia
+Mao,Mao,Mao,maon1238,nbi,712,25.4667,94.1167,India,Sino-Tibetan,Angami,Eurasia
+Maram,Maram,Maram,mara1379,nma,352,25.4333,94.15,India,Sino-Tibetan,Zemeic,Eurasia
+Maring,Maring,Maring,mari1416,nng,418,24.05,94.0333,India,Sino-Tibetan,Maringic,Eurasia
+Meluri,Meluri,Meluri,poch1243,npo,316,25.0667,94.6333,India,Sino-Tibetan,Pochuri,Eurasia
+Mikir,Mikir [Karbi],Mikir,karb1241,mjw,1341,25.735084,93.050494,India,Sino-Tibetan,Other Tibeto-Burman,Eurasia
+MongsenAo,Ao (Mongsen: Longchang),Ao Mongsen,mong1332,njo,917,26.4167,94.4,India,Sino-Tibetan,Ao,Eurasia
+MoshangTangsa,Tangsa (Moshang),Tangsa (Moshang),mosa1240,nst,313,,,India,Sino-Tibetan,Yacham-Tengsa,Eurasia
+Mzieme,Mzieme,Mzieme,mzie1235,nme,581,25.5167,93.75,India,Sino-Tibetan,Zemeic,Eurasia
+Nocte,Nocte,Nocte,noct1238,njb,395,27.1167,95.4833,India,Sino-Tibetan,Nocte,Eurasia
+Nruanghmei,Rongmei / Nruanghmei,Nruanghmei,rong1266,nbu,811,25.0,93.05,India,Sino-Tibetan,Zemeic,Eurasia
+Ntenyi,Ntenyi,Ntenyi,nort2725,nnl,636,25.9833,94.0333,India,Sino-Tibetan,Rengma,Eurasia
+Phom,Phom,Phom,phom1236,nph,679,26.6167,94.05,India,Sino-Tibetan,Konyak,Eurasia
+Puiron,Puiron,Puiron,rong1266,nbu,385,25.1,93.79,India,Sino-Tibetan,Zemeic,Eurasia
+Rengma,Rengma,Rengma,sout2732,nre,803,25.0667,94.6333,India,Sino-Tibetan,Rengma,Eurasia
+Sangtam,Sangtam,Sangtam,sang1321,nsa,853,25.0667,94.8667,India,Sino-Tibetan,Sangtam,Eurasia
+Sema,Sema [Sumi],Sema,sumi1235,nsm,920,25.85,94.2667,India,Sino-Tibetan,Angami,Eurasia
+Tangkhul,Tangkhul,Tangkhul,sino1246,nmf,945,25.1167,94.3667,India,Sino-Tibetan,Tangkhulic,Eurasia
+Tengsa,Tengsa,Tengsa,teng1273,njo,5,26.95,95.0667,India,Sino-Tibetan,Yacham-Tengsa,Eurasia
+Wancho,Wancho,Wancho,wanc1238,nnp,464,26.9667,95.8167,India,Sino-Tibetan,Konyak,Eurasia
+WrittenBurmese,Burmese (Written),Burmese (Written),oldb1235,,985,21.624974,97.126742,Myanmar,Sino-Tibetan,Burmese,Eurasia
+WrittenTibetan,Tibetan (Written),Tibetan (Written),clas1254,xct,1134,30.027852,91.158704,China,Sino-Tibetan,Tibetan,Eurasia
+Yacham,Yacham,Yacham,yach1235,njo,5,26.6167,94.7833,India,Sino-Tibetan,Yacham-Tengsa,Eurasia
+YachamTengsa,Yacham-Tengsa,Yacham-Tengsa,yach1234,njo,270,,,India,Sino-Tibetan,Yacham-Tengsa,Eurasia
+Yimchungru,Yimchungrü,Yimchungrü,yimc1241,yim,536,25.7167,94.9167,India,Sino-Tibetan,Yimchingric,Eurasia
+YogliTangsa,Tangsa (Yogli),Tangsa (Yogli),yogl1238,nst,225,,,India,Sino-Tibetan,Yacham-Tengsa,Eurasia
+Zeme,Zeme,Zeme,zeme1240,nzm,834,25.1833,93.2,India,Sino-Tibetan,Zemeic,Eurasia

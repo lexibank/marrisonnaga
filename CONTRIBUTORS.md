@@ -1,8 +1,9 @@
 # Contributors
 
-Name               | GitHub user | Role
----                | ---         | ---
-Johann-Mattis List | @LinguList  | maintainer
-Mei-Shin Wu        | @MacyL      | maintainer
-Tiago Tresoldi     | @tresoldi   | help with coding
-STEDT      |             | digitization
+Name               | GitHub user | Description | Role
+---                | ---         | --- | ---
+Johann-Mattis List | @LinguList  | maintainer | Other
+Mei-Shin Wu        | @MacyL      | maintainer | Other
+Tiago Tresoldi     | @tresoldi   | help with coding | Other
+STEDT      |                     | digitization | Editor
+Marrison, G. E. | | original data collection | Author

@@ -29,7 +29,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 55_bee,bee,665,BEE
 56_beetle,beetle,2242,BEETLE
 57_before,before,1882,BEFORE
-60_bellows,bellows,,
+60_bellows,bellows,3658,BELLOWS
 61_belly,belly,1251,BELLY
 62_beltgirdle,belt (girdle),772,BELT
 63_beltforweaving,belt (for weaving),,
@@ -54,7 +54,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 87_bracelet,bracelet,1754,BRACELET
 88_brain,brain,1583,BRAIN
 89_branch,branch,1531,BRANCH
-90_brass,brass,,
+90_brass,brass,3743,BRASS
 91_brave,brave,3,BRAVE
 92_bread,bread,1368,BREAD
 94_breast,breast,1402,BREAST
@@ -104,7 +104,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 158_cotton,cotton,1850,COTTON
 161_country,country,1300,COUNTRY
 163_cow,cow,1007,COW
-164_cowrie,cowrie,,
+164_cowrie,cowrie,3663,COWRIE SHELL
 165_crab,crab,2348,CRAB
 166_creeper,creeper,,
 167_crooked,crooked,297,CROOKED
@@ -137,7 +137,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 212_dumb,dumb,1492,DUMB
 213_dung,dung,2057,DUNG (ANIMAL FAECES)
 214_dust,dust,2,DUST
-215_each,each,,
+215_each,each,3416,EVERY (EACH)
 216_eagle,eagle,1905,EAGLE
 217_ear,ear,1247,EAR
 218_early,early,672,EARLY
@@ -170,7 +170,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 250_father,father,1217,FATHER
 252_feather,feather,1201,FEATHER
 254_fence,fence,1690,FENCE
-255_fern,fern,,
+255_fern,fern,3802,FERN
 256_fever,fever,1534,FEVER
 257_few,few,3451,FEW PIECES
 258_field,field,212,FIELD
@@ -247,8 +247,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 357_hoof,hoof,152,HOOF
 358_hook,hook,1071,HOOK
 361_horn,horn,1393,HORN (ANATOMY)
-362_hornbill,hornbill,,
-363_hornet,hornet,,
+362_hornbill,hornbill,3260,HORNBILL
+363_hornet,hornet,3261,HORNET
 364_horse,horse,615,HORSE
 365_hot,hot,1286,HOT
 366_house,house,1252,HOUSE
@@ -264,12 +264,12 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 377_insect,insect,620,INSECT
 378_intestines,intestines,1991,INTESTINES
 379_iron,iron,621,IRON
-380_ivory,ivory,,
-381_jackal,jackal,,
+380_ivory,ivory,3800,IVORY
+381_jackal,jackal,3313,JACKAL
 382_jaw,jaw,798,JAW
 386_judgment,judgment,1067,JUDGMENT
 387_juice,juice,1499,JUICE
-389_jungle,jungle,420,FOREST
+389_jungle,jungle,3808,JUNGLE
 391_key,key,1472,KEY
 393_kidney,kidney,489,KIDNEY
 395_kindsort,kind (sort),844,KIND (THING)
@@ -345,7 +345,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 490_much,much,3452,MUCH
 491_mud,mud,640,MUD
 492_must,must,971,MUST
-493_mustard,mustard,,
+493_mustard,mustard,3181,MUSTARD
 494_naked,naked,590,NAKED
 495_name,name,1405,NAME
 496_narrow,narrow,1267,NARROW
@@ -387,8 +387,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 541_palmofhand,palm (of hand),1183,PALM OF HAND
 542_panjibamboostake,panji (bamboo stake),,
 545_peace,peace,1338,PEACE
-546_peacock,peacock,,
-547_pearl,pearl,,
+546_peacock,peacock,3382,PEACOCK
+547_pearl,pearl,3325,PEARL
 548_pen,pen,794,PEN
 549_people,people,789,PEOPLE
 550_person,person,683,PERSON
@@ -446,7 +446,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 634_sea,sea,1474,SEA
 637_seed,seed,714,SEED
 640_self,self,1993,SELF
-643_serow,serow,,
+643_serow,serow,3270,SEROW
 644_servant,servant,255,SERVANT
 646_seven,seven,1704,SEVEN
 647_seventeen,seventeen,2453,SEVENTEEN
@@ -503,7 +503,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 727_stone,stone,857,STONE
 728_storm,storm,858,STORM
 729_straight,straight,1404,STRAIGHT
-730_straw,straw,2230,UNTAMED OR WILD
+730_straw,straw,2299,STRAW
 731_strong,strong,785,STRONG
 733_suddenly,suddenly,2920,SUDDENLY
 735_sugar,sugar,862,SUGAR
@@ -530,7 +530,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 768_theytwo,they two,2635,THEY TWO
 769_thick,thick,1244,THICK
 770_thief,thief,1160,THIEF
-771_thigh,thigh,800,THIGH
+771_thigh,thigh,471,UPPER LEG (THIGH)
 772_thin,thin,2308,THIN
 773_thing,thing,738,THING
 776_thirsty,thirsty,847,THIRSTY
@@ -545,7 +545,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 791_tight,tight,3053,TIGHT
 792_time,time,892,TIME
 793_tired,tired,1757,TIRED
-794_to,to,,
+794_to,to,2754,TOWARDS
 795_tobacco,tobacco,974,TOBACCO
 796_today,today,1283,TODAY
 797_toe,toe,1389,TOE

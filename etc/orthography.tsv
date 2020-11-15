@@ -1,5 +1,5 @@
 Grapheme	IPA
-ś	ʃ
+ś	ś/ʃ
 ó	ó/o
 ^	NULL
 $	NULL
@@ -26,97 +26,97 @@ _	+
 ?$	ʔ
 ?	NULL
 a	a
-á	á
-à	à
-â	â
+á	á/a
+à	à/a
+â	â/a
 ã	ã
-ā	ā
+ā	ā/a
 ḁ	ḁ
 a̱	a̠
 a:	aː
-ā:	āː
+ā:	āː/aː
 a:$	aː
-ā:$	āː
-ā:s	āː s
+ā:$	āː/aː
+ā:s	āː/aː s
 aˊ$	a̰
 aˋ$	a
 a$	a
 â$	aː
-ā$	ā
+ā$	ā/a
 a̱$	a̠
 aa	aː
 aa$	aː
 ai	ai
-ās	ā s
-âw	ɔ:
-åw	ɔ̥
+ās	ā/a s
+âw	âw/au
+åw	åw/au
 au	au
 ɑ	ɑ
 ^e	e
 e	e
-é	é
+é	é/e
 e̊	e̥
-ê	ê
+ê	ê/e
 ei	ei
 e:	eː
 e:$	eː
 e$	e
-ê$	ê
+ê$	ê/e
 ee	eː
 ɛ	ɛ
 ^u	u
 u	u
 u$	u
-ù	ù
+ù	ù/u
 ũ	ũ
 û	uː
-û$	û
+û$	û/u
 ü	ə
 ü$	ə
-ū	ū
-ū:$	ūː
+ū	ū/u
+ū:$	ūː/uː
 ü ss	ə sː
 u:	uː
 u:$	uː
-ū:	ūː
+ū:	ūː/uː
 üh	ə h
 üs	ə s
 üsh	ə ʃ
-üsh$	ə ʃ
-üshw	ə ʃ w
+üsh$	ə sh/ʃ
+üshw	ə sh/ʃ w
 üü	əː
 uu$	uː
 üü$	əː
-üw	ə w
-üwh	ə w̥
+üw	əu
+üwh	əu h
 o	o
-ô	ô
+ô	ô/o
 oo	oː
 oo$	oː
 o:	oː
 o$	o
-ô$	ô
+ô$	ô/o
 ö$	o
 ö	o
 i	i
-î	î
-ï	i
+î	î/i
+ï	ï/i
 i̇	i
-ī	ī
+ī	ī/i
 i:	iː
-ī:	īː
+ī:	īː/iː
 i:$	iː
-ī:$	īː
-ī:h	īː h
-ī:sw	īː sʷ
+ī:$	īː/iː
+ī:h	īː/iː h
+ī:sw	īː/iː s w
 i$	i
-ì	ì
-ì$	ì
-î$	î
-ī$	ī
-ïh$	i̥
-ii	iː
-ii$	iː
+ì	ì/i
+ì$	ì/i
+î$	î/i
+ī$	ī/i
+ïh$	ï/i h
+ii	ii/iː
+ii$	ii/iː
 y	j
 y$	j
 b	b
@@ -124,51 +124,51 @@ b̥	b̥
 b$	b
 bh	bʰ
 bhw	bʰ w
-bs	bs
-bs$	bs
-bw	bʷ
+bs	b s
+bs$	b s
+bw	b w
 bʒ	b ʒ
-c	cç
-C	C
-cc	c c
-ch	cçʰ
-chh	cçʰ h
-chw	cç̥ʰ w
-cw	cʷ
+c	c/tɕ
+C	C/tɕ
+cc	cc/tɕː
+ch	ch/tɕʰ
+chh	chh/tɕʰ
+chw	ch/tɕʰ w
+cw	c/tɕ w
 d	d
 d$	d
 dd	dː
 dh	dʰ
-ds	ds
+ds	d s
 dw	d w
 f	f
 fh	fʰ
-fw	fw
+fw	f w
 g	g
 g:	gː
 g$	g
-gg	g g
-gh	ɣ
-gh:	ɣː
-gh$	ɣ
-ghs	ɣ s
-ghw	ɣʷ
-gs	gs
-gs$	gs
+gg	gː
+gh	gʰ
+gh:	gʰː
+gh$	gʰ
+ghs	gʰ s
+ghw	gʰ w
+gs	g s
+gs$	g s
 gsh	g ʃ
-gw	gʷ
+gw	g w
 ɣ	ɣ
 h	h
-ĥ	h̬
+ĥ	ĥ/h
 h$	h
 hs	h s
-hsh	h ʃ
-hw	hʷ
-j	ʝ
-ĵ	j
-j$	ʝ
-jh	j̥
-jw	ʝʷ
+hsh	h sh/ʃ
+hw	h w
+j	j/dʒ
+ĵ	j/dʒ
+j$	j/dʒ
+jh	jh/dʒʰ
+jw	j/dʒ w
 k	k
 k$	k
 kh	kʰ
@@ -177,60 +177,60 @@ khw	kʰ w
 kk	kː
 ks	k s
 ksh	k ʃ
-kw	kʷ
+kw	k w
 K	k
 l	l
 l$	l
-lh	l̥
-lh$	l̥
-lhw	l̥ w
+lh	lh/l̥
+lh$	lh/l̥
+lhw	lh/l̥ w
 ll	lː
 ls	l s
-lw	lʷ
+lw	l w
 m	m
 m̊	m̥
-ṁ	m̥
+ṁ	ṁ/m
 m̩	m̩
 m:	mː
 m̊:	m̥ː
-ṁ:	m̥ː
+ṁ:	ṁ:/mː
 m:$	mː
 m̊:$	m̥ː
-ṁ:$	m̥:
-ṁ:s	m̥ː s
+ṁ:$	ṁ:/mː
+ṁ:s	ṁ:/mː s
 m$	m
 m̊$	m̥
-ṁ$	m̥
-mh	m̥
-mhˊ	m̥
+ṁ$	ṁ/m
+mh	mh/m̥
+mhˊ	mh/m̥
 mh$	m̥
 mm	mː
 ms	m s
 ms$	m s
-msh	m ʃ
+msh	m sh/ʃ
 mw	m w
 mʼ$	m
 n	n
-N	ŋ
-N$	ŋ
+N	N/ŋ
+N$	N/ŋ
 ñ	ɲ
 ṅ	ŋ
 n:	nː
 ñ:	ɲː
-ṅ:	ŋ:
-ń:	ŋː
+ṅ:	ŋː
+ń:	ńː/nː
 n:$	nː
-ń:$	ŋː
+ń:$	ń:/ŋː
 ñ:$	ɲː
-ṅ:$	ŋ:
+ṅ:$	ŋː
 n:s	nː s
 nˋ$	n
 n$	n
 ñ$	ɲ
 ṅ$	ŋ
 nh	n̥
-ñh	ɲ̥
-ṅh	ŋ̥̥
+ñh	ɲ̊
+ṅh	ŋ̊
 nhˊ$	n̥
 nh$	ŋ̥
 nn	nː
@@ -241,7 +241,7 @@ nn	nː
 ns	n s
 ñs	ɲ s
 ṅs	ŋ̥ s
-ns$	ns
+ns$	n s
 ṅs$	ŋ s
 nsh	n ʃ
 nw	n w
@@ -258,66 +258,66 @@ pf	pf
 ph	pʰ
 pp	p p
 ps	p s
-psh	p  ʃ
-pw	pʷ
+psh	p  sh/ʃ
+pw	p w
 r	r
 r̊	r̥
 r̥a	r̥ a
 r$	r
 r̊$	r̥
-rh	r̥
-rh$	r̥
+rh	rh/r̥
+rh$	rh/r̥
 rr	rː
 rs	r s
-rsh	r ʃ
+rsh	r sh/ʃ
 rw	r w
-rwh	r w̥
+rwh	r wh/w̥
 s	s
 s$	s
-sh	ʃ
-sh$	ʃ
-shw	ʃʷ
+sh	sh/ʃ
+sh$	sh/ʃ
+shw	sh/ʃ w
 ss	sː
 sw	s w
-swh	s w̥
+swh	s wh/w̥
 ʃ	ʃ
 t	t
 ṭ	ʈ
-t̥	t̥
+t̥	t̥/t
 t$	t
 th	tʰ
 ṭh	ʈʰ
-t̥h	t̥ʰ
+t̥h	t̥/tʰ
 th$	tʰ
 ths	tʰ s
-thw	th w
+thw	tʰ w
 ts	ts
 tsh	tsʰ
 tsw	ts w
-tt	t t
-tw	tʷ
+tt	tː
+tw	t w
 v	v
 V	V/ə	
 v$	v
-vh	vʰ
-vw	vʷ
+vh	vh/v̥
+vw	v w
 w	w
 w$	w
-wh	w̥
-wh$	w̥
+wh	wh/w̥
+wh$	wh/w̥
 ws	w s
-xh	x h
+xh	xh/xʰ
 z	z
 z$	z
-zh	ʒ
+zh	zh/ʒ
 zw	z w
 ^ʒ	ʒ
 ʒ	ʒ
 ʔ	ʔ
 ʔ$	ʔ
-ʔsh	ʔ  ʃ
-^e̊rh$	e̥ rʰ
+ʔsh	ʔ  sh/ʃ
+^e̊rh$	e̊/e rh/r̥
 ^thswa$	tsʰ w a
-^gʒima$	gʒ i m a
-^saC$	ts a n
-^tsaw/tsóʔ$	ts a w
+^gʒima$	g ʒ i m a
+^saC$	ts a C/n
+^tsaw/tsóʔ$	ts aw/au
