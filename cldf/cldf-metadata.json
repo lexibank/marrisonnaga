@@ -11,14 +11,14 @@
     "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "Naga Languages of North-East India",
+    "dc:title": "CLDF dataset derived from Marrison's \"Naga Languages of North-East India\" from 1967",
     "dcat:accessURL": "https://github.com/lexibank/marrisonnaga",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/marrisonnaga",
-            "dc:created": "v1.0.1-13-g2948249"
+            "dc:created": "v1.0.1-14-gebf1c6e"
         },
         {
             "rdf:type": "prov:Entity",

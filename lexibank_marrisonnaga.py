@@ -3,7 +3,7 @@ from pathlib import Path
 from pylexibank.dataset import Dataset as BaseDataset
 from pylexibank import Language
 from pylexibank import FormSpec
-from pylexibank.util import pb
+from pylexibank.util import progressbar
 from clldutils.misc import slug
 import lingpy
 import attr
@@ -25,7 +25,6 @@ class Dataset(BaseDataset):
             missing_data=("*", "---", ""),
             brackets={"[": "]", "(": ")"}
             )
-
     def cmd_makecldf(self, args):
         """
         Convert the raw data to a CLDF dataset.
@@ -40,7 +39,7 @@ class Dataset(BaseDataset):
         args.writer.add_sources()
         # check for missing items
         missing = defaultdict(int)
-        for idx, language, concept, value, pos in pb(
+        for idx, language, concept, value, pos in progressbar(
             wl.iter_rows("doculect", "concept", "reflex", "gfn")):
             if concept not in concept_lookup:
                 if pos == "n":
@@ -60,5 +59,5 @@ class Dataset(BaseDataset):
                     Language_ID=language_lookup[language],
                     Parameter_ID=concept_lookup[concept],
                     Value=value,
-                    Source=["Marrison1967"]
+                    Source=["Marrison1967"],
                 )

@@ -1,33 +1,12 @@
 {
-    "title": "Naga Languages of North-East India",
+    "title": "CLDF dataset derived from Marrison's \"Naga Languages of North-East India\" from 1967",
     "access_right": "open",
     "keywords": [
         "cldf:Wordlist",
         "linguistics"
     ],
-    "creators": [
-        {
-            "name": "Marrison, G. E."
-        }
-    ],
-    "contributors": [
-        {
-            "name": "Johann-Mattis List",
-            "type": "Other"
-        },
-        {
-            "name": "Mei-Shin Wu",
-            "type": "Other"
-        },
-        {
-            "name": "Tiago Tresoldi",
-            "type": "Other"
-        },
-        {
-            "name": "STEDT",
-            "type": "Editor"
-        }
-    ],
+    "creators": [],
+    "contributors": [],
     "communities": [
         {
             "identifier": "lexibank"
