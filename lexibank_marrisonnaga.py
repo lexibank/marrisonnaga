@@ -30,34 +30,27 @@ class Dataset(BaseDataset):
         Convert the raw data to a CLDF dataset.
         """
         wl = lingpy.Wordlist(self.raw_dir.joinpath("GEM-CNL.csv").as_posix())
-        concept_lookup = args.writer.add_concepts(
+        concepts = args.writer.add_concepts(
                 id_factory=lambda x: x.id.split('-')[-1]+'_'+slug(x.english),
                 lookup_factory="Name"
                 )
-        language_lookup = args.writer.add_languages(
+        for concept in self.conceptlists[0].concepts.values():
+            for cis in concept.attributes['lexibank_gloss']:
+                if cis not in concepts:
+                    concepts[cis] = concepts[concept.english]
+
+        languages = args.writer.add_languages(
                 lookup_factory="STEDT_Name")
         args.writer.add_sources()
         # check for missing items
         missing = defaultdict(int)
-        for idx, language, concept, value, pos in progressbar(
-            wl.iter_rows("doculect", "concept", "reflex", "gfn")):
-            if concept not in concept_lookup:
-                if pos == "n":
-                    if concept + " (noun)" in concept_lookup:
-                        concept = concept + " (noun)"
-                    else:
-                        missing[concept] += 1
-                elif pos == "adj":
-                    if concept + " (adj.)" in concept_lookup:
-                        concept = concept + " (adj.)"
-                    else:
-                        missing[concept] += 1
-                else:
-                    missing[concept] += 1
-            if concept not in missing:
+        for idx, language, concept, value, pos in wl.iter_rows("doculect", "concept", "reflex", "gfn"):
+            if concept not in concepts:
+                args.log.warning(concept)
+            else:
                 args.writer.add_forms_from_value(
-                    Language_ID=language_lookup[language],
-                    Parameter_ID=concept_lookup[concept],
+                    Language_ID=languages[language],
+                    Parameter_ID=concepts[concept],
                     Value=value,
                     Source=["Marrison1967"],
                 )

@@ -28,14 +28,14 @@ This dataset was digitized by the STEDT project. In order to provide a CLTS-base
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 40
-- **Concepts:** 626
-- **Lexemes:** 19,200
+- **Concepts:** 884
+- **Lexemes:** 27,593
 - **Sources:** 1
-- **Synonymy:** 1.12
+- **Synonymy:** 1.14
 - **Invalid lexemes:** 0
-- **Tokens:** 101,361
-- **Segments:** 114 (0 BIPA errors, 0 CTLS sound class errors, 114 CLTS modified)
-- **Inventory size (avg):** 38.38
+- **Tokens:** 137,187
+- **Segments:** 124 (0 BIPA errors, 0 CTLS sound class errors, 124 CLTS modified)
+- **Inventory size (avg):** 40.30
 
 # Contributors
 

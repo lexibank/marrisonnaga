@@ -4,31 +4,54 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 9_angry,angry,1826,ANGRY
 10_animal,animal,619,ANIMAL
 11_ankle,ankle,803,ANKLE
+12_toanswer,to answer,1275,ANSWER
 13_antgeneric,ant (generic),587,ANT
 14_antblack,ant (black),,
 15_antred,ant (red),,
+16_antwhitetermite,ant (white-termite),883,TERMITE
 17_arm,arm,1673,ARM
 18_armlet,armlet,,
+19_toarrive,to arrive,1387,ARRIVE
 20_arrow,arrow,977,ARROW
+21_toascend,to ascend,705,GO UP (ASCEND)
 22_ashes,ashes,646,ASH
+23_toaskaquestion,to ask (a question),1309,ASK (INQUIRE)
+24_toaskfor,to ask for,1828,ASK (REQUEST)
 25_at,at,1461,AT
 26_aunt,aunt,1272,AUNT
+27_toawaketoawaken,"to awake, to awaken",825,AWAKE
 28_axe,axe,677,AXE
 29_baby,baby,1289,BABY
+30_backofthebody,Back (of the body),1291,BACK
 31_bad,bad,1292,BAD
 32_bag,bag,2468,BAG
 33_bamboo,bamboo,1927,BAMBOO
 34_banana,banana,868,BANANA
+35_bankedge,Bank (edge),3463,RIVERBANK
+36_barkoftree,Bark (of tree),1204,BARK
+37_basketgeneric,Basket (generic),1539,BASKET
+38_basketbackmans,"Basket (back,man's)",,
+39_basketbackwomans,"Basket (back,woman's)",,
+40_basketlargestorage,"Basket (large,storage)",,
+41_batanimal,Bat (animal),1793,BAT
+42_tobe,to be,1579,BE
 43_bead,bead,1860,BEAD
 44_beam,beam,1132,BEAM
 45_bean,bean,832,BEAN
+46_abear,a bear,1820,BEAR
+47_tobearachild,to bear (a child),1195,GIVE BIRTH
+48_tobearfruit,to bear (fruit),3054,BEAR FRUIT
 49_beard,beard,678,BEARD
+50_tobeat,to beat,1665,BEAT
 51_beautiful,beautiful,1427,BEAUTIFUL
 52_because,because,1157,BECAUSE
+53_tobecome,to become,1990,BECOME
 54_bed,bed,1663,BED
 55_bee,bee,665,BEE
 56_beetle,beetle,2242,BEETLE
 57_before,before,1882,BEFORE
+58_tobegin,to begin,3447,BEGIN OR START
+59_tobelieve,to believe,1890,BELIEVE
 60_bellows,bellows,3658,BELLOWS
 61_belly,belly,1251,BELLY
 62_beltgirdle,belt (girdle),772,BELT
@@ -37,15 +60,20 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 65_betelnut,betel (nut),,
 66_between,between,689,BETWEEN
 67_big,big,1202,BIG
+68_tobind,to bind,1917,TIE
 69_bird,bird,937,BIRD
+70_tobite,to bite,1403,BITE
 71_bitter,bitter,887,BITTER
 72_black,black,163,BLACK
 73_bladder,bladder,1746,BLADDER
+74_tobless,to bless,391,BLESS
 75_blind,blind,1653,BLIND
 76_blood,blood,946,BLOOD
+77_toblow,to blow,176,BLOW (WITH MOUTH)
 78_blunt,blunt,379,BLUNT
 79_boat,boat,1844,BOAT
 80_body,body,1480,BODY
+81_toboil,to boil,2493,BOIL
 82_bone,bone,1394,BONE
 83_book,book,963,BOOK
 84_bowforshooting,bow (for shooting),994,BOW
@@ -57,9 +85,13 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 90_brass,brass,3743,BRASS
 91_brave,brave,3,BRAVE
 92_bread,bread,1368,BREAD
+93_tobreak,to break,680,BREAK (DESTROY OR GET DESTROYED)
 94_breast,breast,1402,BREAST
+95_tobreathe,to breathe,1407,BREATHE
 96_bride,bride,1266,BRIDE
 97_bridge,bridge,1011,BRIDGE
+98_tobring,to bring,692,BRING
+99_brinjalbenganeggplant,"brinjal (bengan, egg plant)",1146,AUBERGINE
 100_broad,broad,2531,BROAD
 101_broom,broom,245,BROOM
 102_brotherelder,brother (elder),1759,OLDER BROTHER
@@ -67,16 +99,24 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 104_bud,bud,1684,BUD
 105_buffalo,buffalo,934,BUFFALO
 106_bug,bug,1027,BUG
+107_tobuild,to build,1840,BUILD
 108_bull,bull,1008,BULL
 109_bullet,bullet,1114,BULLET
+110_toburn,to burn,2102,BURN
+111_tobury,to bury,1719,BURY
 112_bush,bush,1683,BUSH
 113_but,but,,
 114_butterfly,butterfly,1791,BUTTERFLY
+115_tobuy,to buy,1869,BUY
 116_bymeansof,by means of,,
 117_calfofcow,calf (of cow),1989,CALF
 118_calfofleg,calf (of leg),498,CALF OF LEG
-121_cane,cane,146,SUGAR CANE
+121_cane,cane,,
+122_tocarrygeneric,to carry (generic),700,CARRY
+123_tocarryinhand,to carry (in hand),412,CARRY IN HAND
+124_tocarryonback,to carry (on back),465,CARRY ON BACK
 125_cat,cat,1208,CAT
+126_tocatch,to catch,702,CATCH
 127_caterpillar,caterpillar,2247,CATERPILLAR
 128_cattle,cattle,1153,CATTLE
 129_cave,cave,1155,CAVE
@@ -86,12 +126,17 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 133_charcoal,charcoal,1188,CHARCOAL
 134_cheap,cheap,1887,CHEAP
 135_cheek,cheek,1730,CHEEK
+136_chestofbody,chest (of body),1592,CHEST
 137_chicken,chicken,1318,CHICKEN
+138_achief,a chief,301,CHIEFTAIN
 139_child,child,2099,CHILD
 140_chillie,chillie,919,CHILI PEPPER
+141_thechin,the chin,1510,CHIN
+142_tochoose,to choose,1750,CHOOSE
 143_claw,claw,72,CLAW
 144_clay,clay,1399,CLAY
 145_clean,clean,704,CLEAN
+146_toclimb,to climb,1102,CLIMB
 147_clock,clock,1323,CLOCK
 148_cloth,cloth,1616,CLOTH
 149_clothes,clothes,1895,CLOTHES
@@ -100,18 +145,30 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 152_cock,cock,1511,ROOSTER
 153_cold,cold,1287,COLD
 154_comb,comb,1475,COMB
+155_tocome,to come,1446,COME
+156_tocook,to cook,1100,COOK (SOMETHING)
 157_copper,copper,1825,COPPER
 158_cotton,cotton,1850,COTTON
+159_tocough,to cough,879,COUGH
+160_tocount,to count,1420,COUNT
 161_country,country,1300,COUNTRY
+162_tocover,to cover,761,COVER
 163_cow,cow,1007,COW
 164_cowrie,cowrie,3663,COWRIE SHELL
 165_crab,crab,2348,CRAB
 166_creeper,creeper,,
 167_crooked,crooked,297,CROOKED
+168_acrow,a crow,913,CROW
 169_cruel,cruel,500,CRUEL
+170_tocrytoweep,to cry (to weep),1839,CRY
 171_cucumber,cucumber,496,CUCUMBER
 172_cup,cup,476,CUP
 173_curry,curry,,
+174_tocurse,to curse,8,CURSE
+175_tocutgeneric,to cut (generic),1432,CUT
+176_tocutwithknife,to cut (with knife),2156,CUT (WITH KNIFE)
+177_tocutwithaxe,to cut (with axe),3151,CUT (WITH AXE)
+178_todance,to dance,1879,DANCE
 179_dao,dao,,
 180_dark,dark,706,DARK
 181_daughter,daughter,1357,DAUGHTER
@@ -119,18 +176,29 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 183_day,day,1225,DAY (NOT NIGHT)
 184_deaf,deaf,996,DEAF
 185_dearexpensive,dear (expensive),1426,EXPENSIVE
+186_todeceive,to deceive,3230,DECEIVE
 187_deep,deep,1593,DEEP
 188_deergeneric,deer (generic),1936,DEER
 189_deerbarking,deer (barking),3152,MUNTJACS
 190_deersambhur,deer (sambhur),,
+191_todescend,to descend,2014,GO DOWN (DESCEND)
+192_todesire,to desire,2117,DESIRE
 193_dew,dew,1977,DEW
+194_diarrhoea,diarrhoea,1177,DIARRHEA
+195_todie,to die,1494,DIE
 196_difficult,difficult,584,DIFFICULT
+197_todig,to dig,1418,DIG
 198_dirty,dirty,1230,DIRTY
 199_dish,dish,481,DISH
+200_ditch,ditch ,2002,DITCH
+201_todivide,to divide,1119,DIVIDE
+202_todo,to do,813,DO
 203_dog,dog,2009,DOG
 204_door,door,1567,DOOR
 205_dove,dove,1853,DOVE
 206_down,down,1326,DOWN
+207_adream,a dream,2374,DREAM
+208_todrink,to drink,1401,DRINK
 209_drum,drum,908,DRUM
 210_dry,dry,1398,DRY
 211_duck,duck,1360,DUCK
@@ -146,6 +214,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 221_earthquake,earthquake,6,EARTHQUAKE
 222_east,east,1877,EAST
 223_easy,easy,686,EASY
+224_toeat,to eat,1336,EAT
 225_egg,egg,744,EGG
 226_eight,eight,1705,EIGHT
 227_eighteen,eighteen,1713,EIGHTEEN
@@ -157,18 +226,23 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 233_end,end,742,END (OF SPACE)
 234_enemy,enemy,1358,ENEMY
 235_enough,enough,1881,ENOUGH
+236_toenter,to enter,749,ENTER
 237_evening,evening,1629,EVENING
 238_every,every,98,ALL
+239_toextinguish,to extinguish,127,EXTINGUISH
 240_eye,eye,1248,EYE
 241_face,face,1560,FACE
-242_faith,faith,1890,BELIEVE
+242_faith,faith,,
+243_tofall,to fall,1280,FALL
 244_false,false,3069,FALSE
 245_far,far,1406,FAR
 246_fastquick,fast (quick),1631,FAST
+247_tofast,to fast,303,ABSTAIN FROM FOOD
 248_fatnoun,fat (noun),2095,FAT (FOR NOURISHMENT)
-249_fatadj,fat (adj.),1279,FAT (OBESE)
 250_father,father,1217,FATHER
+251_tofear,to fear,1419,FEAR (BE AFRAID)
 252_feather,feather,1201,FEATHER
+253_tofell,to fell,355,CUT DOWN
 254_fence,fence,1690,FENCE
 255_fern,fern,3802,FERN
 256_fever,fever,1534,FEVER
@@ -177,7 +251,11 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 259_fifteen,fifteen,1709,FIFTEEN
 260_fifty,fifty,1717,FIFTY
 261_fig,fig,322,FIG
+262_tofight,to fight,1423,FIGHT
+263_tofill,to fill,2006,FILL
+264_tofind,to find,719,FIND
 265_finger,finger,1303,FINGER
+266_tofinish,to finish,1766,FINISH
 267_fire,fire,221,FIRE
 268_first,first,728,FIRST
 269_fish,fish,227,FISH
@@ -188,8 +266,11 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 274_flood,flood,613,HIGH TIDE
 275_floor,floor,1632,FLOOR
 276_flour,flour,1594,FLOUR
+277_toflow,to flow,2003,FLOW
 278_flower,flower,239,FLOWER
 279_flute,flute,777,FLUTE
+280_afly,a fly,1504,FLY (INSECT)
+282_tofollow,to follow,1085,FOLLOW
 283_food,food,256,FOOD
 284_fool,fool,1438,FOOL
 285_foot,foot,1301,FOOT
@@ -197,6 +278,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 287_forehead,forehead,123,FOREHEAD
 288_foreigner,foreigner,,
 289_forest,forest,420,FOREST
+290_toforget,to forget,1523,FORGET
+291_toforgive,to forgive,1528,FORGIVE
 292_forty,forty,1716,FORTY
 293_four,four,1500,FOUR
 294_fourteen,fourteen,2451,FOURTEEN
@@ -208,8 +291,14 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 300_full,full,1429,FULL
 301_garden,garden,586,GARDEN
 302_garlic,garlic,2368,GARLIC
+303_togather,to gather,7,GATHER
+304_toget,to get,694,GET
 305_ginger,ginger,2500,GINGER
 306_girl,girl,1646,GIRL
+307_togive,to give,1447,GIVE
+308_gladtobe,glad (to be),1495,HAPPY
+309_togo,to go,695,GO
+310_togoout,to go out,1107,GO OUT
 311_goat,goat,1502,GOAT
 312_god,God,1944,GOD
 313_gold,gold,1369,GOLD
@@ -220,7 +309,11 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 318_grandmother,grandmother,1496,GRANDMOTHER
 319_grass,grass,606,GRASS
 320_grasshopper,grasshopper,607,GRASSHOPPER
+321_agrave,a grave,1773,GRAVE
 322_great,great,1202,BIG
+323_greencolour,green (colour),1425,GREEN
+324_togrind,to grind,1033,GRIND
+325_togrow,to grow,479,GROW
 326_gumoftree,gum (of tree),,
 327_gun,gun,1566,GUN
 328_hairofhead,hair (of head),2648,HAIR (HEAD)
@@ -228,24 +321,34 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 330_half,half,816,HALF
 331_hand,hand,1277,HAND
 332_hard,hard,1884,HARD
+333_hathelmet,"hat,helmet",1680,HELMET
+334_tohate,to hate,1607,HATE
 335_hawk,hawk,307,HAWK
 336_he,he,1211,HE
 337_head,head,1256,HEAD
+338_toheal,to heal,499,CURE
+339_tohear,to hear,1408,HEAR
 340_heart,heart,1223,HEART
 341_hearth,hearth,185,FIREPLACE
 342_heavy,heavy,1210,HEAVY
 343_heddle,heddle,,
 344_heel,heel,980,HEEL
+345_tohelp,to help,1897,HELP
 346_hen,hen,1514,HEN
 347_here,here,136,HERE
+348_tohide,to hide,2486,HIDE
 349_high,high,2790,HIGH OR TALL
 350_hill,hill,614,HILL
 351_hip,hip,1745,HIP
+352_tohit,to hit,1433,HIT
 353_hoe,hoe,284,HOE
+354_tohold,to hold,1448,HOLD
 355_hole,hole,1667,HOLE
 356_honey,honey,942,HONEY
 357_hoof,hoof,152,HOOF
 358_hook,hook,1071,HOOK
+359_tohop,to hop,,
+360_tohope,to hope,3212,HOPE (SOMETHING)
 361_horn,horn,1393,HORN (ANATOMY)
 362_hornbill,hornbill,3260,HORNBILL
 363_hornet,hornet,3261,HORNET
@@ -255,6 +358,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 367_how,how,1239,HOW
 368_hundred,hundred,1634,HUNDRED
 369_hungry,hungry,1533,BE HUNGRY
+370_tohunt,to hunt,1435,HUNT
 371_husband,husband,1200,HUSBAND
 372_husk,husk,2501,RICE HUSK
 373_i,I,1209,I
@@ -267,17 +371,27 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 380_ivory,ivory,3800,IVORY
 381_jackal,jackal,3313,JACKAL
 382_jaw,jaw,798,JAW
+383_jawsharp,Jaw's harp,,
+384_jobstearscoix,Job's tears(coix),,
+385_tojoin,to join,1743,JOIN
 386_judgment,judgment,1067,JUDGMENT
 387_juice,juice,1499,JUICE
+388_tojump,to jump,1829,JUMP
 389_jungle,jungle,3808,JUNGLE
+390_tokeep,to keep,1477,KEEP
 391_key,key,1472,KEY
+392_tokick,to kick,1135,KICK
 393_kidney,kidney,489,KIDNEY
+394_tokill,to kill,1417,KILL
 395_kindsort,kind (sort),844,KIND (THING)
 396_king,king,1508,KING
+397_tokiss,to kiss,578,KISS
 398_kitchen,kitchen,1365,KITCHEN
 399_knee,knee,1371,KNEE
 400_knife,knife,1352,KNIFE
+401_toknock,to knock,2396,KNOCK
 402_knotinstring,knot (in string),760,KNOT
+403_toknow,to know,3626,KNOW
 404_ladder,ladder,1464,LADDER
 405_ladle,ladle,2657,LADLE
 406_lake,lake,624,LAKE
@@ -286,33 +400,51 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 409_land,land,626,LAND
 410_language,language,1307,LANGUAGE
 412_late,late,477,LATE
+413_tolaugh,to laugh,1355,LAUGH
 414_law,law,1062,LAW
 415_lazy,lazy,1564,LAZY
+416_tolead,to lead,43,LEAD (GUIDE)
 417_leaf,leaf,628,LEAF
+418_tolearn,to learn,504,LEARN
 419_leather,leather,629,LEATHER
 420_leech,leech,2273,LEECH
+421_lefthand,Left-hand,2182,LEFT HAND
 422_leg,leg,1297,LEG
 423_lemon,lemon,3091,LEMON
 424_leopard,leopard,1139,LEOPARD
 425_leper,leper,,
 426_letter,letter,1612,LETTER
+427_tolick,to lick,319,LICK
+428_toliedown,to lie down,215,LIE DOWN
+429_tolietodeceive,to lie (to deceive),601,LIE (MISLEAD)
 430_life,life,210,LIFE
+431_tolift,to lift,501,LIFT
 432_lightbright,light (bright),679,BRIGHT
 433_lightofweight,light (of weight),1052,LIGHT (WEIGHT)
+434_tolightignite,to light (ignite),737,LIGHT (IGNITE)
 435_lightning,lightning,1654,LIGHTNING
 436_likeas,like (as),1558,SIMILAR
 437_lip,lip,478,LIP
+438_tolisten,to listen,1608,LISTEN
+439_alittle,a little,2924,A LITTLE
+440_tolivetobealive,to live (to be alive),1422,BE ALIVE
 441_liver,liver,1224,LIVER
 442_lizard,lizard,632,LIZARD
 443_locust,locust,810,LOCUST
 444_loincloth,loincloth,1965,LOINCLOTH
 445_long,long,1203,LONG
+446_tolookat,to look at,1819,LOOK
+447_tolookfor,to look for,1468,LOOK FOR
 448_loom,loom,1787,LOOM
 449_lord,lord,3153,LORD
+450_tolose,to lose,1660,LOSE
 451_louse,louse,1392,LOUSE
+452_tolove,to love,923,LOVE
 453_low,low,3348,LOW (POSITION OR HEIGHT)
 454_lungs,lungs,688,LUNG
+455_mad,mad,1899,MAD
 456_maize,maize,506,MAIZE
+457_tomake,to make,734,MAKE
 458_manmale,man (male),2106,MALE PERSON
 459_manmankind,man (mankind),683,PERSON
 460_mango,mango,2398,MANGO
@@ -322,9 +454,11 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 464_mat,mat,195,MAT
 465_meat,meat,634,MEAT
 466_meet,meet,1831,MEET
+467_tomend,to mend,2243,REPAIR
 468_middle,middle,1093,MIDDLE
 469_milk,milk,635,MILK
 470_millet,millet,931,MILLET
+471_themind,the mind,1562,MIND
 472_mist,mist,249,FOG
 473_mistake,mistake,1293,MISTAKE
 474_mithangayalbosfontalis,"mithan (gayal, bos fontalis)",,
@@ -342,6 +476,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 486_mountain,mountain,639,MOUNTAIN
 487_mouse,mouse,1491,MOUSE
 488_mouth,mouth,674,MOUTH
+489_tomove,to move,765,MOVE
 490_much,much,3452,MUCH
 491_mud,mud,640,MUD
 492_must,must,971,MUST
@@ -355,6 +490,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 500_neck,neck,1333,NECK
 501_necklace,necklace,1961,NECKLACE
 502_needle,needle,1382,NEEDLE (FOR SEWING)
+503_neighbour,neighbour,1332,NEIGHBOUR
 504_nest,nest,539,NEST
 505_net,net,2963,NET
 506_never,never,1656,NEVER
@@ -369,6 +505,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 518_not,not,1240,NOT
 519_now,now,1376,NOW
 520_oath,oath,1712,OATH
+521_toobey,to obey,1635,OBEY
 522_oil,oil,2556,OIL (HYDROPHOBIC LIQUID)
 523_oldofthings,old (of things),2113,OLD (USED)
 524_oldofpersons,old (of persons),2112,OLD (AGED)
@@ -377,6 +514,9 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 527_on,on,,
 529_onion,onion,2366,ONION
 530_only,only,1580,ONLY
+531_toopen,to open,1156,OPEN
+532_anorange,an orange,2627,ORANGE (FRUIT)
+533_toorder,to order,1128,ORDER
 534_orphan,orphan,1149,ORPHAN
 535_other,other,197,OTHER
 536_otter,otter,15,OTTER
@@ -386,18 +526,25 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 540_pain,pain,1783,PAIN
 541_palmofhand,palm (of hand),1183,PALM OF HAND
 542_panjibamboostake,panji (bamboo stake),,
+543_topassby,to pass by,558,PASS BY
+544_topay,to pay,718,PAY
 545_peace,peace,1338,PEACE
 546_peacock,peacock,3382,PEACOCK
 547_pearl,pearl,3325,PEARL
 548_pen,pen,794,PEN
 549_people,people,789,PEOPLE
 550_person,person,683,PERSON
+551_topierce,to pierce,398,PIERCE
 552_pigdomestic,pig (domestic),1337,PIG
 553_pigwild,pig (wild),3154,WILD BOAR
-554_pigeon,pigeon,1853,DOVE
+554_pigeon,pigeon,,
 555_pillow,pillow,1044,PILLOW
 556_pipetobacco,pipe (tobacco),1124,PIPE
+557_aplace,a place,723,PLACE (POSITION)
+558_theplains,the plains,652,PLAIN
 559_plate,plate,480,PLATE
+560_toplayagame,to play (a game),3125,PLAY (GAME)
+561_toplaymusic,to play (music),3124,PLAY (INSTRUMENT)
 562_poison,poison,655,POISON
 563_pool,pool,,
 564_poor,poor,1674,POOR
@@ -405,19 +552,35 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 566_postofhouse,post (of house),281,POST
 567_pot,pot,1462,POT
 568_power,power,2526,POWER
+569_topraise,to praise,3455,COMMEND
+570_topray,to pray,24,PRAY
 571_pregnant,pregnant,1123,PREGNANT
+572_toprepare,to prepare,2909,PREPARE
+573_topress,to press,1913,PRESS
 574_price,price,657,PRICE
 575_priest,priest,852,PRIEST
 576_prison,prison,1281,PRISON
 577_proud,proud,174,PROUD
+578_topull,to pull,1455,PULL
 579_pumpkin,pumpkin,864,PUMPKIN
+580_topush,to push,1452,PUSH
+581_toput,to put,998,PUT
+582_toquarrel,to quarrel,1848,QUARREL
+583_aquestion,a question,,
 584_quiet,quiet,1314,QUIET
+585_therain,the rain,658,RAIN (PRECIPITATION)
 586_rainbow,rainbow,1733,RAINBOW
+587_toraise,to raise,501,LIFT
 588_rake,rake,338,RAKE
 589_rat,rat,1490,RAT
 590_rawunripe,raw (unripe),1959,RAW
+591_toread,to read,724,READ
+592_toreap,to reap,190,MOW
+593_toreceive,to receive,694,GET
 594_red,red,156,RED
 595_reed,reed,659,REED
+596_toremain,to remain,987,REMAIN
+597_toreturncomeback,to return (come back),581,COME BACK
 598_rhinoceros,rhinoceros,2591,RHINOCEROS
 599_rib,rib,801,RIB
 600_ricepaddy,rice (paddy),2026,RICE PLANT
@@ -425,7 +588,11 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 602_ricecooked,rice (cooked),1191,COOKED RICE
 603_ricebeer,rice-beer,,
 604_rich,rich,712,RICH
+605_right,right,1725,CORRECT (RIGHT)
+606_righthand,Right-hand,2183,RIGHT HAND
+607_aringfingerring,a ring (finger ring),1374,RING
 608_ripe,ripe,178,RIPE
+609_torise,to rise,3207,GO UP OR RISE (ONESELF)
 610_river,river,666,RIVER
 611_road,road,2457,PATH OR ROAD
 612_roof,roof,769,ROOF
@@ -434,33 +601,52 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 615_rope,rope,1218,ROPE
 616_rotten,rotten,1728,ROTTEN
 617_rough,rough,1923,ROUGH
+618_roundadj,round (adj),1395,ROUND
+619_torub,to rub,1449,RUB
+620_torun,to run,1519,RUN
 621_rust,rust,3064,RUST
 622_sacrifice,sacrifice,1103,SACRIFICE
 623_sad,sad,699,SAD
-624_salary,salary,718,PAY
+624_salary,salary,1122,WAGES
 625_salt,salt,1274,SALT
 626_sand,sand,671,SAND
+627_tosave,to save,1997,PRESERVE
+628_asaw,a saw,1948,SAW
+629_tosay,to say,1458,SAY
 630_scalesbalance,scales (balance),2783,SCALES (MEASURE INSTRUMENT)
 631_scissors,scissors,356,SHEARS
 632_scorpion,scorpion,1538,SCORPION
+633_toscratch,to scratch,1436,SCRATCH
 634_sea,sea,1474,SEA
+635_secondadj,second (adj),1384,SECOND
+636_tosee,to see,1409,SEE
 637_seed,seed,714,SEED
+638_toseek,to seek,1468,LOOK FOR
+639_toseize,to seize,855,SEIZE
 640_self,self,1993,SELF
+641_tosell,to sell,1571,SELL
+642_tosend,to send,1127,SEND
 643_serow,serow,3270,SEROW
 644_servant,servant,255,SERVANT
+645_toserve,to serve,3648,SERVE (SOMEONE)
 646_seven,seven,1704,SEVEN
 647_seventeen,seventeen,2453,SEVENTEEN
 648_seventy,seventy,1721,SEVENTY
+649_tosew,to sew,1457,SEW
 650_shadow,shadow,1388,SHADE
+651_toshake,to shake,1909,SHAKE
 652_shallow,shallow,193,SHALLOW
 653_shame,shame,1776,SHAME
 654_sharp,sharp,1396,SHARP
 655_sheep,sheep,1331,SHEEP
 656_shell,shell,598,SHELL
 657_shield,shield,1064,SHIELD
+658_toshine,to shine,708,SHINE
 659_shoe,shoe,1381,SHOE
+660_toshoot,to shoot,1172,SHOOT
 661_short,short,1645,SHORT
 662_shoulder,shoulder,1482,SHOULDER
+663_toshout,to shout,715,SHOUT
 664_shut,shut,1046,SHUT
 665_shuttle,shuttle,543,SHUTTLE
 666_sick,sick,1847,SICK
@@ -468,20 +654,29 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 668_sideofbody,side (of body),3344,SIDE (BODY)
 669_silver,silver,759,SILVER
 670_sin,sin,2971,SIN
+671_tosing,to sing,1261,SING
+672_tosink,to sink,1088,SINK (DESCEND)
 673_sisterelder,sister (elder),1758,OLDER SISTER
 674_sisteryounger,sister (younger),1761,YOUNGER SISTER
+675_tosit,to sit,1416,SIT
 679_skin,skin,763,SKIN
 680_skirt,skirt,1600,SKIRT
 681_skull,skull,1605,SKULL
 682_sky,sky,1732,SKY
 683_slave,slave,812,SLAVE
+684_tosleep,to sleep,1585,SLEEP
+685_toslip,to slip,1324,SLIP
 686_slow,slow,701,SLOW
 687_small,small,1246,SMALL
+688_tosmell,to smell,2124,SMELL
+689_tosmile,to smile,1451,SMILE
 690_smoke,smoke,1689,SMOKE (INHALE)
 691_smooth,smooth,1234,SMOOTH
 692_snail,snail,1543,SNAIL
 693_snake,snake,730,SNAKE
+694_tosneeze,to sneeze,1621,SNEEZE
 695_snow,snow,784,SNOW
+696_tosnore,to snore,1983,SNORE
 697_solikethat,so (like that),2336,OF THIS KIND (SUCH)
 698_soft,soft,1856,SOFT
 699_some,some,1241,SOME
@@ -491,39 +686,64 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 703_soul,soul,811,SOUL
 704_sour,sour,1906,SOUR
 705_south,south,1595,SOUTH
+706_tosow,to sow,748,SOW SEEDS
 707_sparrow,sparrow,1854,SPARROW
+708_tospeak,to speak,1623,SPEAK
 709_spear,spear,945,SPEAR
 710_speech,speech,1115,SPEECH
 711_spider,spider,843,SPIDER
+712_tospincotton,to spin (cotton),121,SPIN
 713_spindlecotton,spindle (cotton),277,SPINDLE
 714_spirit,spirit,3231,DEITY
+715_tospit,to spit,1440,SPIT
+716_tosplit,to split,1437,SPLIT
 717_spoon,spoon,1378,SPOON
 718_square,square,850,SQUARE
+719_tosqueeze,to squeeze,1414,SQUEEZE
+720_tosquirrel,to squirrel,1628,SQUIRREL
+721_tostand,to stand,1442,STAND
 722_star,star,1430,STAR
+723_tosteal,to steal,713,STEAL
+724_astick,a stick,1295,STICK
+725_tosting,to sting,571,STING
+726_tostink,to stink,42,STINKING
 727_stone,stone,857,STONE
 728_storm,storm,858,STORM
 729_straight,straight,1404,STRAIGHT
 730_straw,straw,2299,STRAW
 731_strong,strong,785,STRONG
+732_tosuck,to suck,1421,SUCK
 733_suddenly,suddenly,2920,SUDDENLY
+734_tosuffer,to suffer,1101,SUFFER
 735_sugar,sugar,862,SUGAR
 736_sugarcane,sugar-cane,146,SUGAR CANE
 737_sulphurbrimstone,sulphur (brimstone),,
 738_summer,summer,1342,SUMMER
 739_sun,sun,1343,SUN
+740_toswallow,to swallow,897,SWALLOW
+741_toswear,to swear,1939,SWEAR
 742_sweat,sweat,125,SWEAT (SUBSTANCE)
+743_tosweep,to sweep,230,SWEEP
 744_sweet,sweet,717,SWEET
+745_toswim,to swim,1439,SWIM
 746_sword,sword,1535,SWORD
-747_swordweaving,sword (weaving),1535,SWORD
+747_swordweaving,sword (weaving),,
 748_table,table,1775,TABLE
 749_tail,tail,1220,TAIL
+750_totake,to take,1749,TAKE
+751_totalk,to talk,2708,TALK
 752_tall,tall,711,TALL
 753_taro,taro,351,TARO
+754_totaste,to taste,21,TASTE (SOMETHING)
 755_tax,tax,873,TAX
 756_tea,tea,1373,TEA
+757_toteach,to teach,709,TEACH
 758_teacher,teacher,1038,TEACHER
+759_totear,to tear,1735,TEAR (SHRED)
 760_tearsweeping,tears (weeping),1651,TEAR (OF EYE)
+762_tothank,to thank,2412,THANK (SOMBEODY)
 763_thatadj,that (adj.),78,THAT
+764_tothatch,to thatch,,
 765_then,then,2921,THEN
 766_there,there,1937,THERE
 767_they,they,817,THEY
@@ -533,14 +753,17 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 771_thigh,thigh,471,UPPER LEG (THIGH)
 772_thin,thin,2308,THIN
 773_thing,thing,738,THING
+774_tothink,to think,2271,THINK
 776_thirsty,thirsty,847,THIRSTY
 779_thisadj,this (adj.),1214,THIS
 780_thorn,thorn,124,THORN
 781_thou,thou,1215,THOU
 783_thread,thread,1161,THREAD
 785_throat,throat,1346,THROAT
+786_tothrow,to throw,1456,THROW
 787_thumb,thumb,1781,THUMB
 788_thunder,thunder,1150,THUNDER
+789_totie,to tie,1917,TIE
 790_tiger,tiger,846,TIGER
 791_tight,tight,3053,TIGHT
 792_time,time,892,TIME
@@ -554,41 +777,66 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 800_tongue,tongue,1205,TONGUE
 801_tonight,tonight,,
 802_tooth,tooth,1380,TOOTH
+803_tophighestpoint,top (highest point),1753,TOP
 804_torch,torch,1919,TORCH
+805_totouch,to touch,1892,TOUCH
 806_towards,towards,2754,TOWARDS
 807_tower,tower,1671,TOWER
 808_town,town,1391,TOWN
+809_atrap,a trap,1075,TRAP (PITFALL)
 810_tree,tree,906,TREE
+811_totremble,to tremble,52,SHIVER
 812_tribe,tribe,1549,TRIBE
 813_true,true,1657,TRUE
 814_trumpet,trumpet,775,TRUMPET
 815_turmeric,turmeric,2842,TURMERIC
+816_toturnint,to turn (int.),1444,TURN AROUND
 819_two,two,1498,TWO
 820_ugly,ugly,1548,UGLY
 822_uncle,uncle,1327,UNCLE
 823_under,under,1485,BELOW OR UNDER
+824_tounderstand,to understand,1536,UNDERSTAND
+825_tountie,to untie,352,UNTIE
 826_until,until,2753,UNTIL
 827_up,up,1591,UP
 828_urine,urine,1142,URINE
+829_touse,to use,2072,USE (VERB)
 830_valley,valley,921,VALLEY
 831_vegetable,vegetable,924,VEGETABLES
 832_very,very,1311,VERY
 833_village,village,930,VILLAGE
 834_voice,voice,1363,VOICE
+835_tovomit,to vomit,1278,VOMIT
 836_waist,waist,1681,WAIST
+837_towait,to wait,1590,WAIT (FOR)
+838_towalk,to walk,1443,WALK
 839_wall,wall,933,WALL (OF HOUSE)
+840_towant,to want,1784,WANT
 841_war,war,935,WAR
+842_towarn,to warn,,
 843_warploom,warp (loom),,
+844_towashgeneric,to wash (generic),1453,WASH
+845_towashself,to wash (self),3371,WASH (ONESELF)
+846_towashface,to wash (face),,
+847_towashclothes,to wash (clothes),2503,LAUNDER (WASH CLOTHES)
+848_towashpots,to wash (pots),,
 849_water,water,948,WATER
 850_wax,wax,1931,BEESWAX
+851_weinclusive,we (inclusive),1131,WE (INCLUSIVE)
+852_weexclusive,we (exclusive),1130,WE (EXCLUSIVE)
 853_wetwo,we two,2634,WE TWO
 854_weak,weak,1601,WEAK
+855_towear,to wear,976,WEAR
+856_toweave,to weave,133,WEAVE
 857_weft,weft,,
+858_awell,a well,954,WELL
+859_welladv,well(adv.),,
 860_west,west,1817,WEST
 861_wet,wet,1726,WET
 862_what,what?,1236,WHAT
 863_when,when?,1238,WHEN
 864_where,where?,1237,WHERE
+865_towhisper,to whisper,55,WHISPER
 866_white,white,1335,WHITE
 867_who,who?,1235,WHO
 868_whole,whole,2277,WHOLE
@@ -598,20 +846,30 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 872_widow,widow,1756,WIDOW
 873_widower,widower,1981,WIDOWER
 874_wife,wife,1199,WIFE
+875_thewind,the wind,960,WIND
 876_window,window,1375,WINDOW
 877_wing,wing,1257,WING
 878_winter,winter,1471,WINTER
+879_towipe,to wipe,1454,WIPE
 880_wise,wise,698,WISE
+881_towish,to wish,2117,DESIRE
+882_withcum,with (cum),1340,WITH
 883_within,within,1460,IN
+884_withoutsine,without (sine),1478,WITHOUT
 885_witness,witness,1144,WITNESS
 886_wolf,wolf,522,WOLF
 887_woman,woman,962,WOMAN
 888_wonderful,wonderful,,
 889_woodtimber,wood (timber),1803,WOOD
 890_word,word,1599,WORD
+891_workn,work (n),984,WORK (LABOUR)
 892_world,world,965,WORLD
 893_worm,worm,1219,WORM
+894_toworship,to worship,257,WORSHIP
+895_awound,a wound,1109,WOUND
+896_towrap,to wrap,1113,WRAP
 897_wrist,wrist,799,WRIST
+898_towrite,to write,1672,WRITE
 899_wrong,wrong,1390,WRONG
 900_yam,yam,410,YAM
 901_year,year,1226,YEAR
