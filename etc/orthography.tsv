@@ -1,5 +1,10 @@
 Grapheme	IPA
 ś	ś/ʃ
+-$	NULL
+ng	ŋ
+ng:	ŋ +
+*-	NULL
+-_?$	NULL
 ó	ó/o
 ^	NULL
 $	NULL

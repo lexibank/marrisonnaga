@@ -18,7 +18,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/marrisonnaga",
-            "dc:created": "v2.0-13-gc503eae"
+            "dc:created": "v2.0-14-g8f1c770"
         },
         {
             "rdf:type": "prov:Entity",
@@ -30,13 +30,13 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.4.0-15-gdd2e5e6"
+            "dc:created": "v2.4.0-17-ga0ae303"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "CLTS",
             "rdf:about": "https://github.com/cldf-clts/clts/",
-            "dc:created": "v1.4-34-ga2b5dc6"
+            "dc:created": "v1.4-78-g54b0f66"
         }
     ],
     "prov:wasGeneratedBy": [

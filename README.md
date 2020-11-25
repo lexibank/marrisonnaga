@@ -33,9 +33,9 @@ This dataset was digitized by the STEDT project. In order to provide a CLTS-base
 - **Sources:** 1
 - **Synonymy:** 1.14
 - **Invalid lexemes:** 0
-- **Tokens:** 137,187
-- **Segments:** 124 (0 BIPA errors, 0 CTLS sound class errors, 124 CLTS modified)
-- **Inventory size (avg):** 40.30
+- **Tokens:** 131,690
+- **Segments:** 123 (0 BIPA errors, 0 CTLS sound class errors, 123 CLTS modified)
+- **Inventory size (avg):** 40.40
 
 # Contributors
 
