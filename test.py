@@ -1,6 +1,3 @@
-from pylexibank import check_standard_title
-
-
 def test_valid(cldf_dataset, cldf_logger):
     assert cldf_dataset.validate(log=cldf_logger)
 
