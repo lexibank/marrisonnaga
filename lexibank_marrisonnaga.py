@@ -3,10 +3,10 @@ from pathlib import Path
 from pylexibank.dataset import Dataset as BaseDataset
 from pylexibank import Language
 from pylexibank import FormSpec
-from pylexibank.util import progressbar
 from clldutils.misc import slug
 import lingpy
 import attr
+
 
 @attr.s
 class CustomLanguage(Language):
@@ -17,6 +17,7 @@ class CustomLanguage(Language):
     Latitude = attr.ib(default=None)
     Area = attr.ib(default=None)
 
+
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "marrisonnaga"
@@ -25,6 +26,7 @@ class Dataset(BaseDataset):
             missing_data=("*", "---", ""),
             brackets={"[": "]", "(": ")"}
             )
+
     def cmd_makecldf(self, args):
         """
         Convert the raw data to a CLDF dataset.
@@ -42,9 +44,12 @@ class Dataset(BaseDataset):
         languages = args.writer.add_languages(
                 lookup_factory="STEDT_Name")
         args.writer.add_sources()
-        # check for missing items
-        missing = defaultdict(int)
+
         for idx, language, concept, value, pos in wl.iter_rows("doculect", "concept", "reflex", "gfn"):
+            # Fix for 251479
+            if concept == "top (i.e. highest point":
+                concept = "top (i.e. highest point)"
+
             if concept not in concepts:
                 args.log.warning(concept)
             else:
