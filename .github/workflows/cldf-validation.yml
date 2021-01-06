@@ -23,7 +23,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install pytest-cldf pylexibank
+        pip install pytest-cldf
     - name: Test with pytest
       run: |
         pytest --cldf-metadata=cldf\cldf-metadata.json test.py

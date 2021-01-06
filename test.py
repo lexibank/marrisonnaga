@@ -16,7 +16,3 @@ def test_parameters(cldf_dataset):
 
 def test_languages(cldf_dataset):
     assert len(list(cldf_dataset["LanguageTable"])) == 40
-
-
-def test_valid_title(cldf_dataset, cldf_logger):
-    check_standard_title(cldf_dataset.metadata_dict["dc:title"])
