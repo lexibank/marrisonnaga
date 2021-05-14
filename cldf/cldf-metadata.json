@@ -8,7 +8,7 @@
     ],
     "dc:identifier": "http://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/source/GEM-CNL",
     "dc:isVersionOf": null,
-    "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Marrison's \"Naga Languages of North-East India\" from 1967",
@@ -18,7 +18,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/marrisonnaga",
-            "dc:created": "v2.0-15-g5353948"
+            "dc:created": "v2.0-16-gd193f7c"
         },
         {
             "rdf:type": "prov:Entity",
@@ -57,7 +57,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 27593,
+            "dc:extent": 27594,
             "tableSchema": {
                 "columns": [
                     {
