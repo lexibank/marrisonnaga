@@ -5,6 +5,8 @@ ng	ŋ
 ng:	ŋ +
 *-	NULL
 -_?$	NULL
+^*-	NULL
+tz	ts
 ó	ó/o
 ^	NULL
 $	NULL
