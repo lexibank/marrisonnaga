@@ -1,8 +1,16 @@
 # CLDF dataset derived from Marrison's "Naga Languages of North-East India" from 1967
 
-Cite the source dataset as
+[![CLDF validation](https://github.com/lexibank/marrisonnaga/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/marrisonnaga/actions?query=workflow%3ACLDF-validation)
 
-> Marrison, Geoffrey Edward (1967) : The classification of the Naga languages of North-East India. London: School of African and Oriental Sciences.
+## How to cite
+
+If you use these data please cite
+- the original source
+  > Marrison, Geoffrey Edward (1967) : The classification of the Naga languages of North-East India. London: School of African and Oriental Sciences.
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
 
 This dataset is licensed under a CC-BY-4.0 license
 
@@ -48,3 +56,10 @@ STEDT      |                     | digitization | Editor, Distributor
 Marrison, G. E. | | original data collection | Author
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
