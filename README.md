@@ -35,25 +35,25 @@ This dataset was digitized by the STEDT project. In order to provide a CLTS-base
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 40
-- **Concepts:** 884
+- **Varieties:** 40 (linked to 39 different Glottocodes)
+- **Concepts:** 884 (linked to 827 different Concepticon concept sets)
 - **Lexemes:** 27,594
 - **Sources:** 1
 - **Synonymy:** 1.14
 - **Invalid lexemes:** 0
 - **Tokens:** 131,654
-- **Segments:** 123 (0 BIPA errors, 0 CTLS sound class errors, 123 CLTS modified)
+- **Segments:** 123 (0 BIPA errors, 0 CLTS sound class errors, 123 CLTS modified)
 - **Inventory size (avg):** 40.40
 
 # Contributors
 
-Name               | GitHub user | Description | Role
----                | ---         | --- | ---
-Johann-Mattis List | @LinguList  | maintainer | Other
-Mei-Shin Wu        | @MacyL      | maintainer | Other
-Tiago Tresoldi     | @tresoldi   | help with coding | Other
-STEDT      |                     | digitization | Editor, Distributor
-Marrison, G. E. | | original data collection | Author
+Name                 | GitHub user | Description                         | Role
+---                  | ---         | ---                                 | ---
+Johann-Mattis List   | @LinguList  | maintainer                          | Editor
+Mei-Shin Wu          | @MacyL      | concepts, profile, language mapping | Other
+Tiago Tresoldi       | @tresoldi   | help with coding                    | Other
+STEDT                |             | digitization                        | Distributor
+Geoffrey E. Marrison |             | original data collection            | Author
 
 
 
