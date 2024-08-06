@@ -19,6 +19,8 @@ class CustomLanguage(pylexibank.Language):
 class Dataset(pylexibank.Dataset):
     dir = Path(__file__).parent
     id = "marrisonnaga"
+    writer_options = dict(keep_languages=False, keep_parameters=False)
+
     language_class = CustomLanguage
     form_spec = pylexibank.FormSpec(missing_data=("*", "---", ""), brackets={"[": "]", "(": ")"})
 
